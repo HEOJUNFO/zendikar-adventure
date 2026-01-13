@@ -1,0 +1,808 @@
+{
+  "magic": [
+    {
+      "id": "M-mkcfq7pc",
+      "createdAt": "2026-01-13T10:14:28.224Z",
+      "name": "Archmage Ascension",
+      "type": "승천술",
+      "school": "지식/비전",
+      "difficulty": "전설적",
+      "description": "대마법사의 승천. 끊임없는 지식 탐구 끝에 도달하는 마법의 정점. 원하는 모든 지식을 즉시 떠올릴 수 있게 된다.",
+      "effect": "완벽한 지식 접근 - 필요한 주문을 즉시 기억해낼 수 있음",
+      "requirements": [
+        "수년간의 마법 연구",
+        "지속적인 지식 습득"
+      ],
+      "practitioners": [
+        "대마법사",
+        "현자"
+      ],
+      "cardRef": {
+        "id": "dbfe803d-88d7-4ad2-b3d8-c41c123d8bf3",
+        "name": "Archmage Ascension",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/d/b/dbfe803d-88d7-4ad2-b3d8-c41c123d8bf3.jpg?1562617361"
+      },
+      "chapters": [],
+      "cardEffect": "At the beginning of each end step, if you drew two or more cards this turn, you may put a quest counter on this enchantment.\nAs long as this enchantment has six or more quest counters on it, if you would draw a card, you may instead search your library for a card, put that card into your hand, then shuffle.",
+      "cardStats": {
+        "manaCost": "{2}{U}",
+        "typeLine": "Enchantment",
+        "rarity": "rare",
+        "colors": [
+          "U"
+        ]
+      },
+      "flavorText": "",
+      "updatedAt": "2026-01-13T10:22:35.849Z",
+      "loreDescription": "대마법사의 승천. 끊임없는 지식 탐구와 마법 연구 끝에 도달하는 마법의 정점. 이 경지에 오른 마법사는 필요한 모든 지식을 순간적으로 떠올릴 수 있으며, 우주의 비밀조차 그들 앞에 열린다. 타지임의 머포크 현자들 사이에서 전해지는 궁극의 수련법."
+    },
+    {
+      "id": "M-mkcfq7th",
+      "createdAt": "2026-01-13T10:14:28.373Z",
+      "name": "Beastmaster Ascension",
+      "type": "승천술",
+      "school": "자연",
+      "difficulty": "전설적",
+      "description": "야수조련사의 승천. 충분한 전투를 통해 야수들과 완벽한 유대를 형성하면, 모든 동료 야수가 폭발적으로 강해진다.",
+      "effect": "야수 군단 강화 - 함께하는 모든 생물이 압도적인 힘을 얻음",
+      "requirements": [
+        "수많은 전투 경험",
+        "야수와의 교감"
+      ],
+      "practitioners": [
+        "야수조련사",
+        "드루이드",
+        "레인저"
+      ],
+      "cardRef": {
+        "id": "f404d133-fc1a-4751-ac72-554e6553e486",
+        "name": "Beastmaster Ascension",
+        "set": "ncc",
+        "image": "https://cards.scryfall.io/normal/front/f/4/f404d133-fc1a-4751-ac72-554e6553e486.jpg?1673484492"
+      },
+      "chapters": [],
+      "cardEffect": "Whenever a creature you control attacks, you may put a quest counter on this enchantment.\nAs long as this enchantment has seven or more quest counters on it, creatures you control get +5/+5.",
+      "cardStats": {
+        "manaCost": "{2}{G}",
+        "typeLine": "Enchantment",
+        "rarity": "rare",
+        "colors": [
+          "G"
+        ]
+      },
+      "flavorText": "",
+      "updatedAt": "2026-01-13T10:22:35.851Z",
+      "loreDescription": "야수조련사의 승천. 수많은 전투를 통해 야수들과 완벽한 유대를 형성하면 도달하는 경지. 이 상태에 이르면 함께하는 모든 야수가 폭발적인 힘을 얻어, 작은 곤충도 맹수처럼 강해진다. 무라사 숲의 엘프 드루이드들이 전하는 비전."
+    },
+    {
+      "id": "M-mkcfq7xj",
+      "createdAt": "2026-01-13T10:14:28.519Z",
+      "name": "Pyromancer Ascension",
+      "type": "승천술",
+      "school": "화염",
+      "difficulty": "전설적",
+      "description": "화염술사의 승천. 같은 주문을 반복 숙달하여 완벽한 경지에 오르면, 모든 주문이 자동으로 복제된다.",
+      "effect": "주문 복제 - 시전하는 모든 마법이 두 배의 위력",
+      "requirements": [
+        "주문 반복 숙달",
+        "마법적 각성"
+      ],
+      "practitioners": [
+        "화염술사",
+        "마법사"
+      ],
+      "cardRef": {
+        "id": "0f9cea68-4390-4d73-a374-d6299cbc9271",
+        "name": "Pyromancer Ascension",
+        "set": "mm3",
+        "image": "https://cards.scryfall.io/normal/front/0/f/0f9cea68-4390-4d73-a374-d6299cbc9271.jpg?1593813553"
+      },
+      "chapters": [],
+      "cardEffect": "Whenever you cast an instant or sorcery spell that has the same name as a card in your graveyard, you may put a quest counter on this enchantment.\nWhenever you cast an instant or sorcery spell while this enchantment has two or more quest counters on it, you may copy that spell. You may choose new targets for the copy.",
+      "cardStats": {
+        "manaCost": "{1}{R}",
+        "typeLine": "Enchantment",
+        "rarity": "rare",
+        "colors": [
+          "R"
+        ]
+      },
+      "flavorText": "",
+      "updatedAt": "2026-01-13T10:22:35.852Z",
+      "loreDescription": "화염술사의 승천. 같은 주문을 반복하여 완벽히 숙달하면, 결국 모든 마법이 자동으로 두 배의 위력을 발휘하는 경지에 오른다. 아쿰의 화산에서 수련하는 화염술사들 사이에서 전해지는 전설적인 비법."
+    },
+    {
+      "id": "M-mkcfq81m",
+      "createdAt": "2026-01-13T10:14:28.666Z",
+      "name": "Rite of Replication",
+      "type": "복제술",
+      "school": "비전",
+      "difficulty": "높음",
+      "description": "복제 의식. 대상의 완벽한 복제본을 만들어낸다. 더 많은 마나를 쏟으면 다섯 개의 복제본을 동시에 생성할 수 있다.",
+      "effect": "생물 복제 - 1~5개의 완벽한 복제본 생성",
+      "requirements": [
+        "높은 마나 집중력"
+      ],
+      "practitioners": [
+        "마법사",
+        "환술사"
+      ],
+      "cardRef": {
+        "id": "f8cd4dcc-a731-4dd3-8b8e-88877bd98718",
+        "name": "Rite of Replication",
+        "set": "tdc",
+        "image": "https://cards.scryfall.io/normal/front/f/8/f8cd4dcc-a731-4dd3-8b8e-88877bd98718.jpg?1743206394"
+      },
+      "chapters": [],
+      "cardEffect": "Kicker {5} (You may pay an additional {5} as you cast this spell.)\nCreate a token that's a copy of target creature. If this spell was kicked, create five of those tokens instead.",
+      "cardStats": {
+        "manaCost": "{2}{U}{U}",
+        "typeLine": "Sorcery",
+        "rarity": "rare",
+        "colors": [
+          "U"
+        ]
+      },
+      "flavorText": "",
+      "updatedAt": "2026-01-13T10:22:35.852Z",
+      "loreDescription": "복제 의식. 대상의 본질을 포착하여 완벽한 복제본을 만들어내는 고급 비전 마법. 숙련된 시전자는 한 번에 다섯 개의 복제본을 동시에 생성할 수 있다. 머포크 마법사들이 지식 보존을 위해 개발했다고 전해진다."
+    },
+    {
+      "id": "M-mkcfq85o",
+      "createdAt": "2026-01-13T10:14:28.812Z",
+      "name": "Gigantiform",
+      "type": "변신술",
+      "school": "자연",
+      "difficulty": "중간",
+      "description": "거대화 마법. 대상을 거대한 형태로 변신시킨다. 숙련된 시전자는 연쇄적으로 여러 대상을 거대화시킬 수 있다.",
+      "effect": "대상을 8/8 크기의 거인으로 변신, 돌진 능력 부여",
+      "requirements": [
+        "자연 마나"
+      ],
+      "practitioners": [
+        "드루이드",
+        "자연술사"
+      ],
+      "cardRef": {
+        "id": "aa476306-9d6b-45ed-9e6c-fd4aee6592e7",
+        "name": "Gigantiform",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/a/a/aa476306-9d6b-45ed-9e6c-fd4aee6592e7.jpg?1562615338"
+      },
+      "chapters": [],
+      "cardEffect": "Kicker {4}\nEnchant creature\nEnchanted creature has base power and toughness 8/8 and has trample.\nWhen this Aura enters, if it was kicked, you may search your library for a card named Gigantiform, put it onto the battlefield, then shuffle.",
+      "cardStats": {
+        "manaCost": "{3}{G}{G}",
+        "typeLine": "Enchantment — Aura",
+        "rarity": "rare",
+        "colors": [
+          "G"
+        ]
+      },
+      "flavorText": "",
+      "updatedAt": "2026-01-13T10:22:35.852Z",
+      "loreDescription": "거대화. 자연의 힘을 끌어와 대상을 거대한 형태로 변신시키는 마법. 숙련된 드루이드는 연쇄적으로 여러 동료를 거대화시킬 수 있다. 오란-리프 숲의 엘프들이 침략자에 맞서 사용하는 방어 마법."
+    },
+    {
+      "id": "M-mkcfq89o",
+      "createdAt": "2026-01-13T10:14:28.956Z",
+      "name": "Elemental Appeal",
+      "type": "소환술",
+      "school": "화염/정령",
+      "difficulty": "중간",
+      "description": "정령 호출. 순수한 화염 정령을 소환한다. 더 많은 마나를 쏟으면 압도적인 힘의 정령이 나타나지만, 오래 유지되지 않는다.",
+      "effect": "7/1 화염 정령 소환 (일시적), 강화 시 14/1",
+      "requirements": [
+        "화염 마나",
+        "정령과의 교감"
+      ],
+      "practitioners": [
+        "정령술사",
+        "샤먼"
+      ],
+      "cardRef": {
+        "id": "3a583f30-a3e0-4c4f-81b3-01452edaf22c",
+        "name": "Elemental Appeal",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/3/a/3a583f30-a3e0-4c4f-81b3-01452edaf22c.jpg?1562611369"
+      },
+      "chapters": [],
+      "cardEffect": "Kicker {5} (You may pay an additional {5} as you cast this spell.)\nCreate a 7/1 red Elemental creature token with trample and haste. Exile it at the beginning of the next end step. If this spell was kicked, that creature gets +7/+0 until end of turn.",
+      "cardStats": {
+        "manaCost": "{R}{R}{R}{R}",
+        "typeLine": "Sorcery",
+        "rarity": "rare",
+        "colors": [
+          "R"
+        ]
+      },
+      "flavorText": "",
+      "updatedAt": "2026-01-13T10:22:35.852Z",
+      "loreDescription": "정령 호출. 젠디카르의 순수한 마나를 응축하여 화염 정령을 소환하는 마법. 소환된 정령은 압도적인 파괴력을 지니지만, 오래 유지되지 않는다. 아쿰의 샤먼들이 위급한 순간에 사용하는 비장의 술법."
+    },
+    {
+      "id": "M-mkcfq8du",
+      "createdAt": "2026-01-13T10:14:29.106Z",
+      "name": "Electropotence",
+      "type": "강화술",
+      "school": "번개/마나",
+      "difficulty": "중간",
+      "description": "전기력. \"생명과 힘이 충돌하는 곳.\" 소환되는 모든 생물에게 번개의 힘을 부여하여, 등장과 동시에 적을 공격하게 한다.",
+      "effect": "소환된 생물이 자신의 힘만큼 번개 피해를 입힘",
+      "requirements": [
+        "지속적인 마나 유지"
+      ],
+      "practitioners": [
+        "번개술사",
+        "마법사"
+      ],
+      "cardRef": {
+        "id": "9830b9e9-950c-4763-9396-8194d08bf8df",
+        "name": "Electropotence",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/9/8/9830b9e9-950c-4763-9396-8194d08bf8df.jpg?1562614612"
+      },
+      "chapters": [],
+      "cardEffect": "Whenever a creature you control enters, you may pay {2}{R}. If you do, that creature deals damage equal to its power to any target.",
+      "cardStats": {
+        "manaCost": "{2}{R}",
+        "typeLine": "Enchantment",
+        "rarity": "rare",
+        "colors": [
+          "R"
+        ]
+      },
+      "flavorText": "Where life and force collide.",
+      "updatedAt": "2026-01-13T10:22:35.853Z",
+      "loreDescription": "전기력. \"생명과 힘이 충돌하는 곳.\" 이 마법을 시전하면 소환되는 모든 생물에게 번개의 힘이 깃들어, 나타나는 순간 적을 강타한다. 젠디카르의 불안정한 마나가 만들어낸 독특한 강화술."
+    },
+    {
+      "id": "M-mkcfq8hu",
+      "createdAt": "2026-01-13T10:14:29.250Z",
+      "name": "Predatory Urge",
+      "type": "강화술",
+      "school": "자연/야성",
+      "difficulty": "낮음",
+      "description": "포식 충동. 대상에게 야생의 본능을 불어넣어, 먹잇감을 직접 사냥할 수 있게 한다. 젠디카르 야수들의 생존 본능을 마법으로 재현한 것.",
+      "effect": "대상이 다른 생물을 직접 공격하여 싸울 수 있음",
+      "requirements": [
+        "자연 마나"
+      ],
+      "practitioners": [
+        "드루이드",
+        "레인저",
+        "샤먼"
+      ],
+      "cardRef": {
+        "id": "18e3e459-992c-4990-8305-fa479c7870ac",
+        "name": "Predatory Urge",
+        "set": "pca",
+        "image": "https://cards.scryfall.io/normal/front/1/8/18e3e459-992c-4990-8305-fa479c7870ac.jpg?1562899695"
+      },
+      "chapters": [],
+      "cardEffect": "Enchant creature\nEnchanted creature has \"{T}: This creature deals damage equal to its power to target creature. That creature deals damage equal to its power to this creature.\"",
+      "cardStats": {
+        "manaCost": "{3}{G}",
+        "typeLine": "Enchantment — Aura",
+        "rarity": "rare",
+        "colors": [
+          "G"
+        ]
+      },
+      "flavorText": "",
+      "updatedAt": "2026-01-13T10:22:35.853Z",
+      "loreDescription": "포식 충동. 대상에게 야생의 사냥 본능을 불어넣는 마법. 이 마법에 걸린 생물은 먹잇감을 직접 추적하고 사냥할 수 있게 된다. 발라 게드 정글의 엘프 사냥꾼들이 사용하는 기본 강화술."
+    },
+    {
+      "id": "M-mkcgahj5",
+      "createdAt": "2026-01-13T10:30:14.081Z",
+      "name": "Brave the Elements",
+      "type": "순간마법",
+      "school": "W",
+      "description": "Choose a color. White creatures you control gain protection from the chosen color until end of turn.",
+      "loreDescription": "원소에 맞서다. 코르 전사들의 방어 마법. 특정 색의 공격을 완전히 무효화한다.",
+      "cardEffect": "Choose a color. White creatures you control gain protection from the chosen color until end of turn.",
+      "cardStats": {
+        "manaCost": "{W}",
+        "typeLine": "Instant",
+        "rarity": "uncommon",
+        "colors": [
+          "W"
+        ]
+      },
+      "flavorText": "\"Trust me, your lost fingers and toes are nothing compared to the lost treasures of Sejiri.\"\n—Zahr Gada, Halimar expedition leader",
+      "cardRef": {
+        "id": "c14c492d-3fd7-4b2a-910e-bfcb33752eba",
+        "name": "Brave the Elements",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/c/1/c14c492d-3fd7-4b2a-910e-bfcb33752eba.jpg?1562616243"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkcgahj5",
+      "createdAt": "2026-01-13T10:30:14.081Z",
+      "name": "Feast of Blood",
+      "type": "집중마법",
+      "school": "B",
+      "description": "Cast this spell only if you control two or more Vampires.\nDestroy target creature. You gain 4 life.",
+      "loreDescription": "피의 향연. 뱀파이어 의식. 동족이 함께하면 적을 죽이고 생명력을 얻는다.",
+      "cardEffect": "Cast this spell only if you control two or more Vampires.\nDestroy target creature. You gain 4 life.",
+      "cardStats": {
+        "manaCost": "{1}{B}",
+        "typeLine": "Sorcery",
+        "rarity": "uncommon",
+        "colors": [
+          "B"
+        ]
+      },
+      "flavorText": "\"The vampires of this world don't know the pleasures of hunger. They gorge themselves without savoring the kill.\"\n—Sorin Markov",
+      "cardRef": {
+        "id": "1a7dd5e2-b2a5-46ab-a67c-499451706505",
+        "name": "Feast of Blood",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/1/a/1a7dd5e2-b2a5-46ab-a67c-499451706505.jpg?1562610240"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkcgahj6",
+      "createdAt": "2026-01-13T10:30:14.082Z",
+      "name": "Landbind Ritual",
+      "type": "집중마법",
+      "school": "W",
+      "description": "You gain 2 life for each Plains you control.",
+      "loreDescription": "대지 결속 의식. 땅과 연결되어 생명력을 회복하는 코르의 의식.",
+      "cardEffect": "You gain 2 life for each Plains you control.",
+      "cardStats": {
+        "manaCost": "{3}{W}{W}",
+        "typeLine": "Sorcery",
+        "rarity": "uncommon",
+        "colors": [
+          "W"
+        ]
+      },
+      "flavorText": "\"Honor this place, for our children's children will stand here and speak these same words again.\"\n—Ayli, Kamsa cleric",
+      "cardRef": {
+        "id": "245357c6-b4cd-40f3-b7c2-413eee767239",
+        "name": "Landbind Ritual",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/2/4/245357c6-b4cd-40f3-b7c2-413eee767239.jpg?1562610628"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkcgahj6",
+      "createdAt": "2026-01-13T10:30:14.082Z",
+      "name": "Mark of Mutiny",
+      "type": "집중마법",
+      "school": "R",
+      "description": "Gain control of target creature until end of turn. Put a +1/+1 counter on it and untap it. That creature gains haste until end of turn. (It can attack and {T} this turn.)",
+      "loreDescription": "반역의 표식. 적의 마음을 일시적으로 빼앗는 마법.",
+      "cardEffect": "Gain control of target creature until end of turn. Put a +1/+1 counter on it and untap it. That creature gains haste until end of turn. (It can attack and {T} this turn.)",
+      "cardStats": {
+        "manaCost": "{2}{R}",
+        "typeLine": "Sorcery",
+        "rarity": "uncommon",
+        "colors": [
+          "R"
+        ]
+      },
+      "flavorText": "The flame of anger is hard to douse once lit.",
+      "cardRef": {
+        "id": "58a0a019-239d-428e-85a2-e19cae8f4b58",
+        "name": "Mark of Mutiny",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/5/8/58a0a019-239d-428e-85a2-e19cae8f4b58.jpg?1562612468"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkcgahj6",
+      "createdAt": "2026-01-13T10:30:14.082Z",
+      "name": "Marsh Casualties",
+      "type": "집중마법",
+      "school": "B",
+      "description": "Kicker {3} (You may pay an additional {3} as you cast this spell.)\nCreatures target player controls get -1/-1 until end of turn. If this spell was kicked, those creatures get -2/-2 until end of turn instead.",
+      "loreDescription": "늪의 재앙. 구울 드라즈의 저주. 약한 생물들을 쓸어버린다.",
+      "cardEffect": "Kicker {3} (You may pay an additional {3} as you cast this spell.)\nCreatures target player controls get -1/-1 until end of turn. If this spell was kicked, those creatures get -2/-2 until end of turn instead.",
+      "cardStats": {
+        "manaCost": "{B}{B}",
+        "typeLine": "Sorcery",
+        "rarity": "uncommon",
+        "colors": [
+          "B"
+        ]
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "28476d0d-60ea-4d08-890c-0e6502ee3d2a",
+        "name": "Marsh Casualties",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/2/8/28476d0d-60ea-4d08-890c-0e6502ee3d2a.jpg?1562610765"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkcgahj6",
+      "createdAt": "2026-01-13T10:30:14.082Z",
+      "name": "Mind Sludge",
+      "type": "집중마법",
+      "school": "B",
+      "description": "Target player discards a card for each Swamp you control.",
+      "loreDescription": "정신 슬러지. 늪의 힘으로 적의 마음을 짓이기는 마법.",
+      "cardEffect": "Target player discards a card for each Swamp you control.",
+      "cardStats": {
+        "manaCost": "{4}{B}",
+        "typeLine": "Sorcery",
+        "rarity": "uncommon",
+        "colors": [
+          "B"
+        ]
+      },
+      "flavorText": "\"Guard your thoughts. You never know who might wish to take them from you.\"\n—Kalitas, Bloodchief of Ghet",
+      "cardRef": {
+        "id": "7aaedf6d-171b-4845-8815-debbe06b5b66",
+        "name": "Mind Sludge",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/7/a/7aaedf6d-171b-4845-8815-debbe06b5b66.jpg?1562613618"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkcgahj7",
+      "createdAt": "2026-01-13T10:30:14.083Z",
+      "name": "Primal Bellow",
+      "type": "순간마법",
+      "school": "G",
+      "description": "Target creature gets +1/+1 until end of turn for each Forest you control.",
+      "loreDescription": "원초적 포효. 숲의 힘을 끌어내는 마법. 숲이 많을수록 더 강해진다.",
+      "cardEffect": "Target creature gets +1/+1 until end of turn for each Forest you control.",
+      "cardStats": {
+        "manaCost": "{G}",
+        "typeLine": "Instant",
+        "rarity": "uncommon",
+        "colors": [
+          "G"
+        ]
+      },
+      "flavorText": "\"A might spell can be handy against baloths, giants, kraken, the Roil—or if you lose your bearings in the woods.\"\n—Chadir the Navigator",
+      "cardRef": {
+        "id": "23b0c6a9-a7c0-4518-8580-653712062265",
+        "name": "Primal Bellow",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/2/3/23b0c6a9-a7c0-4518-8580-653712062265.jpg?1562610601"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkcgahj7",
+      "createdAt": "2026-01-13T10:30:14.083Z",
+      "name": "Punishing Fire",
+      "type": "순간마법",
+      "school": "R",
+      "description": "Punishing Fire deals 2 damage to any target.\nWhenever an opponent gains life, you may pay {R}. If you do, return this card from your graveyard to your hand.",
+      "loreDescription": "응징의 불꽃. 적이 생명력을 얻으면 무덤에서 되살아나는 저주받은 화염.",
+      "cardEffect": "Punishing Fire deals 2 damage to any target.\nWhenever an opponent gains life, you may pay {R}. If you do, return this card from your graveyard to your hand.",
+      "cardStats": {
+        "manaCost": "{1}{R}",
+        "typeLine": "Instant",
+        "rarity": "uncommon",
+        "colors": [
+          "R"
+        ]
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "56e76f1c-5a07-455a-a3df-4c45b5b25b82",
+        "name": "Punishing Fire",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/5/6/56e76f1c-5a07-455a-a3df-4c45b5b25b82.jpg?1562612350"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkcgahj7",
+      "createdAt": "2026-01-13T10:30:14.083Z",
+      "name": "Quest for Ancient Secrets",
+      "type": "탐구 (Quest)",
+      "school": "U",
+      "description": "Whenever a card is put into your graveyard from anywhere, you may put a quest counter on this enchantment.\nRemove five quest counters from this enchantment and sacrifice it: Target player shuffles their graveyard into their library.",
+      "loreDescription": "고대 비밀 탐구. 충분한 지식을 모으면 무덤의 비밀을 되살린다.",
+      "cardEffect": "Whenever a card is put into your graveyard from anywhere, you may put a quest counter on this enchantment.\nRemove five quest counters from this enchantment and sacrifice it: Target player shuffles their graveyard into their library.",
+      "cardStats": {
+        "manaCost": "{U}",
+        "typeLine": "Enchantment",
+        "rarity": "uncommon",
+        "colors": [
+          "U"
+        ]
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "0de22b67-968e-49e1-ae96-6dd0ee75cd54",
+        "name": "Quest for Ancient Secrets",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/0/d/0de22b67-968e-49e1-ae96-6dd0ee75cd54.jpg?1562609839"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkcgahj7",
+      "createdAt": "2026-01-13T10:30:14.083Z",
+      "name": "Quest for Pure Flame",
+      "type": "탐구 (Quest)",
+      "school": "R",
+      "description": "Whenever a source you control deals damage to an opponent, you may put a quest counter on this enchantment.\nRemove four quest counters from this enchantment and sacrifice it: If any source you control would deal damage to a permanent or player this turn, it deals double that damage to that permanent or player instead.",
+      "loreDescription": "순수한 화염 탐구. 피해를 축적하면 폭발적인 화력을 얻는다.",
+      "cardEffect": "Whenever a source you control deals damage to an opponent, you may put a quest counter on this enchantment.\nRemove four quest counters from this enchantment and sacrifice it: If any source you control would deal damage to a permanent or player this turn, it deals double that damage to that permanent or player instead.",
+      "cardStats": {
+        "manaCost": "{R}",
+        "typeLine": "Enchantment",
+        "rarity": "uncommon",
+        "colors": [
+          "R"
+        ]
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "7b43ac5a-21b9-4abe-b8be-86b9056ad70d",
+        "name": "Quest for Pure Flame",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/7/b/7b43ac5a-21b9-4abe-b8be-86b9056ad70d.jpg?1562613647"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkcgahj7",
+      "createdAt": "2026-01-13T10:30:14.083Z",
+      "name": "Quest for the Gemblades",
+      "type": "탐구 (Quest)",
+      "school": "G",
+      "description": "Whenever a creature you control deals combat damage to a creature, you may put a quest counter on this enchantment.\nRemove a quest counter from this enchantment and sacrifice it: Put four +1/+1 counters on target creature.",
+      "loreDescription": "보석칼 탐구. 생물이 죽을 때마다 힘이 쌓여 결국 강력한 힘을 부여한다.",
+      "cardEffect": "Whenever a creature you control deals combat damage to a creature, you may put a quest counter on this enchantment.\nRemove a quest counter from this enchantment and sacrifice it: Put four +1/+1 counters on target creature.",
+      "cardStats": {
+        "manaCost": "{1}{G}",
+        "typeLine": "Enchantment",
+        "rarity": "uncommon",
+        "colors": [
+          "G"
+        ]
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "ea12a160-9c05-4f66-bd80-035ea52f415b",
+        "name": "Quest for the Gemblades",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/e/a/ea12a160-9c05-4f66-bd80-035ea52f415b.jpg?1562617922"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkcgahj8",
+      "createdAt": "2026-01-13T10:30:14.084Z",
+      "name": "Quest for the Gravelord",
+      "type": "탐구 (Quest)",
+      "school": "B",
+      "description": "Whenever a creature dies, you may put a quest counter on this enchantment.\nRemove three quest counters from this enchantment and sacrifice it: Create a 5/5 black Zombie Giant creature token.",
+      "loreDescription": "무덤 군주 탐구. 죽음을 모아 거대한 좀비를 소환하는 사령술.",
+      "cardEffect": "Whenever a creature dies, you may put a quest counter on this enchantment.\nRemove three quest counters from this enchantment and sacrifice it: Create a 5/5 black Zombie Giant creature token.",
+      "cardStats": {
+        "manaCost": "{B}",
+        "typeLine": "Enchantment",
+        "rarity": "uncommon",
+        "colors": [
+          "B"
+        ]
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "821b3d28-fe57-4d6a-a5d2-cc7cc44973d9",
+        "name": "Quest for the Gravelord",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/8/2/821b3d28-fe57-4d6a-a5d2-cc7cc44973d9.jpg?1562613872"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkcgahj8",
+      "createdAt": "2026-01-13T10:30:14.084Z",
+      "name": "Quest for the Holy Relic",
+      "type": "탐구 (Quest)",
+      "school": "W",
+      "description": "Whenever you cast a creature spell, you may put a quest counter on this enchantment.\nRemove five quest counters from this enchantment and sacrifice it: Search your library for an Equipment card, put it onto the battlefield, attach it to a creature you control, then shuffle.",
+      "loreDescription": "성스러운 유물 탐구. 충분한 생물을 모으면 전설적인 장비를 찾아낸다.",
+      "cardEffect": "Whenever you cast a creature spell, you may put a quest counter on this enchantment.\nRemove five quest counters from this enchantment and sacrifice it: Search your library for an Equipment card, put it onto the battlefield, attach it to a creature you control, then shuffle.",
+      "cardStats": {
+        "manaCost": "{W}",
+        "typeLine": "Enchantment",
+        "rarity": "uncommon",
+        "colors": [
+          "W"
+        ]
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "00d6b8bb-ec11-4ded-a7fc-fa4ea0bb96cc",
+        "name": "Quest for the Holy Relic",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/0/0/00d6b8bb-ec11-4ded-a7fc-fa4ea0bb96cc.jpg?1562609297"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkcgahj8",
+      "createdAt": "2026-01-13T10:30:14.084Z",
+      "name": "Summoner's Bane",
+      "type": "순간마법",
+      "school": "U",
+      "description": "Counter target creature spell. Create a 2/2 blue Illusion creature token.",
+      "loreDescription": "소환사의 파멸. 소환을 방해하고 그 힘을 빼앗는 마법.",
+      "cardEffect": "Counter target creature spell. Create a 2/2 blue Illusion creature token.",
+      "cardStats": {
+        "manaCost": "{2}{U}{U}",
+        "typeLine": "Instant",
+        "rarity": "uncommon",
+        "colors": [
+          "U"
+        ]
+      },
+      "flavorText": "\"I don't need to have the perfect plan. My foe just has to have an imperfect one.\"\n—Jace Beleren",
+      "cardRef": {
+        "id": "ed82afba-df51-4bd9-853c-d3ef323095a6",
+        "name": "Summoner's Bane",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/e/d/ed82afba-df51-4bd9-853c-d3ef323095a6.jpg?1562618060"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkcgahj9",
+      "createdAt": "2026-01-13T10:30:14.085Z",
+      "name": "Trapmaker's Snare",
+      "type": "순간마법",
+      "school": "U",
+      "description": "Search your library for a Trap card, reveal it, put it into your hand, then shuffle.",
+      "loreDescription": "함정제작자의 올가미. 원하는 함정을 찾아내는 마법. 젠디카르 탐험가의 필수 기술.",
+      "cardEffect": "Search your library for a Trap card, reveal it, put it into your hand, then shuffle.",
+      "cardStats": {
+        "manaCost": "{1}{U}",
+        "typeLine": "Instant",
+        "rarity": "uncommon",
+        "colors": [
+          "U"
+        ]
+      },
+      "flavorText": "\"Trapmaking is an art. The trap is a corporeal riddle, a battle of wits between its creator and whatever it lures inside.\"",
+      "cardRef": {
+        "id": "9cbc98ab-9f8a-41ed-b368-22f1f4ae594b",
+        "name": "Trapmaker's Snare",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/9/c/9cbc98ab-9f8a-41ed-b368-22f1f4ae594b.jpg?1562614773"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkcgahj9",
+      "createdAt": "2026-01-13T10:30:14.085Z",
+      "name": "Unstable Footing",
+      "type": "순간마법",
+      "school": "R",
+      "description": "Kicker {3}{R} (You may pay an additional {3}{R} as you cast this spell.)\nDamage can't be prevented this turn. If this spell was kicked, it deals 5 damage to target player or planeswalker.",
+      "loreDescription": "불안정한 발판. 로완 현상을 일으켜 적의 발을 헛디디게 하는 마법.",
+      "cardEffect": "Kicker {3}{R} (You may pay an additional {3}{R} as you cast this spell.)\nDamage can't be prevented this turn. If this spell was kicked, it deals 5 damage to target player or planeswalker.",
+      "cardStats": {
+        "manaCost": "{R}",
+        "typeLine": "Instant",
+        "rarity": "uncommon",
+        "colors": [
+          "R"
+        ]
+      },
+      "flavorText": "A long way down is shorter than you think.",
+      "cardRef": {
+        "id": "d41c658e-68ec-4b55-bc5b-fd9fe8dbbdb3",
+        "name": "Unstable Footing",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/d/4/d41c658e-68ec-4b55-bc5b-fd9fe8dbbdb3.jpg?1562617021"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkcgahj9",
+      "createdAt": "2026-01-13T10:30:14.085Z",
+      "name": "Windborne Charge",
+      "type": "집중마법",
+      "school": "W",
+      "description": "Two target creatures you control each get +2/+2 and gain flying until end of turn.",
+      "loreDescription": "바람을 탄 돌격. 비행 능력을 부여하는 코르의 전투 마법.",
+      "cardEffect": "Two target creatures you control each get +2/+2 and gain flying until end of turn.",
+      "cardStats": {
+        "manaCost": "{2}{W}{W}",
+        "typeLine": "Sorcery",
+        "rarity": "uncommon",
+        "colors": [
+          "W"
+        ]
+      },
+      "flavorText": "The merfolk call the sky goddess Emeria. The kor call her Kamsa. The two races agree on little except that she offers many blessings to the faithful.",
+      "cardRef": {
+        "id": "9a8b0fd3-ae3e-41eb-b31b-d941b84b6c64",
+        "name": "Windborne Charge",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/9/a/9a8b0fd3-ae3e-41eb-b31b-d941b84b6c64.jpg?1562614686"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    }
+  ]
+}

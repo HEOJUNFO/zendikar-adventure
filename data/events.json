@@ -1,0 +1,188 @@
+{
+  "events": [
+    {
+      "id": "E-mkcfhy5r",
+      "createdAt": "2026-01-13T10:08:02.607Z",
+      "name": "Bloodchief Ascension",
+      "description": "피의 족장 승천 의식. 뱀파이어가 충분한 피를 흘리게 하면, 죽음 자체에서 힘을 얻는 경지에 오른다.",
+      "cardRef": {
+        "id": "d56d1535-d9de-459f-bc31-0923f621e0e9",
+        "name": "Bloodchief Ascension",
+        "set": "cmm",
+        "image": "https://cards.scryfall.io/normal/front/d/5/d56d1535-d9de-459f-bc31-0923f621e0e9.jpg?1689996895",
+        "url": "https://scryfall.com/card/cmm/139/bloodchief-ascension?utm_source=api"
+      },
+      "era": "봉인의 시대",
+      "date": "",
+      "location": "구울 드라즈",
+      "participants": [
+        "뱀파이어"
+      ],
+      "consequences": [],
+      "chapters": [],
+      "updatedAt": "2026-01-13T10:21:37.426Z",
+      "cardEffect": "At the beginning of each end step, if an opponent lost 2 or more life this turn, you may put a quest counter on this enchantment. (Damage causes loss of life.)\nWhenever a card is put into an opponent's graveyard from anywhere, if this enchantment has three or more quest counters on it, you may have that player lose 2 life. If you do, you gain 2 life.",
+      "cardStats": {
+        "manaCost": "{B}",
+        "typeLine": "Enchantment",
+        "rarity": "rare"
+      },
+      "flavorText": "",
+      "loreDescription": "피의 족장 승천 의식. 뱀파이어가 충분한 피를 흘리게 하면 어둠의 힘이 깨어나, 모든 죽음에서 생명력을 흡수하는 경지에 이른다. 구울 드라즈의 가장 어둡고 금기시되는 의식 중 하나."
+    },
+    {
+      "id": "E-mkcfhyaw",
+      "createdAt": "2026-01-13T10:08:02.792Z",
+      "name": "Blood Tribute",
+      "description": "뱀파이어의 피의 공물 의식. 희생자의 생명력 절반을 빼앗아 자신의 것으로 만드는 어둠의 제의.",
+      "cardRef": {
+        "id": "361912f4-5205-44a5-b21e-17402526c1fd",
+        "name": "Blood Tribute",
+        "set": "c17",
+        "image": "https://cards.scryfall.io/normal/front/3/6/361912f4-5205-44a5-b21e-17402526c1fd.jpg?1562605049",
+        "url": "https://scryfall.com/card/c17/100/blood-tribute?utm_source=api"
+      },
+      "era": "봉인의 시대",
+      "date": "",
+      "location": "구울 드라즈",
+      "participants": [
+        "뱀파이어 족장",
+        "희생자"
+      ],
+      "consequences": [],
+      "chapters": [],
+      "updatedAt": "2026-01-13T10:21:37.429Z",
+      "cardEffect": "Kicker—Tap an untapped Vampire you control. (You may tap a Vampire you control in addition to any other costs as you cast this spell.)\nTarget opponent loses half their life, rounded up. If this spell was kicked, you gain life equal to the life lost this way.",
+      "cardStats": {
+        "manaCost": "{4}{B}{B}",
+        "typeLine": "Sorcery",
+        "rarity": "rare"
+      },
+      "flavorText": "",
+      "loreDescription": "피의 공물. 뱀파이어 귀족들이 행하는 고대 의식으로, 희생자의 생명력 절반을 빼앗아 자신의 것으로 만든다. 칼라스트리아 가문의 권력 과시이자 공포 통치의 상징."
+    },
+    {
+      "id": "E-mkcfhyzl",
+      "createdAt": "2026-01-13T10:08:03.681Z",
+      "name": "Conqueror's Pledge",
+      "description": "정복자의 서약. 코르 전사들이 결전을 앞두고 맹세하면, 수많은 코르 병사들이 그 부름에 응답한다.",
+      "cardRef": {
+        "id": "1af1844a-601a-48c1-bf96-921d2d2e2aa1",
+        "name": "Conqueror's Pledge",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/1/a/1af1844a-601a-48c1-bf96-921d2d2e2aa1.jpg?1562610252",
+        "url": "https://scryfall.com/card/zen/8/conquerors-pledge?utm_source=api"
+      },
+      "era": "봉인의 시대",
+      "date": "",
+      "location": "온두",
+      "participants": [
+        "코르 전사"
+      ],
+      "consequences": [],
+      "chapters": [],
+      "updatedAt": "2026-01-13T10:21:37.429Z",
+      "cardEffect": "Kicker {6} (You may pay an additional {6} as you cast this spell.)\nCreate six 1/1 white Kor Soldier creature tokens. If this spell was kicked, create twelve of those tokens instead.",
+      "cardStats": {
+        "manaCost": "{2}{W}{W}{W}",
+        "typeLine": "Sorcery",
+        "rarity": "rare"
+      },
+      "flavorText": "",
+      "loreDescription": "정복자의 서약. 코르 전사들이 결전을 앞두고 외치는 고대의 맹세. 이 서약을 외치면 흩어져 있던 코르 병사들이 부름에 응답하여 모여든다. 코르 역사상 가장 절망적인 전투에서 항상 이 서약이 울려 퍼졌다."
+    },
+    {
+      "id": "E-mkcfhz4t",
+      "createdAt": "2026-01-13T10:08:03.869Z",
+      "name": "Day of Judgment",
+      "description": "심판의 날. 양측의 성직자들이 전쟁을 끝내기 위해 신의 개입을 기도했다. 신들은 편을 들지 않았다.",
+      "cardRef": {
+        "id": "96e84bdc-8a9a-4c58-ba8b-9f052fd60069",
+        "name": "Day of Judgment",
+        "set": "fdn",
+        "image": "https://cards.scryfall.io/normal/front/9/6/96e84bdc-8a9a-4c58-ba8b-9f052fd60069.jpg?1731652573",
+        "url": "https://scryfall.com/card/fdn/140/day-of-judgment?utm_source=api"
+      },
+      "era": "봉인의 시대",
+      "date": "",
+      "location": "",
+      "participants": [
+        "성직자들"
+      ],
+      "consequences": [
+        "모든 생명체 소멸"
+      ],
+      "chapters": [],
+      "updatedAt": "2026-01-13T10:21:37.429Z",
+      "cardEffect": "Destroy all creatures.",
+      "cardStats": {
+        "manaCost": "{2}{W}{W}",
+        "typeLine": "Sorcery",
+        "rarity": "rare"
+      },
+      "flavorText": "Clerics on both sides prayed for divine intervention to end the war. The gods didn't play favorites.",
+      "loreDescription": "심판의 날. 젠디카르 역사상 가장 처참했던 전쟁의 마지막 날. 양측의 성직자들이 신의 개입을 간청했고, 신들은 응답했다 - 모든 것을 쓸어버림으로써. \"신들은 편을 들지 않았다.\""
+    },
+    {
+      "id": "E-mkcfi0ev",
+      "createdAt": "2026-01-13T10:08:05.527Z",
+      "name": "Luminarch Ascension",
+      "description": "빛의 군주 승천. 에메리아 신앙의 핵심 교리. 평화를 유지하면 천사의 축복을 받아 천사를 소환할 수 있다.",
+      "cardRef": {
+        "id": "b3770d86-4496-4c06-aab1-2917cfec100e",
+        "name": "Luminarch Ascension",
+        "set": "a25",
+        "image": "https://cards.scryfall.io/normal/front/b/3/b3770d86-4496-4c06-aab1-2917cfec100e.jpg?1562439791",
+        "url": "https://scryfall.com/card/a25/23/luminarch-ascension?utm_source=api"
+      },
+      "era": "봉인의 시대",
+      "date": "",
+      "location": "에메리아",
+      "participants": [
+        "에메리아 신도"
+      ],
+      "consequences": [],
+      "chapters": [],
+      "updatedAt": "2026-01-13T10:21:37.429Z",
+      "cardEffect": "At the beginning of each opponent's end step, if you didn't lose life this turn, you may put a quest counter on this enchantment. (Damage causes loss of life.)\n{1}{W}: Create a 4/4 white Angel creature token with flying. Activate only if this enchantment has four or more quest counters on it.",
+      "cardStats": {
+        "manaCost": "{1}{W}",
+        "typeLine": "Enchantment",
+        "rarity": "rare"
+      },
+      "flavorText": "",
+      "loreDescription": "빛의 군주 승천. 에메리아 신앙의 핵심 교리. 평화를 수호하고 해를 입지 않으면, 에메리아의 축복이 쌓여 결국 천사를 부를 수 있는 경지에 오른다. 에메리아 성직자들의 궁극적인 목표."
+    },
+    {
+      "id": "E-mkcfi1cx",
+      "createdAt": "2026-01-13T10:08:06.753Z",
+      "name": "Sadistic Sacrament",
+      "description": "가학적 성례. 대상의 영혼에서 가장 소중한 기억과 힘을 뜯어내는 금지된 흑마법 의식.",
+      "cardRef": {
+        "id": "f3d82fd7-6af1-4a97-9d51-486a41224b35",
+        "name": "Sadistic Sacrament",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/f/3/f3d82fd7-6af1-4a97-9d51-486a41224b35.jpg?1562618318",
+        "url": "https://scryfall.com/card/zen/110/sadistic-sacrament?utm_source=api"
+      },
+      "era": "봉인의 시대",
+      "date": "",
+      "location": "구울 드라즈",
+      "participants": [
+        "흑마법사",
+        "희생자"
+      ],
+      "consequences": [],
+      "chapters": [],
+      "updatedAt": "2026-01-13T10:21:37.430Z",
+      "cardEffect": "Kicker {7} (You may pay an additional {7} as you cast this spell.)\nSearch target player's library for up to three cards, exile them, then that player shuffles. If this spell was kicked, instead search that player's library for up to fifteen cards, exile them, then that player shuffles.",
+      "cardStats": {
+        "manaCost": "{B}{B}{B}",
+        "typeLine": "Sorcery",
+        "rarity": "rare"
+      },
+      "flavorText": "",
+      "loreDescription": "가학적 성례. 구울 드라즈의 흑마법사들이 행하는 금지된 의식. 대상의 영혼 깊숙이 파고들어 가장 소중한 기억과 능력을 뜯어낸다. 피해자는 자신이 무엇을 잃었는지조차 모른 채 텅 빈 껍데기가 된다."
+    }
+  ]
+}

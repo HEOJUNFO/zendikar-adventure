@@ -1,0 +1,16 @@
+{
+  "name": "zendikar-adventure",
+  "version": "1.0.0",
+  "description": "젠디카르 세계관 소설 프로젝트",
+  "main": "src/index.js",
+  "scripts": {
+    "stats": "node src/index.js stats",
+    "progress": "node src/index.js progress",
+    "search": "node src/index.js search",
+    "unresolved": "node src/index.js unresolved"
+  },
+  "keywords": ["zendikar", "mtg", "novel", "worldbuilding"],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

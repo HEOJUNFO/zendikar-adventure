@@ -1,0 +1,2333 @@
+{
+  "characters": [
+    {
+      "id": "C-mkcdu3ec",
+      "createdAt": "2026-01-13T09:21:30.036Z",
+      "name": "Omnath, Locus of Creation",
+      "race": "Elemental",
+      "class": "",
+      "description": "When Omnath enters, draw a card.\nLandfall — Whenever a land you control enters, you gain 4 life if this is the first time this ability has resolved this turn. If it's the second time, add {R}{G}{W}{U}. If it's the third time, Omnath deals 4 damage to each opponent and each planeswalker you don't control.",
+      "cardRef": {
+        "id": "4e4fb50c-a81f-44d3-93c5-fa9a0b37f617",
+        "name": "Omnath, Locus of Creation",
+        "set": "znr",
+        "image": "https://cards.scryfall.io/normal/front/4/e/4e4fb50c-a81f-44d3-93c5-fa9a0b37f617.jpg?1639436752",
+        "url": "https://scryfall.com/card/znr/232/omnath-locus-of-creation?utm_source=api"
+      },
+      "isLegendary": true,
+      "colors": [
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "When Omnath enters, draw a card.\nLandfall — Whenever a land you control enters, you gain 4 life if this is the first time this ability has resolved this turn. If it's the second time, add {R}{G}{W}{U}. If it's the third time, Omnath deals 4 damage to each opponent and each planeswalker you don't control.",
+      "cardStats": {
+        "manaCost": "{R}{G}{W}{U}",
+        "power": "4",
+        "toughness": "4",
+        "colors": [
+          "G",
+          "R",
+          "U",
+          "W"
+        ],
+        "rarity": "mythic",
+        "typeLine": "Legendary Creature — Elemental"
+      },
+      "loreDescription": "젠디카르의 마나가 형상화된 정령. 땅의 힘 그 자체이다.",
+      "flavorText": "",
+      "updatedAt": "2026-01-13T10:16:51.233Z"
+    },
+    {
+      "id": "C-mkcfaa8f",
+      "createdAt": "2026-01-13T10:02:05.007Z",
+      "name": "Iona, Shield of Emeria",
+      "race": "Angel",
+      "class": "",
+      "description": "No more shall the righteous cower before evil.",
+      "cardRef": {
+        "id": "6197b59e-1652-496c-a038-e2eb88ecf017",
+        "name": "Iona, Shield of Emeria",
+        "set": "mm2",
+        "image": "https://cards.scryfall.io/normal/front/6/1/6197b59e-1652-496c-a038-e2eb88ecf017.jpg?1758103598",
+        "url": "https://scryfall.com/card/mm2/20/iona-shield-of-emeria?utm_source=api"
+      },
+      "isLegendary": true,
+      "colors": [
+        "W"
+      ],
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "Flying\nAs Iona enters, choose a color.\nYour opponents can't cast spells of the chosen color.",
+      "cardStats": {
+        "manaCost": "{6}{W}{W}{W}",
+        "power": "7",
+        "toughness": "7",
+        "colors": [
+          "W"
+        ],
+        "rarity": "mythic",
+        "typeLine": "Legendary Creature — Angel"
+      },
+      "loreDescription": "에메리아의 축복을 받은 천사. No more shall the righteous cower before evil.",
+      "flavorText": "No more shall the righteous cower before evil.",
+      "updatedAt": "2026-01-13T10:16:51.384Z"
+    },
+    {
+      "id": "C-mkcfaad2",
+      "createdAt": "2026-01-13T10:02:05.174Z",
+      "name": "Kalitas, Bloodchief of Ghet",
+      "race": "Vampire",
+      "class": "Warrior",
+      "description": "{B}{B}{B}, {T}: Destroy target creature. If that creature dies this way, create a black Vampire creature token. Its power is equal to that creature's power and its toughness is equal to that creature's toughness.",
+      "cardRef": {
+        "id": "859aab70-8192-414c-839b-dd0fbcbd8bf1",
+        "name": "Kalitas, Bloodchief of Ghet",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/8/5/859aab70-8192-414c-839b-dd0fbcbd8bf1.jpg?1562614015",
+        "url": "https://scryfall.com/card/zen/99/kalitas-bloodchief-of-ghet?utm_source=api"
+      },
+      "isLegendary": true,
+      "colors": [
+        "B"
+      ],
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "{B}{B}{B}, {T}: Destroy target creature. If that creature dies this way, create a black Vampire creature token. Its power is equal to that creature's power and its toughness is equal to that creature's toughness.",
+      "cardStats": {
+        "manaCost": "{5}{B}{B}",
+        "power": "5",
+        "toughness": "5",
+        "colors": [
+          "B"
+        ],
+        "rarity": "mythic",
+        "typeLine": "Legendary Creature — Vampire Warrior"
+      },
+      "loreDescription": "구울 드라즈의 어둠에서 태어난 뱀파이어. 피로 힘을 얻는다.",
+      "flavorText": "",
+      "updatedAt": "2026-01-13T10:16:51.532Z"
+    },
+    {
+      "id": "C-mkcfaaio",
+      "createdAt": "2026-01-13T10:02:05.376Z",
+      "name": "Lorthos, the Tidemaker",
+      "race": "Octopus",
+      "class": "",
+      "description": "When Lorthos emerges from his deepwater realm, the tides bow to his will and the coastline cowers in his presence.",
+      "cardRef": {
+        "id": "5f7a64cf-3c7a-4dfc-ae44-8413def80ce2",
+        "name": "Lorthos, the Tidemaker",
+        "set": "cmm",
+        "image": "https://cards.scryfall.io/normal/front/5/f/5f7a64cf-3c7a-4dfc-ae44-8413def80ce2.jpg?1689996455",
+        "url": "https://scryfall.com/card/cmm/103/lorthos-the-tidemaker?utm_source=api"
+      },
+      "isLegendary": true,
+      "colors": [
+        "U"
+      ],
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "Whenever Lorthos attacks, you may pay {8}. If you do, tap up to eight target permanents. Those permanents don't untap during their controllers' next untap steps.",
+      "cardStats": {
+        "manaCost": "{5}{U}{U}{U}",
+        "power": "8",
+        "toughness": "8",
+        "colors": [
+          "U"
+        ],
+        "rarity": "rare",
+        "typeLine": "Legendary Creature — Octopus"
+      },
+      "loreDescription": "When Lorthos emerges from his deepwater realm, the tides bow to his will and the coastline cowers in his presence.",
+      "flavorText": "When Lorthos emerges from his deepwater realm, the tides bow to his will and the coastline cowers in his presence.",
+      "updatedAt": "2026-01-13T10:16:51.683Z"
+    },
+    {
+      "id": "C-mkcfaapy",
+      "createdAt": "2026-01-13T10:02:05.638Z",
+      "name": "Nissa Revane",
+      "race": "Nissa",
+      "class": "",
+      "description": "+1: Search your library for a card named Nissa's Chosen, put it onto the battlefield, then shuffle.\n+1: You gain 2 life for each Elf you control.\n−7: Search your library for any number of Elf creature cards, put them onto the battlefield, then shuffle.",
+      "cardRef": {
+        "id": "1b4c26ab-0f7b-4163-b9e4-a415b91352a6",
+        "name": "Nissa Revane",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/1/b/1b4c26ab-0f7b-4163-b9e4-a415b91352a6.jpg?1562610283",
+        "url": "https://scryfall.com/card/zen/170/nissa-revane?utm_source=api"
+      },
+      "isLegendary": true,
+      "colors": [
+        "G"
+      ],
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "+1: Search your library for a card named Nissa's Chosen, put it onto the battlefield, then shuffle.\n+1: You gain 2 life for each Elf you control.\n−7: Search your library for any number of Elf creature cards, put them onto the battlefield, then shuffle.",
+      "cardStats": {
+        "manaCost": "{2}{G}{G}",
+        "power": null,
+        "toughness": null,
+        "colors": [
+          "G"
+        ],
+        "rarity": "mythic",
+        "typeLine": "Legendary Planeswalker — Nissa"
+      },
+      "loreDescription": "차원을 넘나드는 플레인즈워커. 젠디카르의 운명에 개입한다.",
+      "flavorText": "",
+      "updatedAt": "2026-01-13T10:16:51.833Z"
+    },
+    {
+      "id": "C-mkcfaavl",
+      "createdAt": "2026-01-13T10:02:05.841Z",
+      "name": "Ob Nixilis, the Fallen",
+      "race": "Demon",
+      "class": "",
+      "description": "His spark lost, he plots revenge upon the plane whose corrupting mana fractured his soul.",
+      "cardRef": {
+        "id": "dc9d3ada-9d0d-489a-89b7-08f53f6601e1",
+        "name": "Ob Nixilis, the Fallen",
+        "set": "tdc",
+        "image": "https://cards.scryfall.io/normal/front/d/c/dc9d3ada-9d0d-489a-89b7-08f53f6601e1.jpg?1743206563",
+        "url": "https://scryfall.com/card/tdc/192/ob-nixilis-the-fallen?utm_source=api"
+      },
+      "isLegendary": true,
+      "colors": [
+        "B"
+      ],
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "Landfall — Whenever a land you control enters, you may have target player lose 3 life. If you do, put three +1/+1 counters on Ob Nixilis.",
+      "cardStats": {
+        "manaCost": "{3}{B}{B}",
+        "power": "3",
+        "toughness": "3",
+        "colors": [
+          "B"
+        ],
+        "rarity": "mythic",
+        "typeLine": "Legendary Creature — Demon"
+      },
+      "loreDescription": "His spark lost, he plots revenge upon the plane whose corrupting mana fractured his soul.",
+      "flavorText": "His spark lost, he plots revenge upon the plane whose corrupting mana fractured his soul.",
+      "updatedAt": "2026-01-13T10:16:51.983Z"
+    },
+    {
+      "id": "C-mkcfab11",
+      "createdAt": "2026-01-13T10:02:06.037Z",
+      "name": "Sorin Markov",
+      "race": "Sorin",
+      "class": "",
+      "description": "+2: Sorin Markov deals 2 damage to any target and you gain 2 life.\n−3: Target opponent's life total becomes 10.\n−7: You control target player during that player's next turn.",
+      "cardRef": {
+        "id": "e25b3a89-3a99-4e02-bf0c-a3cf450da1a1",
+        "name": "Sorin Markov",
+        "set": "m12",
+        "image": "https://cards.scryfall.io/normal/front/e/2/e25b3a89-3a99-4e02-bf0c-a3cf450da1a1.jpg?1722489650",
+        "url": "https://scryfall.com/card/m12/109/sorin-markov?utm_source=api"
+      },
+      "isLegendary": true,
+      "colors": [
+        "B"
+      ],
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "+2: Sorin Markov deals 2 damage to any target and you gain 2 life.\n−3: Target opponent's life total becomes 10.\n−7: You control target player during that player's next turn.",
+      "cardStats": {
+        "manaCost": "{3}{B}{B}{B}",
+        "power": null,
+        "toughness": null,
+        "colors": [
+          "B"
+        ],
+        "rarity": "mythic",
+        "typeLine": "Legendary Planeswalker — Sorin"
+      },
+      "loreDescription": "차원을 넘나드는 플레인즈워커. 젠디카르의 운명에 개입한다.",
+      "flavorText": "",
+      "updatedAt": "2026-01-13T10:16:52.132Z"
+    },
+    {
+      "id": "C-mkcfabed",
+      "createdAt": "2026-01-13T10:02:06.517Z",
+      "name": "Chandra Ablaze",
+      "race": "Chandra",
+      "class": "",
+      "description": "+1: Discard a card. If a red card is discarded this way, Chandra deals 4 damage to any target.\n−2: Each player discards their hand, then draws three cards.\n−7: Cast any number of red instant and/or sorcery cards from your graveyard without paying their mana costs.",
+      "cardRef": {
+        "id": "43da8995-77da-4ec4-94a5-5e7932a3c969",
+        "name": "Chandra Ablaze",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/4/3/43da8995-77da-4ec4-94a5-5e7932a3c969.jpg?1562611728",
+        "url": "https://scryfall.com/card/zen/120/chandra-ablaze?utm_source=api"
+      },
+      "isLegendary": true,
+      "colors": [
+        "R"
+      ],
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "+1: Discard a card. If a red card is discarded this way, Chandra deals 4 damage to any target.\n−2: Each player discards their hand, then draws three cards.\n−7: Cast any number of red instant and/or sorcery cards from your graveyard without paying their mana costs.",
+      "cardStats": {
+        "manaCost": "{4}{R}{R}",
+        "power": null,
+        "toughness": null,
+        "colors": [
+          "R"
+        ],
+        "rarity": "mythic",
+        "typeLine": "Legendary Planeswalker — Chandra"
+      },
+      "loreDescription": "차원을 넘나드는 플레인즈워커. 젠디카르의 운명에 개입한다.",
+      "flavorText": "",
+      "updatedAt": "2026-01-13T10:16:52.282Z"
+    },
+    {
+      "id": "C-mkcfhazb",
+      "createdAt": "2026-01-13T10:07:32.567Z",
+      "name": "Armament Master",
+      "race": "Kor",
+      "class": "Soldier",
+      "description": "\"We prepare for the known with daggers, rations, rope, and pitons. But we also prepare for the unknown with billycat tails, pikku roots, hedron chips . . .\"",
+      "cardRef": {
+        "id": "975f7752-e981-4046-ae9b-90b20db6b23a",
+        "name": "Armament Master",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/9/7/975f7752-e981-4046-ae9b-90b20db6b23a.jpg?1562614596",
+        "url": "https://scryfall.com/card/zen/1/armament-master?utm_source=api"
+      },
+      "isLegendary": false,
+      "colors": [
+        "W"
+      ],
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "Other Kor creatures you control get +2/+2 for each Equipment attached to this creature.",
+      "cardStats": {
+        "manaCost": "{W}{W}",
+        "power": "2",
+        "toughness": "2",
+        "colors": [
+          "W"
+        ],
+        "rarity": "rare",
+        "typeLine": "Creature — Kor Soldier"
+      },
+      "loreDescription": "\"We prepare for the known with daggers, rations, rope, and pitons. But we also prepare for the unknown with billycat tails, pikku roots, hedron chips . . .\"",
+      "flavorText": "\"We prepare for the known with daggers, rations, rope, and pitons. But we also prepare for the unknown with billycat tails, pikku roots, hedron chips . . .\"",
+      "updatedAt": "2026-01-13T10:16:52.432Z"
+    },
+    {
+      "id": "C-mkcfhbas",
+      "createdAt": "2026-01-13T10:07:32.980Z",
+      "name": "Bala Ged Thief",
+      "race": "Human",
+      "class": "Rogue Ally",
+      "description": "Whenever this creature or another Ally you control enters, target player reveals a number of cards from their hand equal to the number of Allies you control. You choose one of them. That player discards that card.",
+      "cardRef": {
+        "id": "0b4598ec-cf36-4a51-9f67-b91c146c3c4f",
+        "name": "Bala Ged Thief",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/0/b/0b4598ec-cf36-4a51-9f67-b91c146c3c4f.jpg?1562609730",
+        "url": "https://scryfall.com/card/zen/79/bala-ged-thief?utm_source=api"
+      },
+      "isLegendary": false,
+      "colors": [
+        "B"
+      ],
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "Whenever this creature or another Ally you control enters, target player reveals a number of cards from their hand equal to the number of Allies you control. You choose one of them. That player discards that card.",
+      "cardStats": {
+        "manaCost": "{3}{B}",
+        "power": "2",
+        "toughness": "2",
+        "colors": [
+          "B"
+        ],
+        "rarity": "rare",
+        "typeLine": "Creature — Human Rogue Ally"
+      },
+      "loreDescription": "젠디카르에서 살아가는 존재. Whenever this creature or another Ally you control enters, target player reveals a number of cards from their hand equal to the number of Allies you control.",
+      "flavorText": "",
+      "updatedAt": "2026-01-13T10:16:52.582Z"
+    },
+    {
+      "id": "C-mkcfhbey",
+      "createdAt": "2026-01-13T10:07:33.130Z",
+      "name": "Bloodghast",
+      "race": "Vampire Spirit",
+      "class": "",
+      "description": "Summoning it is easy. Controlling it is another matter.",
+      "cardRef": {
+        "id": "fdceefe6-f083-4955-b53a-8e6f8aeb2083",
+        "name": "Bloodghast",
+        "set": "dft",
+        "image": "https://cards.scryfall.io/normal/front/f/d/fdceefe6-f083-4955-b53a-8e6f8aeb2083.jpg?1738356290",
+        "url": "https://scryfall.com/card/dft/77/bloodghast?utm_source=api"
+      },
+      "isLegendary": false,
+      "colors": [
+        "B"
+      ],
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "This creature can't block.\nThis creature has haste as long as an opponent has 10 or less life.\nLandfall — Whenever a land you control enters, you may return this card from your graveyard to the battlefield.",
+      "cardStats": {
+        "manaCost": "{B}{B}",
+        "power": "2",
+        "toughness": "1",
+        "colors": [
+          "B"
+        ],
+        "rarity": "rare",
+        "typeLine": "Creature — Vampire Spirit"
+      },
+      "loreDescription": "구울 드라즈의 어둠에서 태어난 뱀파이어. Summoning it is easy. Controlling it is another matter.",
+      "flavorText": "Summoning it is easy. Controlling it is another matter.",
+      "updatedAt": "2026-01-13T10:16:52.731Z"
+    },
+    {
+      "id": "C-mkcfhbre",
+      "createdAt": "2026-01-13T10:07:33.578Z",
+      "name": "Cosi's Trickster",
+      "race": "Merfolk",
+      "class": "Wizard",
+      "description": "She watches the chaos created by the Roil, seeking strength in the patterns of anarchy.",
+      "cardRef": {
+        "id": "e1eb7372-481a-44a6-937d-21430ee02ff9",
+        "name": "Cosi's Trickster",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/e/1/e1eb7372-481a-44a6-937d-21430ee02ff9.jpg?1562617574",
+        "url": "https://scryfall.com/card/zen/45/cosis-trickster?utm_source=api"
+      },
+      "isLegendary": false,
+      "colors": [
+        "U"
+      ],
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "Whenever an opponent shuffles their library, you may put a +1/+1 counter on this creature.",
+      "cardStats": {
+        "manaCost": "{U}",
+        "power": "1",
+        "toughness": "1",
+        "colors": [
+          "U"
+        ],
+        "rarity": "rare",
+        "typeLine": "Creature — Merfolk Wizard"
+      },
+      "loreDescription": "타지임의 물 속에서 살아가는 머포크. She watches the chaos created by the Roil, seeking strength in the patterns of anarchy.",
+      "flavorText": "She watches the chaos created by the Roil, seeking strength in the patterns of anarchy.",
+      "updatedAt": "2026-01-13T10:16:52.882Z"
+    },
+    {
+      "id": "C-mkcfhc0n",
+      "createdAt": "2026-01-13T10:07:33.911Z",
+      "name": "Devout Lightcaster",
+      "race": "Kor",
+      "class": "Cleric",
+      "description": "\"Goddess, grant us light to banish the world's shadows.\"\n—Prayer to Kamsa",
+      "cardRef": {
+        "id": "16e31e43-84d3-429e-9e81-60b325989c93",
+        "name": "Devout Lightcaster",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/1/6/16e31e43-84d3-429e-9e81-60b325989c93.jpg?1562610112",
+        "url": "https://scryfall.com/card/zen/10/devout-lightcaster?utm_source=api"
+      },
+      "isLegendary": false,
+      "colors": [
+        "W"
+      ],
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "Protection from black\nWhen this creature enters, exile target black permanent.",
+      "cardStats": {
+        "manaCost": "{W}{W}{W}",
+        "power": "2",
+        "toughness": "2",
+        "colors": [
+          "W"
+        ],
+        "rarity": "rare",
+        "typeLine": "Creature — Kor Cleric"
+      },
+      "loreDescription": "\"Goddess, grant us light to banish the world's shadows.\"\n—Prayer to Kamsa",
+      "flavorText": "\"Goddess, grant us light to banish the world's shadows.\"\n—Prayer to Kamsa",
+      "updatedAt": "2026-01-13T10:16:53.031Z"
+    },
+    {
+      "id": "C-mkcfhc6a",
+      "createdAt": "2026-01-13T10:07:34.114Z",
+      "name": "Emeria Angel",
+      "race": "Angel",
+      "class": "",
+      "description": "When the earth shudders, the sky overflows.",
+      "cardRef": {
+        "id": "2406ab7c-c6be-421a-a92c-048441a01acd",
+        "name": "Emeria Angel",
+        "set": "tdc",
+        "image": "https://cards.scryfall.io/normal/front/2/4/2406ab7c-c6be-421a-a92c-048441a01acd.jpg?1743206125",
+        "url": "https://scryfall.com/card/tdc/114/emeria-angel?utm_source=api"
+      },
+      "isLegendary": false,
+      "colors": [
+        "W"
+      ],
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "Flying\nLandfall — Whenever a land you control enters, you may create a 1/1 white Bird creature token with flying.",
+      "cardStats": {
+        "manaCost": "{2}{W}{W}",
+        "power": "3",
+        "toughness": "3",
+        "colors": [
+          "W"
+        ],
+        "rarity": "rare",
+        "typeLine": "Creature — Angel"
+      },
+      "loreDescription": "에메리아의 축복을 받은 천사. When the earth shudders, the sky overflows.",
+      "flavorText": "When the earth shudders, the sky overflows.",
+      "updatedAt": "2026-01-13T10:16:53.181Z"
+    },
+    {
+      "id": "C-mkcfhcai",
+      "createdAt": "2026-01-13T10:07:34.266Z",
+      "name": "Felidar Sovereign",
+      "race": "Cat Beast",
+      "class": "",
+      "description": "It surveys the withering landscape, waiting for a victory only it can see.",
+      "cardRef": {
+        "id": "039499c3-0b35-4e8e-b0c9-bdf0b4cd90d5",
+        "name": "Felidar Sovereign",
+        "set": "bfz",
+        "image": "https://cards.scryfall.io/normal/front/0/3/039499c3-0b35-4e8e-b0c9-bdf0b4cd90d5.jpg?1562895901",
+        "url": "https://scryfall.com/card/bfz/26/felidar-sovereign?utm_source=api"
+      },
+      "isLegendary": false,
+      "colors": [
+        "W"
+      ],
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "Vigilance (Attacking doesn't cause this creature to tap.)\nLifelink (Damage dealt by this creature also causes you to gain that much life.)\nAt the beginning of your upkeep, if you have 40 or more life, you win the game.",
+      "cardStats": {
+        "manaCost": "{4}{W}{W}",
+        "power": "4",
+        "toughness": "6",
+        "colors": [
+          "W"
+        ],
+        "rarity": "rare",
+        "typeLine": "Creature — Cat Beast"
+      },
+      "loreDescription": "It surveys the withering landscape, waiting for a victory only it can see.",
+      "flavorText": "It surveys the withering landscape, waiting for a victory only it can see.",
+      "updatedAt": "2026-01-13T10:16:53.334Z"
+    },
+    {
+      "id": "C-mkcfhcjm",
+      "createdAt": "2026-01-13T10:07:34.594Z",
+      "name": "Goblin Guide",
+      "race": "Goblin",
+      "class": "Scout",
+      "description": "\"I've been all over this world. I even remember some of those places.\"",
+      "cardRef": {
+        "id": "3c0f5411-1940-410f-96ce-6f92513f753a",
+        "name": "Goblin Guide",
+        "set": "2xm",
+        "image": "https://cards.scryfall.io/normal/front/3/c/3c0f5411-1940-410f-96ce-6f92513f753a.jpg?1599706366",
+        "url": "https://scryfall.com/card/2xm/127/goblin-guide?utm_source=api"
+      },
+      "isLegendary": false,
+      "colors": [
+        "R"
+      ],
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "Haste\nWhenever this creature attacks, defending player reveals the top card of their library. If it's a land card, that player puts it into their hand.",
+      "cardStats": {
+        "manaCost": "{R}",
+        "power": "2",
+        "toughness": "2",
+        "colors": [
+          "R"
+        ],
+        "rarity": "rare",
+        "typeLine": "Creature — Goblin Scout"
+      },
+      "loreDescription": "아쿰의 화산지대에서 살아가는 고블린. \"I've been all over this world. I even remember some of those places.\"",
+      "flavorText": "\"I've been all over this world. I even remember some of those places.\"",
+      "updatedAt": "2026-01-13T10:16:53.485Z"
+    },
+    {
+      "id": "C-mkcfhcpe",
+      "createdAt": "2026-01-13T10:07:34.802Z",
+      "name": "Guul Draz Specter",
+      "race": "Specter",
+      "class": "",
+      "description": "Flying\nThis creature gets +3/+3 as long as an opponent has no cards in hand.\nWhenever this creature deals combat damage to a player, that player discards a card.",
+      "cardRef": {
+        "id": "edb0546f-f893-460c-8af4-79b24c373ebe",
+        "name": "Guul Draz Specter",
+        "set": "cn2",
+        "image": "https://cards.scryfall.io/normal/front/e/d/edb0546f-f893-460c-8af4-79b24c373ebe.jpg?1576382660",
+        "url": "https://scryfall.com/card/cn2/137/guul-draz-specter?utm_source=api"
+      },
+      "isLegendary": false,
+      "colors": [
+        "B"
+      ],
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "Flying\nThis creature gets +3/+3 as long as an opponent has no cards in hand.\nWhenever this creature deals combat damage to a player, that player discards a card.",
+      "cardStats": {
+        "manaCost": "{2}{B}{B}",
+        "power": "2",
+        "toughness": "2",
+        "colors": [
+          "B"
+        ],
+        "rarity": "rare",
+        "typeLine": "Creature — Specter"
+      },
+      "loreDescription": "젠디카르에서 살아가는 존재. Flying\nThis creature gets +3/+3 as long as an opponent has no cards in hand.",
+      "flavorText": "",
+      "updatedAt": "2026-01-13T10:16:53.635Z"
+    },
+    {
+      "id": "C-mkcfhd0c",
+      "createdAt": "2026-01-13T10:07:35.196Z",
+      "name": "Halo Hunter",
+      "race": "Demon",
+      "class": "",
+      "description": "Hanging on the walls of his lair, the fallen halos cast his depravity in everlasting light.",
+      "cardRef": {
+        "id": "5f96344c-4b1f-42a6-bbf2-dc5cf11cdb02",
+        "name": "Halo Hunter",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/5/f/5f96344c-4b1f-42a6-bbf2-dc5cf11cdb02.jpg?1562612682",
+        "url": "https://scryfall.com/card/zen/96/halo-hunter?utm_source=api"
+      },
+      "isLegendary": false,
+      "colors": [
+        "B"
+      ],
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nWhen this creature enters, destroy target Angel.",
+      "cardStats": {
+        "manaCost": "{2}{B}{B}{B}",
+        "power": "6",
+        "toughness": "3",
+        "colors": [
+          "B"
+        ],
+        "rarity": "rare",
+        "typeLine": "Creature — Demon"
+      },
+      "loreDescription": "Hanging on the walls of his lair, the fallen halos cast his depravity in everlasting light.",
+      "flavorText": "Hanging on the walls of his lair, the fallen halos cast his depravity in everlasting light.",
+      "updatedAt": "2026-01-13T10:16:53.788Z"
+    },
+    {
+      "id": "C-mkcfhd56",
+      "createdAt": "2026-01-13T10:07:35.370Z",
+      "name": "Hellkite Charger",
+      "race": "Dragon",
+      "class": "",
+      "description": "Flying, haste\nWhenever this creature attacks, you may pay {5}{R}{R}. If you do, untap all attacking creatures and after this phase, there is an additional combat phase.",
+      "cardRef": {
+        "id": "6836c646-83ff-4bf8-96dd-4cbdd6c7e861",
+        "name": "Hellkite Charger",
+        "set": "cmm",
+        "image": "https://cards.scryfall.io/normal/front/6/8/6836c646-83ff-4bf8-96dd-4cbdd6c7e861.jpg?1689997926",
+        "url": "https://scryfall.com/card/cmm/232/hellkite-charger?utm_source=api"
+      },
+      "isLegendary": false,
+      "colors": [
+        "R"
+      ],
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "Flying, haste\nWhenever this creature attacks, you may pay {5}{R}{R}. If you do, untap all attacking creatures and after this phase, there is an additional combat phase.",
+      "cardStats": {
+        "manaCost": "{4}{R}{R}",
+        "power": "5",
+        "toughness": "5",
+        "colors": [
+          "R"
+        ],
+        "rarity": "rare",
+        "typeLine": "Creature — Dragon"
+      },
+      "loreDescription": "젠디카르에서 살아가는 존재. Flying, haste\nWhenever this creature attacks, you may pay {5}{R}{R}.",
+      "flavorText": "",
+      "updatedAt": "2026-01-13T10:16:53.942Z"
+    },
+    {
+      "id": "C-mkcfhdg3",
+      "createdAt": "2026-01-13T10:07:35.763Z",
+      "name": "Kabira Evangel",
+      "race": "Human",
+      "class": "Cleric Ally",
+      "description": "Whenever this creature or another Ally you control enters, you may choose a color. If you do, Allies you control gain protection from the chosen color until end of turn.",
+      "cardRef": {
+        "id": "57f05d96-42d5-4e1d-a9c6-229a3f42dda9",
+        "name": "Kabira Evangel",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/5/7/57f05d96-42d5-4e1d-a9c6-229a3f42dda9.jpg?1562612427",
+        "url": "https://scryfall.com/card/zen/15/kabira-evangel?utm_source=api"
+      },
+      "isLegendary": false,
+      "colors": [
+        "W"
+      ],
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "Whenever this creature or another Ally you control enters, you may choose a color. If you do, Allies you control gain protection from the chosen color until end of turn.",
+      "cardStats": {
+        "manaCost": "{2}{W}",
+        "power": "2",
+        "toughness": "3",
+        "colors": [
+          "W"
+        ],
+        "rarity": "rare",
+        "typeLine": "Creature — Human Cleric Ally"
+      },
+      "loreDescription": "젠디카르에서 살아가는 존재. Whenever this creature or another Ally you control enters, you may choose a color.",
+      "flavorText": "",
+      "updatedAt": "2026-01-13T10:16:54.092Z"
+    },
+    {
+      "id": "C-mkcfhdoo",
+      "createdAt": "2026-01-13T10:07:36.072Z",
+      "name": "Kazuul Warlord",
+      "race": "Minotaur",
+      "class": "Warrior Ally",
+      "description": "On expeditions, minotaurs are worth their weight in gold. Fortunately for their paymasters, most minotaurs don't know how much they weigh.",
+      "cardRef": {
+        "id": "da42df13-eded-48e2-ad1a-ff74d718ce3c",
+        "name": "Kazuul Warlord",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/d/a/da42df13-eded-48e2-ad1a-ff74d718ce3c.jpg?1562617294",
+        "url": "https://scryfall.com/card/zen/134/kazuul-warlord?utm_source=api"
+      },
+      "isLegendary": false,
+      "colors": [
+        "R"
+      ],
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "Whenever this creature or another Ally you control enters, you may put a +1/+1 counter on each Ally creature you control.",
+      "cardStats": {
+        "manaCost": "{4}{R}",
+        "power": "3",
+        "toughness": "3",
+        "colors": [
+          "R"
+        ],
+        "rarity": "rare",
+        "typeLine": "Creature — Minotaur Warrior Ally"
+      },
+      "loreDescription": "On expeditions, minotaurs are worth their weight in gold. Fortunately for their paymasters, most minotaurs don't know how much they weigh.",
+      "flavorText": "On expeditions, minotaurs are worth their weight in gold. Fortunately for their paymasters, most minotaurs don't know how much they weigh.",
+      "updatedAt": "2026-01-13T10:16:54.243Z"
+    },
+    {
+      "id": "C-mkcfhdtb",
+      "createdAt": "2026-01-13T10:07:36.239Z",
+      "name": "Lotus Cobra",
+      "race": "Snake",
+      "class": "",
+      "description": "Its hood blossoms as a warning: receive your gift, but stray no closer.",
+      "cardRef": {
+        "id": "a4b759f0-901f-4be3-93fa-224609b08d48",
+        "name": "Lotus Cobra",
+        "set": "znr",
+        "image": "https://cards.scryfall.io/normal/front/a/4/a4b759f0-901f-4be3-93fa-224609b08d48.jpg?1604199124",
+        "url": "https://scryfall.com/card/znr/193/lotus-cobra?utm_source=api"
+      },
+      "isLegendary": false,
+      "colors": [
+        "G"
+      ],
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "Landfall — Whenever a land you control enters, add one mana of any color.",
+      "cardStats": {
+        "manaCost": "{1}{G}",
+        "power": "2",
+        "toughness": "1",
+        "colors": [
+          "G"
+        ],
+        "rarity": "rare",
+        "typeLine": "Creature — Snake"
+      },
+      "loreDescription": "Its hood blossoms as a warning: receive your gift, but stray no closer.",
+      "flavorText": "Its hood blossoms as a warning: receive your gift, but stray no closer.",
+      "updatedAt": "2026-01-13T10:16:54.394Z"
+    },
+    {
+      "id": "C-mkcfhe27",
+      "createdAt": "2026-01-13T10:07:36.559Z",
+      "name": "Lullmage Mentor",
+      "race": "Merfolk",
+      "class": "Wizard",
+      "description": "\"Many voices are needed to quiet this land.\"",
+      "cardRef": {
+        "id": "e34de3df-3236-4281-a043-7583c76d89cc",
+        "name": "Lullmage Mentor",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/e/3/e34de3df-3236-4281-a043-7583c76d89cc.jpg?1562617643",
+        "url": "https://scryfall.com/card/zen/54/lullmage-mentor?utm_source=api"
+      },
+      "isLegendary": false,
+      "colors": [
+        "U"
+      ],
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "Whenever a spell or ability you control counters a spell, you may create a 1/1 blue Merfolk creature token.\nTap seven untapped Merfolk you control: Counter target spell.",
+      "cardStats": {
+        "manaCost": "{1}{U}{U}",
+        "power": "2",
+        "toughness": "2",
+        "colors": [
+          "U"
+        ],
+        "rarity": "rare",
+        "typeLine": "Creature — Merfolk Wizard"
+      },
+      "loreDescription": "타지임의 물 속에서 살아가는 머포크. \"Many voices are needed to quiet this land.\"",
+      "flavorText": "\"Many voices are needed to quiet this land.\"",
+      "updatedAt": "2026-01-13T10:16:54.543Z"
+    },
+    {
+      "id": "C-mkcfhe7e",
+      "createdAt": "2026-01-13T10:07:36.746Z",
+      "name": "Malakir Bloodwitch",
+      "race": "Vampire",
+      "class": "Shaman",
+      "description": "Flying, protection from white\nWhen this creature enters, each opponent loses life equal to the number of Vampires you control. You gain life equal to the life lost this way.",
+      "cardRef": {
+        "id": "b91ceead-5071-43e8-bf90-f379d683acdf",
+        "name": "Malakir Bloodwitch",
+        "set": "voc",
+        "image": "https://cards.scryfall.io/normal/front/b/9/b91ceead-5071-43e8-bf90-f379d683acdf.jpg?1641602675",
+        "url": "https://scryfall.com/card/voc/131/malakir-bloodwitch?utm_source=api"
+      },
+      "isLegendary": false,
+      "colors": [
+        "B"
+      ],
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "Flying, protection from white\nWhen this creature enters, each opponent loses life equal to the number of Vampires you control. You gain life equal to the life lost this way.",
+      "cardStats": {
+        "manaCost": "{3}{B}{B}",
+        "power": "4",
+        "toughness": "4",
+        "colors": [
+          "B"
+        ],
+        "rarity": "rare",
+        "typeLine": "Creature — Vampire Shaman"
+      },
+      "loreDescription": "구울 드라즈의 어둠에서 태어난 뱀파이어. 피로 힘을 얻는다.",
+      "flavorText": "",
+      "updatedAt": "2026-01-13T10:16:54.693Z"
+    },
+    {
+      "id": "C-mkcfhefs",
+      "createdAt": "2026-01-13T10:07:37.048Z",
+      "name": "Obsidian Fireheart",
+      "race": "Elemental",
+      "class": "",
+      "description": "{1}{R}{R}: Put a blaze counter on target land without a blaze counter on it. For as long as that land has a blaze counter on it, it has \"At the beginning of your upkeep, this land deals 1 damage to you.\" (The land continues to burn after this creature has left the battlefield.)",
+      "cardRef": {
+        "id": "49ef5a91-d293-468a-8816-b16ca4ba79e0",
+        "name": "Obsidian Fireheart",
+        "set": "e01",
+        "image": "https://cards.scryfall.io/normal/front/4/9/49ef5a91-d293-468a-8816-b16ca4ba79e0.jpg?1592765722",
+        "url": "https://scryfall.com/card/e01/55/obsidian-fireheart?utm_source=api"
+      },
+      "isLegendary": false,
+      "colors": [
+        "R"
+      ],
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "{1}{R}{R}: Put a blaze counter on target land without a blaze counter on it. For as long as that land has a blaze counter on it, it has \"At the beginning of your upkeep, this land deals 1 damage to you.\" (The land continues to burn after this creature has left the battlefield.)",
+      "cardStats": {
+        "manaCost": "{1}{R}{R}{R}",
+        "power": "4",
+        "toughness": "4",
+        "colors": [
+          "R"
+        ],
+        "rarity": "mythic",
+        "typeLine": "Creature — Elemental"
+      },
+      "loreDescription": "젠디카르의 마나가 형상화된 정령. 땅의 힘 그 자체이다.",
+      "flavorText": "",
+      "updatedAt": "2026-01-13T10:16:54.842Z"
+    },
+    {
+      "id": "C-mkcfhela",
+      "createdAt": "2026-01-13T10:07:37.246Z",
+      "name": "Oracle of Mul Daya",
+      "race": "Elf",
+      "class": "Shaman",
+      "description": "You may play an additional land on each of your turns.\nPlay with the top card of your library revealed.\nYou may play lands from the top of your library.",
+      "cardRef": {
+        "id": "ab19808f-a5b8-4dfd-800e-2064cd6538c8",
+        "name": "Oracle of Mul Daya",
+        "set": "eoc",
+        "image": "https://cards.scryfall.io/normal/front/a/b/ab19808f-a5b8-4dfd-800e-2064cd6538c8.jpg?1752944846",
+        "url": "https://scryfall.com/card/eoc/102/oracle-of-mul-daya?utm_source=api"
+      },
+      "isLegendary": false,
+      "colors": [
+        "G"
+      ],
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "You may play an additional land on each of your turns.\nPlay with the top card of your library revealed.\nYou may play lands from the top of your library.",
+      "cardStats": {
+        "manaCost": "{3}{G}",
+        "power": "2",
+        "toughness": "2",
+        "colors": [
+          "G"
+        ],
+        "rarity": "rare",
+        "typeLine": "Creature — Elf Shaman"
+      },
+      "loreDescription": "젠디카르의 고대 숲을 수호하는 엘프. 자연과 하나가 되어 살아간다.",
+      "flavorText": "",
+      "updatedAt": "2026-01-13T10:16:54.993Z"
+    },
+    {
+      "id": "C-mkcfhepi",
+      "createdAt": "2026-01-13T10:07:37.398Z",
+      "name": "Rampaging Baloths",
+      "race": "Beast",
+      "class": "",
+      "description": "\"When the land is angry, so are they.\"\n—Nissa Revane",
+      "cardRef": {
+        "id": "84aa18de-6acc-46cc-8e28-3046790a6751",
+        "name": "Rampaging Baloths",
+        "set": "eoc",
+        "image": "https://cards.scryfall.io/normal/front/8/4/84aa18de-6acc-46cc-8e28-3046790a6751.jpg?1755881175",
+        "url": "https://scryfall.com/card/eoc/104/rampaging-baloths?utm_source=api"
+      },
+      "isLegendary": false,
+      "colors": [
+        "G"
+      ],
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "Trample\nLandfall — Whenever a land you control enters, create a 4/4 green Beast creature token.",
+      "cardStats": {
+        "manaCost": "{4}{G}{G}",
+        "power": "6",
+        "toughness": "6",
+        "colors": [
+          "G"
+        ],
+        "rarity": "rare",
+        "typeLine": "Creature — Beast"
+      },
+      "loreDescription": "\"When the land is angry, so are they.\"\n—Nissa Revane",
+      "flavorText": "\"When the land is angry, so are they.\"\n—Nissa Revane",
+      "updatedAt": "2026-01-13T10:16:55.141Z"
+    },
+    {
+      "id": "C-mkcfheup",
+      "createdAt": "2026-01-13T10:07:37.585Z",
+      "name": "Roil Elemental",
+      "race": "Elemental",
+      "class": "",
+      "description": "A vortex that devours everything—even the souls of the living.",
+      "cardRef": {
+        "id": "66139c73-8e14-433d-bcb6-ae3e518bcdfb",
+        "name": "Roil Elemental",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/6/6/66139c73-8e14-433d-bcb6-ae3e518bcdfb.jpg?1562612886",
+        "url": "https://scryfall.com/card/zen/62/roil-elemental?utm_source=api"
+      },
+      "isLegendary": false,
+      "colors": [
+        "U"
+      ],
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "Flying\nLandfall — Whenever a land you control enters, you may gain control of target creature for as long as you control this creature.",
+      "cardStats": {
+        "manaCost": "{3}{U}{U}{U}",
+        "power": "3",
+        "toughness": "2",
+        "colors": [
+          "U"
+        ],
+        "rarity": "rare",
+        "typeLine": "Creature — Elemental"
+      },
+      "loreDescription": "젠디카르의 마나가 형상화된 정령. A vortex that devours everything—even the souls of the living.",
+      "flavorText": "A vortex that devours everything—even the souls of the living.",
+      "updatedAt": "2026-01-13T10:16:55.293Z"
+    },
+    {
+      "id": "C-mkcfhf6a",
+      "createdAt": "2026-01-13T10:07:38.002Z",
+      "name": "Scute Mob",
+      "race": "Insect",
+      "class": "",
+      "description": "\"Survival rule 781: There are always more scute bugs.\"\n—Zurdi, goblin shortcutter",
+      "cardRef": {
+        "id": "28d10cf2-c40d-4748-add0-f9cdd606030c",
+        "name": "Scute Mob",
+        "set": "c18",
+        "image": "https://cards.scryfall.io/normal/front/2/8/28d10cf2-c40d-4748-add0-f9cdd606030c.jpg?1592710986",
+        "url": "https://scryfall.com/card/c18/161/scute-mob?utm_source=api"
+      },
+      "isLegendary": false,
+      "colors": [
+        "G"
+      ],
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "At the beginning of your upkeep, if you control five or more lands, put four +1/+1 counters on this creature.",
+      "cardStats": {
+        "manaCost": "{G}",
+        "power": "1",
+        "toughness": "1",
+        "colors": [
+          "G"
+        ],
+        "rarity": "rare",
+        "typeLine": "Creature — Insect"
+      },
+      "loreDescription": "\"Survival rule 781: There are always more scute bugs.\"\n—Zurdi, goblin shortcutter",
+      "flavorText": "\"Survival rule 781: There are always more scute bugs.\"\n—Zurdi, goblin shortcutter",
+      "updatedAt": "2026-01-13T10:16:55.445Z"
+    },
+    {
+      "id": "C-mkcfhfju",
+      "createdAt": "2026-01-13T10:07:38.490Z",
+      "name": "Sea Gate Loremaster",
+      "race": "Merfolk",
+      "class": "Wizard Ally",
+      "description": "\"He's a living library. He remembers everything our band of explorers has seen, and we can use that to our advantage.\"\n—Zahr Gada, Halimar expedition leader",
+      "cardRef": {
+        "id": "5cd723c8-4b3d-4fbb-a825-79934279382d",
+        "name": "Sea Gate Loremaster",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/5/c/5cd723c8-4b3d-4fbb-a825-79934279382d.jpg?1562612583",
+        "url": "https://scryfall.com/card/zen/63/sea-gate-loremaster?utm_source=api"
+      },
+      "isLegendary": false,
+      "colors": [
+        "U"
+      ],
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "{T}: Draw a card for each Ally you control.",
+      "cardStats": {
+        "manaCost": "{4}{U}",
+        "power": "1",
+        "toughness": "3",
+        "colors": [
+          "U"
+        ],
+        "rarity": "rare",
+        "typeLine": "Creature — Merfolk Wizard Ally"
+      },
+      "loreDescription": "타지임의 물 속에서 살아가는 머포크. \"He's a living library. He remembers everything our band of explorers has seen, and we can use that to our advantage.\"\n—Zahr Gada, Halimar expedition leader",
+      "flavorText": "\"He's a living library. He remembers everything our band of explorers has seen, and we can use that to our advantage.\"\n—Zahr Gada, Halimar expedition leader",
+      "updatedAt": "2026-01-13T10:16:55.595Z"
+    },
+    {
+      "id": "C-mkcfhfwl",
+      "createdAt": "2026-01-13T10:07:38.949Z",
+      "name": "Sphinx of Jwar Isle",
+      "race": "Sphinx",
+      "class": "",
+      "description": "Flying\nShroud (This creature can't be the target of spells or abilities.)\nYou may look at the top card of your library any time.",
+      "cardRef": {
+        "id": "a38387c9-cee0-4ec1-800a-877d6a7edc2d",
+        "name": "Sphinx of Jwar Isle",
+        "set": "c18",
+        "image": "https://cards.scryfall.io/normal/front/a/3/a38387c9-cee0-4ec1-800a-877d6a7edc2d.jpg?1592710649",
+        "url": "https://scryfall.com/card/c18/103/sphinx-of-jwar-isle?utm_source=api"
+      },
+      "isLegendary": false,
+      "colors": [
+        "U"
+      ],
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "Flying\nShroud (This creature can't be the target of spells or abilities.)\nYou may look at the top card of your library any time.",
+      "cardStats": {
+        "manaCost": "{4}{U}{U}",
+        "power": "5",
+        "toughness": "5",
+        "colors": [
+          "U"
+        ],
+        "rarity": "rare",
+        "typeLine": "Creature — Sphinx"
+      },
+      "loreDescription": "젠디카르에서 살아가는 존재. Flying\nShroud (This creature can't be the target of spells or abilities.",
+      "flavorText": "",
+      "updatedAt": "2026-01-13T10:16:55.745Z"
+    },
+    {
+      "id": "C-mkcfhgca",
+      "createdAt": "2026-01-13T10:07:39.514Z",
+      "name": "Sphinx of Lost Truths",
+      "race": "Sphinx",
+      "class": "",
+      "description": "Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)\nFlying\nWhen this creature enters, draw three cards. Then if it wasn't kicked, discard three cards.",
+      "cardRef": {
+        "id": "d97b61b6-bf80-4326-a646-a1985e0b50d7",
+        "name": "Sphinx of Lost Truths",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/d/9/d97b61b6-bf80-4326-a646-a1985e0b50d7.jpg?1562617273",
+        "url": "https://scryfall.com/card/zen/69/sphinx-of-lost-truths?utm_source=api"
+      },
+      "isLegendary": false,
+      "colors": [
+        "U"
+      ],
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)\nFlying\nWhen this creature enters, draw three cards. Then if it wasn't kicked, discard three cards.",
+      "cardStats": {
+        "manaCost": "{3}{U}{U}",
+        "power": "3",
+        "toughness": "5",
+        "colors": [
+          "U"
+        ],
+        "rarity": "rare",
+        "typeLine": "Creature — Sphinx"
+      },
+      "loreDescription": "젠디카르에서 살아가는 존재. Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.",
+      "flavorText": "",
+      "updatedAt": "2026-01-13T10:16:55.896Z"
+    },
+    {
+      "id": "C-mkcfhgk5",
+      "createdAt": "2026-01-13T10:07:39.797Z",
+      "name": "Terra Stomper",
+      "race": "Beast",
+      "class": "",
+      "description": "Sometimes violent earthquakes, hurtling boulders, and unseasonable dust storms are wrongly attributed to the Roil.",
+      "cardRef": {
+        "id": "652db782-cf79-4626-9eb2-ad214cb39c86",
+        "name": "Terra Stomper",
+        "set": "ori",
+        "image": "https://cards.scryfall.io/normal/front/6/5/652db782-cf79-4626-9eb2-ad214cb39c86.jpg?1562023100",
+        "url": "https://scryfall.com/card/ori/288/terra-stomper?utm_source=api"
+      },
+      "isLegendary": false,
+      "colors": [
+        "G"
+      ],
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "This spell can't be countered.\nTrample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)",
+      "cardStats": {
+        "manaCost": "{3}{G}{G}{G}",
+        "power": "8",
+        "toughness": "8",
+        "colors": [
+          "G"
+        ],
+        "rarity": "rare",
+        "typeLine": "Creature — Beast"
+      },
+      "loreDescription": "Sometimes violent earthquakes, hurtling boulders, and unseasonable dust storms are wrongly attributed to the Roil.",
+      "flavorText": "Sometimes violent earthquakes, hurtling boulders, and unseasonable dust storms are wrongly attributed to the Roil.",
+      "updatedAt": "2026-01-13T10:16:56.045Z"
+    },
+    {
+      "id": "C-mkcfhgvk",
+      "createdAt": "2026-01-13T10:07:40.208Z",
+      "name": "Turntimber Ranger",
+      "race": "Elf Ranger",
+      "class": "Scout Ally",
+      "description": "The lone wolf dies alone.",
+      "cardRef": {
+        "id": "a24bba56-3256-489b-82a2-22748388e110",
+        "name": "Turntimber Ranger",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/a/2/a24bba56-3256-489b-82a2-22748388e110.jpg?1562615013",
+        "url": "https://scryfall.com/card/zen/191/turntimber-ranger?utm_source=api"
+      },
+      "isLegendary": false,
+      "colors": [
+        "G"
+      ],
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "Whenever this creature or another Ally you control enters, you may create a 2/2 green Wolf creature token. If you do, put a +1/+1 counter on this creature.",
+      "cardStats": {
+        "manaCost": "{3}{G}{G}",
+        "power": "2",
+        "toughness": "2",
+        "colors": [
+          "G"
+        ],
+        "rarity": "rare",
+        "typeLine": "Creature — Elf Scout Ranger Ally"
+      },
+      "loreDescription": "젠디카르의 고대 숲을 수호하는 엘프. The lone wolf dies alone.",
+      "flavorText": "The lone wolf dies alone.",
+      "updatedAt": "2026-01-13T10:16:56.194Z"
+    },
+    {
+      "id": "C-mkcfhgzq",
+      "createdAt": "2026-01-13T10:07:40.358Z",
+      "name": "Warren Instigator",
+      "race": "Goblin Berserker",
+      "class": "",
+      "description": "There is always a rabble to be roused.",
+      "cardRef": {
+        "id": "a47fe35f-859c-4663-a4dd-f7ca38e1099a",
+        "name": "Warren Instigator",
+        "set": "ddt",
+        "image": "https://cards.scryfall.io/normal/front/a/4/a47fe35f-859c-4663-a4dd-f7ca38e1099a.jpg?1592764738",
+        "url": "https://scryfall.com/card/ddt/32/warren-instigator?utm_source=api"
+      },
+      "isLegendary": false,
+      "colors": [
+        "R"
+      ],
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "Double strike\nWhenever this creature deals damage to an opponent, you may put a Goblin creature card from your hand onto the battlefield.",
+      "cardStats": {
+        "manaCost": "{R}{R}",
+        "power": "1",
+        "toughness": "1",
+        "colors": [
+          "R"
+        ],
+        "rarity": "mythic",
+        "typeLine": "Creature — Goblin Berserker"
+      },
+      "loreDescription": "아쿰의 화산지대에서 살아가는 고블린. There is always a rabble to be roused.",
+      "flavorText": "There is always a rabble to be roused.",
+      "updatedAt": "2026-01-13T10:16:56.343Z"
+    },
+    {
+      "id": "C-mkcfhh84",
+      "createdAt": "2026-01-13T10:07:40.660Z",
+      "name": "World Queller",
+      "race": "Avatar",
+      "class": "",
+      "description": "\"Why fight the world when you know who will win?\"\n—Nissa Revane",
+      "cardRef": {
+        "id": "134ff41d-1645-4d3a-94b6-e13a30dedb8e",
+        "name": "World Queller",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/1/3/134ff41d-1645-4d3a-94b6-e13a30dedb8e.jpg?1562609956",
+        "url": "https://scryfall.com/card/zen/39/world-queller?utm_source=api"
+      },
+      "isLegendary": false,
+      "colors": [
+        "W"
+      ],
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "At the beginning of your upkeep, you may choose a card type. If you do, each player sacrifices a permanent of their choice of that type.",
+      "cardStats": {
+        "manaCost": "{3}{W}{W}",
+        "power": "4",
+        "toughness": "4",
+        "colors": [
+          "W"
+        ],
+        "rarity": "rare",
+        "typeLine": "Creature — Avatar"
+      },
+      "loreDescription": "\"Why fight the world when you know who will win?\"\n—Nissa Revane",
+      "flavorText": "\"Why fight the world when you know who will win?\"\n—Nissa Revane",
+      "updatedAt": "2026-01-13T10:16:56.492Z"
+    },
+    {
+      "id": "C-mkcflwfg",
+      "createdAt": "2026-01-13T10:11:06.988Z",
+      "name": "Noyan Dar",
+      "race": "Human",
+      "class": "Lullmage (럴마법사)",
+      "faction": "머포크 (Merfolk)",
+      "location": "타지임",
+      "description": "타지임의 럴마법사. \"삶은 미로다. 이것은 그 막다른 길 중 하나.\"라는 말을 남겼다.",
+      "personality": "철학적, 냉정",
+      "cardRef": {
+        "note": "Mindbreak Trap 플레이버 텍스트"
+      },
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": [],
+      "cardEffect": "Whenever you cast an instant or sorcery spell, you may put three +1/+1 counters on target land you control. If you do, that land becomes a 0/0 Elemental creature with haste that's still a land.",
+      "cardStats": {
+        "manaCost": "{3}{W}{U}",
+        "power": "4",
+        "toughness": "4",
+        "colors": [
+          "U",
+          "W"
+        ],
+        "rarity": "rare",
+        "typeLine": "Legendary Creature — Merfolk Ally"
+      },
+      "loreDescription": "After many years as a lullmage, Noyan Dar turned his talents from allaying Zendikar's fury to the considerably easier task of rousing it.",
+      "flavorText": "After many years as a lullmage, Noyan Dar turned his talents from allaying Zendikar's fury to the considerably easier task of rousing it.",
+      "updatedAt": "2026-01-13T10:16:57.218Z"
+    },
+    {
+      "id": "C-mkcgahih",
+      "createdAt": "2026-01-13T10:30:14.057Z",
+      "name": "Aether Figment",
+      "race": "Illusion",
+      "class": "",
+      "description": "Kicker {3} (You may pay an additional {3} as you cast this spell.)\nIf this creature was kicked, it enters with two +1/+1 counters on it.\nThis creature can't be blocked.",
+      "loreDescription": "젠디카르의 생명체. Kicker {3} (You may pay an additional {3} as you cast this spell.",
+      "cardEffect": "Kicker {3} (You may pay an additional {3} as you cast this spell.)\nIf this creature was kicked, it enters with two +1/+1 counters on it.\nThis creature can't be blocked.",
+      "cardStats": {
+        "manaCost": "{1}{U}",
+        "power": "1",
+        "toughness": "1",
+        "colors": [
+          "U"
+        ],
+        "rarity": "uncommon",
+        "typeLine": "Creature — Illusion"
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "73a4657b-98de-4f4c-b921-46d15a8e6f5a",
+        "name": "Aether Figment",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/7/3/73a4657b-98de-4f4c-b921-46d15a8e6f5a.jpg?1562613350"
+      },
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": []
+    },
+    {
+      "id": "C-mkcgahii",
+      "createdAt": "2026-01-13T10:30:14.058Z",
+      "name": "Baloth Woodcrasher",
+      "race": "Beast",
+      "class": "",
+      "description": "Landfall — Whenever a land you control enters, this creature gets +4/+4 and gains trample until end of turn. (It can deal excess combat damage to the player or planeswalker it's attacking.)",
+      "loreDescription": "젠디카르의 생명체. Its insatiable hunger quickly depletes a region of prey. It must migrate from place to place to feed its massive bulk.",
+      "cardEffect": "Landfall — Whenever a land you control enters, this creature gets +4/+4 and gains trample until end of turn. (It can deal excess combat damage to the player or planeswalker it's attacking.)",
+      "cardStats": {
+        "manaCost": "{4}{G}{G}",
+        "power": "4",
+        "toughness": "4",
+        "colors": [
+          "G"
+        ],
+        "rarity": "uncommon",
+        "typeLine": "Creature — Beast"
+      },
+      "flavorText": "Its insatiable hunger quickly depletes a region of prey. It must migrate from place to place to feed its massive bulk.",
+      "cardRef": {
+        "id": "8223dc6a-2bee-4be9-86d5-f0a17a24c33e",
+        "name": "Baloth Woodcrasher",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/8/2/8223dc6a-2bee-4be9-86d5-f0a17a24c33e.jpg?1562613874"
+      },
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": []
+    },
+    {
+      "id": "C-mkcgahij",
+      "createdAt": "2026-01-13T10:30:14.059Z",
+      "name": "Frontier Guide",
+      "race": "Elf",
+      "class": "Scout",
+      "description": "{3}{G}, {T}: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+      "loreDescription": "젠디카르의 엘프. \"The elders say Zendikar has no safe, peaceful places. How would they know? They've never looked.\"",
+      "cardEffect": "{3}{G}, {T}: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+      "cardStats": {
+        "manaCost": "{1}{G}",
+        "power": "1",
+        "toughness": "1",
+        "colors": [
+          "G"
+        ],
+        "rarity": "uncommon",
+        "typeLine": "Creature — Elf Scout"
+      },
+      "flavorText": "\"The elders say Zendikar has no safe, peaceful places. How would they know? They've never looked.\"",
+      "cardRef": {
+        "id": "b99a418a-2386-49b9-b48d-67a52448e65c",
+        "name": "Frontier Guide",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/b/9/b99a418a-2386-49b9-b48d-67a52448e65c.jpg?1562615886"
+      },
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": []
+    },
+    {
+      "id": "C-mkcgahik",
+      "createdAt": "2026-01-13T10:30:14.060Z",
+      "name": "Gatekeeper of Malakir",
+      "race": "Vampire",
+      "class": "Warrior",
+      "description": "Kicker {B} (You may pay an additional {B} as you cast this spell.)\nWhen this creature enters, if it was kicked, target player sacrifices a creature of their choice.",
+      "loreDescription": "구울 드라즈의 뱀파이어. \"You may enter the city—once the toll is paid.\"",
+      "cardEffect": "Kicker {B} (You may pay an additional {B} as you cast this spell.)\nWhen this creature enters, if it was kicked, target player sacrifices a creature of their choice.",
+      "cardStats": {
+        "manaCost": "{B}{B}",
+        "power": "2",
+        "toughness": "2",
+        "colors": [
+          "B"
+        ],
+        "rarity": "uncommon",
+        "typeLine": "Creature — Vampire Warrior"
+      },
+      "flavorText": "\"You may enter the city—once the toll is paid.\"",
+      "cardRef": {
+        "id": "71db3698-a45c-4eaf-87e6-30502c0c10f4",
+        "name": "Gatekeeper of Malakir",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/7/1/71db3698-a45c-4eaf-87e6-30502c0c10f4.jpg?1562613273"
+      },
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": []
+    },
+    {
+      "id": "C-mkcgahil",
+      "createdAt": "2026-01-13T10:30:14.061Z",
+      "name": "Geyser Glider",
+      "race": "Elemental Beast",
+      "class": "",
+      "description": "Landfall — Whenever a land you control enters, this creature gains flying until end of turn.",
+      "loreDescription": "젠디카르의 마나가 형상화된 정령. \"Quit pontificating, mage. The last thing we want to do is give it more hot air.\"\n—Tala Vertan, Makindi shieldmate",
+      "cardEffect": "Landfall — Whenever a land you control enters, this creature gains flying until end of turn.",
+      "cardStats": {
+        "manaCost": "{3}{R}{R}",
+        "power": "4",
+        "toughness": "4",
+        "colors": [
+          "R"
+        ],
+        "rarity": "uncommon",
+        "typeLine": "Creature — Elemental Beast"
+      },
+      "flavorText": "\"Quit pontificating, mage. The last thing we want to do is give it more hot air.\"\n—Tala Vertan, Makindi shieldmate",
+      "cardRef": {
+        "id": "b8aec169-4c62-4d53-a19c-68baa20c8e59",
+        "name": "Geyser Glider",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/b/8/b8aec169-4c62-4d53-a19c-68baa20c8e59.jpg?1562615855"
+      },
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": []
+    },
+    {
+      "id": "C-mkcgahil",
+      "createdAt": "2026-01-13T10:30:14.061Z",
+      "name": "Goblin Ruinblaster",
+      "race": "Goblin",
+      "class": "Shaman",
+      "description": "Kicker {R} (You may pay an additional {R} as you cast this spell.)\nHaste\nWhen this creature enters, if it was kicked, destroy target nonbasic land.",
+      "loreDescription": "아쿰의 고블린. Kicker {R} (You may pay an additional {R} as you cast this spell.",
+      "cardEffect": "Kicker {R} (You may pay an additional {R} as you cast this spell.)\nHaste\nWhen this creature enters, if it was kicked, destroy target nonbasic land.",
+      "cardStats": {
+        "manaCost": "{2}{R}",
+        "power": "2",
+        "toughness": "1",
+        "colors": [
+          "R"
+        ],
+        "rarity": "uncommon",
+        "typeLine": "Creature — Goblin Shaman"
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "0d95d1f3-7ec1-4279-ade7-3f339f2f33da",
+        "name": "Goblin Ruinblaster",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/0/d/0d95d1f3-7ec1-4279-ade7-3f339f2f33da.jpg?1562609828"
+      },
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": []
+    },
+    {
+      "id": "C-mkcgahil",
+      "createdAt": "2026-01-13T10:30:14.061Z",
+      "name": "Gomazoa",
+      "race": "Jellyfish",
+      "class": "",
+      "description": "Defender, flying\n{T}: Put this creature and each creature it's blocking on top of their owners' libraries, then those players shuffle.",
+      "loreDescription": "젠디카르의 생명체. To explorers, \"point man\" is a polite way of saying \"gomazoa fodder.\"",
+      "cardEffect": "Defender, flying\n{T}: Put this creature and each creature it's blocking on top of their owners' libraries, then those players shuffle.",
+      "cardStats": {
+        "manaCost": "{2}{U}",
+        "power": "0",
+        "toughness": "3",
+        "colors": [
+          "U"
+        ],
+        "rarity": "uncommon",
+        "typeLine": "Creature — Jellyfish"
+      },
+      "flavorText": "To explorers, \"point man\" is a polite way of saying \"gomazoa fodder.\"",
+      "cardRef": {
+        "id": "119d2661-ba22-4901-b89a-a0a8ec25d004",
+        "name": "Gomazoa",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/1/1/119d2661-ba22-4901-b89a-a0a8ec25d004.jpg?1562609939"
+      },
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": []
+    },
+    {
+      "id": "C-mkcgahim",
+      "createdAt": "2026-01-13T10:30:14.062Z",
+      "name": "Greenweaver Druid",
+      "race": "Elf",
+      "class": "Druid",
+      "description": "{T}: Add {G}{G}.",
+      "loreDescription": "젠디카르의 엘프. The other tribes call them fanatics, but none deny that the Mul Daya elves have an iron-strong bond to some force greater than themselves.",
+      "cardEffect": "{T}: Add {G}{G}.",
+      "cardStats": {
+        "manaCost": "{2}{G}",
+        "power": "1",
+        "toughness": "1",
+        "colors": [
+          "G"
+        ],
+        "rarity": "uncommon",
+        "typeLine": "Creature — Elf Druid"
+      },
+      "flavorText": "The other tribes call them fanatics, but none deny that the Mul Daya elves have an iron-strong bond to some force greater than themselves.",
+      "cardRef": {
+        "id": "747099f7-ce5b-4366-a8a4-f3d80100f66e",
+        "name": "Greenweaver Druid",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/7/4/747099f7-ce5b-4366-a8a4-f3d80100f66e.jpg?1562613401"
+      },
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": []
+    },
+    {
+      "id": "C-mkcgahin",
+      "createdAt": "2026-01-13T10:30:14.063Z",
+      "name": "Hagra Diabolist",
+      "race": "Ogre",
+      "class": "Shaman Ally",
+      "description": "Whenever this creature or another Ally you control enters, you may have target player lose life equal to the number of Allies you control.",
+      "loreDescription": "젠디카르의 모험가 동맹. \"When exploring the darkest regions, wickedness can be the best accomplice of all.\"",
+      "cardEffect": "Whenever this creature or another Ally you control enters, you may have target player lose life equal to the number of Allies you control.",
+      "cardStats": {
+        "manaCost": "{4}{B}",
+        "power": "3",
+        "toughness": "2",
+        "colors": [
+          "B"
+        ],
+        "rarity": "uncommon",
+        "typeLine": "Creature — Ogre Shaman Ally"
+      },
+      "flavorText": "\"When exploring the darkest regions, wickedness can be the best accomplice of all.\"",
+      "cardRef": {
+        "id": "c303e7e2-cb22-4dea-889f-d03e2494ed0f",
+        "name": "Hagra Diabolist",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/c/3/c303e7e2-cb22-4dea-889f-d03e2494ed0f.jpg?1562616316"
+      },
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": []
+    },
+    {
+      "id": "C-mkcgahio",
+      "createdAt": "2026-01-13T10:30:14.064Z",
+      "name": "Hedron Crab",
+      "race": "Crab",
+      "class": "",
+      "description": "Landfall — Whenever a land you control enters, target player mills three cards. (They put the top three cards of their library into their graveyard.)",
+      "loreDescription": "젠디카르의 생명체. Hedrons perplex minds both great and small.",
+      "cardEffect": "Landfall — Whenever a land you control enters, target player mills three cards. (They put the top three cards of their library into their graveyard.)",
+      "cardStats": {
+        "manaCost": "{U}",
+        "power": "0",
+        "toughness": "2",
+        "colors": [
+          "U"
+        ],
+        "rarity": "uncommon",
+        "typeLine": "Creature — Crab"
+      },
+      "flavorText": "Hedrons perplex minds both great and small.",
+      "cardRef": {
+        "id": "f0fa1946-4f97-4c52-b5f2-b80571230616",
+        "name": "Hedron Crab",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/f/0/f0fa1946-4f97-4c52-b5f2-b80571230616.jpg?1562618190"
+      },
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": []
+    },
+    {
+      "id": "C-mkcgahio",
+      "createdAt": "2026-01-13T10:30:14.064Z",
+      "name": "Hellfire Mongrel",
+      "race": "Elemental Dog",
+      "class": "",
+      "description": "At the beginning of each opponent's upkeep, if that player has two or fewer cards in hand, this creature deals 2 damage to that player.",
+      "loreDescription": "젠디카르의 마나가 형상화된 정령. There is no fondness between the hound and its master. There is only a common appreciation of the hunt.",
+      "cardEffect": "At the beginning of each opponent's upkeep, if that player has two or fewer cards in hand, this creature deals 2 damage to that player.",
+      "cardStats": {
+        "manaCost": "{2}{R}",
+        "power": "2",
+        "toughness": "2",
+        "colors": [
+          "R"
+        ],
+        "rarity": "uncommon",
+        "typeLine": "Creature — Elemental Dog"
+      },
+      "flavorText": "There is no fondness between the hound and its master. There is only a common appreciation of the hunt.",
+      "cardRef": {
+        "id": "8f975874-24a6-4a14-bc5c-898c3d8e90e5",
+        "name": "Hellfire Mongrel",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/8/f/8f975874-24a6-4a14-bc5c-898c3d8e90e5.jpg?1562614343"
+      },
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": []
+    },
+    {
+      "id": "C-mkcgahip",
+      "createdAt": "2026-01-13T10:30:14.065Z",
+      "name": "Kazandu Blademaster",
+      "race": "Human",
+      "class": "Soldier Ally",
+      "description": "First strike, vigilance\nWhenever this creature or another Ally you control enters, you may put a +1/+1 counter on this creature.",
+      "loreDescription": "젠디카르의 모험가 동맹. \"If you hire a sell-sword, you'd better watch your back. Hire me, and I'll watch it for you.\"",
+      "cardEffect": "First strike, vigilance\nWhenever this creature or another Ally you control enters, you may put a +1/+1 counter on this creature.",
+      "cardStats": {
+        "manaCost": "{W}{W}",
+        "power": "1",
+        "toughness": "1",
+        "colors": [
+          "W"
+        ],
+        "rarity": "uncommon",
+        "typeLine": "Creature — Human Soldier Ally"
+      },
+      "flavorText": "\"If you hire a sell-sword, you'd better watch your back. Hire me, and I'll watch it for you.\"",
+      "cardRef": {
+        "id": "9642bdbf-c03f-4c48-a5c8-c9201a08b834",
+        "name": "Kazandu Blademaster",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/9/6/9642bdbf-c03f-4c48-a5c8-c9201a08b834.jpg?1562614556"
+      },
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": []
+    },
+    {
+      "id": "C-mkcgahiq",
+      "createdAt": "2026-01-13T10:30:14.066Z",
+      "name": "Kor Aeronaut",
+      "race": "Kor",
+      "class": "Soldier",
+      "description": "Kicker {1}{W} (You may pay an additional {1}{W} as you cast this spell.)\nFlying\nWhen this creature enters, if it was kicked, target creature gains flying until end of turn.",
+      "loreDescription": "코르족 전사. Kicker {1}{W} (You may pay an additional {1}{W} as you cast this spell.",
+      "cardEffect": "Kicker {1}{W} (You may pay an additional {1}{W} as you cast this spell.)\nFlying\nWhen this creature enters, if it was kicked, target creature gains flying until end of turn.",
+      "cardStats": {
+        "manaCost": "{W}{W}",
+        "power": "2",
+        "toughness": "2",
+        "colors": [
+          "W"
+        ],
+        "rarity": "uncommon",
+        "typeLine": "Creature — Kor Soldier"
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "87ae3eb8-b570-4129-9d4e-b7afa8fc4840",
+        "name": "Kor Aeronaut",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/8/7/87ae3eb8-b570-4129-9d4e-b7afa8fc4840.jpg?1562614064"
+      },
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": []
+    },
+    {
+      "id": "C-mkcgahiq",
+      "createdAt": "2026-01-13T10:30:14.066Z",
+      "name": "Kor Duelist",
+      "race": "Kor",
+      "class": "Soldier",
+      "description": "As long as this creature is equipped, it has double strike. (It deals both first-strike and regular combat damage.)",
+      "loreDescription": "코르족 전사. \"Swords cannot reach far enough. Chains cannot strike hard enough. An eternal dilemma, but a simple one.\"",
+      "cardEffect": "As long as this creature is equipped, it has double strike. (It deals both first-strike and regular combat damage.)",
+      "cardStats": {
+        "manaCost": "{W}",
+        "power": "1",
+        "toughness": "1",
+        "colors": [
+          "W"
+        ],
+        "rarity": "uncommon",
+        "typeLine": "Creature — Kor Soldier"
+      },
+      "flavorText": "\"Swords cannot reach far enough. Chains cannot strike hard enough. An eternal dilemma, but a simple one.\"",
+      "cardRef": {
+        "id": "4fd1af74-ba3b-4528-9490-99edd54e9fe1",
+        "name": "Kor Duelist",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/4/f/4fd1af74-ba3b-4528-9490-99edd54e9fe1.jpg?1562612125"
+      },
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": []
+    },
+    {
+      "id": "C-mkcgahir",
+      "createdAt": "2026-01-13T10:30:14.067Z",
+      "name": "Living Tsunami",
+      "race": "Elemental",
+      "class": "",
+      "description": "Flying\nAt the beginning of your upkeep, sacrifice this creature unless you return a land you control to its owner's hand.",
+      "loreDescription": "젠디카르의 마나가 형상화된 정령. At low tide it slumbers. At high tide it devours.",
+      "cardEffect": "Flying\nAt the beginning of your upkeep, sacrifice this creature unless you return a land you control to its owner's hand.",
+      "cardStats": {
+        "manaCost": "{2}{U}{U}",
+        "power": "4",
+        "toughness": "4",
+        "colors": [
+          "U"
+        ],
+        "rarity": "uncommon",
+        "typeLine": "Creature — Elemental"
+      },
+      "flavorText": "At low tide it slumbers. At high tide it devours.",
+      "cardRef": {
+        "id": "107a4e2b-e463-46f3-a431-66ea954ef487",
+        "name": "Living Tsunami",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/1/0/107a4e2b-e463-46f3-a431-66ea954ef487.jpg?1562609904"
+      },
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": []
+    },
+    {
+      "id": "C-mkcgahis",
+      "createdAt": "2026-01-13T10:30:14.068Z",
+      "name": "Merfolk Seastalkers",
+      "race": "Merfolk",
+      "class": "Scout",
+      "description": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\n{2}{U}: Tap target creature without flying.",
+      "loreDescription": "타지임의 머포크. \"Do they seek knowledge or wealth? Are they bandits or benefactors? It depends on who is chanting the tale.\"\n—Nikou, Joraga bard",
+      "cardEffect": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\n{2}{U}: Tap target creature without flying.",
+      "cardStats": {
+        "manaCost": "{3}{U}",
+        "power": "2",
+        "toughness": "3",
+        "colors": [
+          "U"
+        ],
+        "rarity": "uncommon",
+        "typeLine": "Creature — Merfolk Scout"
+      },
+      "flavorText": "\"Do they seek knowledge or wealth? Are they bandits or benefactors? It depends on who is chanting the tale.\"\n—Nikou, Joraga bard",
+      "cardRef": {
+        "id": "4fe5d069-45a0-46ea-b3ec-4e75f0531382",
+        "name": "Merfolk Seastalkers",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/4/f/4fe5d069-45a0-46ea-b3ec-4e75f0531382.jpg?1562612127"
+      },
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": []
+    },
+    {
+      "id": "C-mkcgahis",
+      "createdAt": "2026-01-13T10:30:14.068Z",
+      "name": "Merfolk Wayfinder",
+      "race": "Merfolk",
+      "class": "Scout",
+      "description": "Flying\nWhen this creature enters, reveal the top three cards of your library. Put all Island cards revealed this way into your hand and the rest on the bottom of your library in any order.",
+      "loreDescription": "타지임의 머포크. Flying\nWhen this creature enters, reveal the top three cards of your library.",
+      "cardEffect": "Flying\nWhen this creature enters, reveal the top three cards of your library. Put all Island cards revealed this way into your hand and the rest on the bottom of your library in any order.",
+      "cardStats": {
+        "manaCost": "{2}{U}",
+        "power": "1",
+        "toughness": "2",
+        "colors": [
+          "U"
+        ],
+        "rarity": "uncommon",
+        "typeLine": "Creature — Merfolk Scout"
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "71ab86f3-aa75-40ce-a71e-90d40dad4bdc",
+        "name": "Merfolk Wayfinder",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/7/1/71ab86f3-aa75-40ce-a71e-90d40dad4bdc.jpg?1562613262"
+      },
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": []
+    },
+    {
+      "id": "C-mkcgahit",
+      "createdAt": "2026-01-13T10:30:14.069Z",
+      "name": "Murasa Pyromancer",
+      "race": "Human",
+      "class": "Shaman Ally",
+      "description": "Whenever this creature or another Ally you control enters, you may have this creature deal damage to target creature equal to the number of Allies you control.",
+      "loreDescription": "젠디카르의 모험가 동맹. \"Fire is my accomplice. For enough coin, it can be yours as well.\"",
+      "cardEffect": "Whenever this creature or another Ally you control enters, you may have this creature deal damage to target creature equal to the number of Allies you control.",
+      "cardStats": {
+        "manaCost": "{4}{R}{R}",
+        "power": "3",
+        "toughness": "2",
+        "colors": [
+          "R"
+        ],
+        "rarity": "uncommon",
+        "typeLine": "Creature — Human Shaman Ally"
+      },
+      "flavorText": "\"Fire is my accomplice. For enough coin, it can be yours as well.\"",
+      "cardRef": {
+        "id": "60daf59f-ffba-403b-8028-787ff33f2d6c",
+        "name": "Murasa Pyromancer",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/6/0/60daf59f-ffba-403b-8028-787ff33f2d6c.jpg?1562612706"
+      },
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": []
+    },
+    {
+      "id": "C-mkcgahiu",
+      "createdAt": "2026-01-13T10:30:14.070Z",
+      "name": "River Boa",
+      "race": "Snake",
+      "class": "",
+      "description": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\n{G}: Regenerate this creature.",
+      "loreDescription": "젠디카르의 생명체. \"Sheath your swords! Cudgels only. I see a new pair of waterproof trek boots slithering away.\"\n—Nablus, North Hada trapper",
+      "cardEffect": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\n{G}: Regenerate this creature.",
+      "cardStats": {
+        "manaCost": "{1}{G}",
+        "power": "2",
+        "toughness": "1",
+        "colors": [
+          "G"
+        ],
+        "rarity": "uncommon",
+        "typeLine": "Creature — Snake"
+      },
+      "flavorText": "\"Sheath your swords! Cudgels only. I see a new pair of waterproof trek boots slithering away.\"\n—Nablus, North Hada trapper",
+      "cardRef": {
+        "id": "4a81be06-b685-461b-80a8-2f23139106e7",
+        "name": "River Boa",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/4/a/4a81be06-b685-461b-80a8-2f23139106e7.jpg?1562611972"
+      },
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": []
+    },
+    {
+      "id": "C-mkcgahiv",
+      "createdAt": "2026-01-13T10:30:14.071Z",
+      "name": "Seascape Aerialist",
+      "race": "Merfolk",
+      "class": "Wizard Ally",
+      "description": "Whenever this creature or another Ally you control enters, you may have Ally creatures you control gain flying until end of turn.",
+      "loreDescription": "타지임의 머포크. \"The sky is like another sea. It teems with currents, life, and endless possibility.\"",
+      "cardEffect": "Whenever this creature or another Ally you control enters, you may have Ally creatures you control gain flying until end of turn.",
+      "cardStats": {
+        "manaCost": "{4}{U}",
+        "power": "2",
+        "toughness": "3",
+        "colors": [
+          "U"
+        ],
+        "rarity": "uncommon",
+        "typeLine": "Creature — Merfolk Wizard Ally"
+      },
+      "flavorText": "\"The sky is like another sea. It teems with currents, life, and endless possibility.\"",
+      "cardRef": {
+        "id": "3690efc8-de2b-4476-87da-d8ed9572dc84",
+        "name": "Seascape Aerialist",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/3/6/3690efc8-de2b-4476-87da-d8ed9572dc84.jpg?1562611246"
+      },
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": []
+    },
+    {
+      "id": "C-mkcgahiv",
+      "createdAt": "2026-01-13T10:30:14.071Z",
+      "name": "Shepherd of the Lost",
+      "race": "Angel",
+      "class": "",
+      "description": "Flying, first strike, vigilance",
+      "loreDescription": "에메리아의 천사. \"Should you fall in the wilds, lift your voice to the Sky Realm. The one who answers will be your salvation.\"\n—Emeria's Creed",
+      "cardEffect": "Flying, first strike, vigilance",
+      "cardStats": {
+        "manaCost": "{4}{W}",
+        "power": "3",
+        "toughness": "3",
+        "colors": [
+          "W"
+        ],
+        "rarity": "uncommon",
+        "typeLine": "Creature — Angel"
+      },
+      "flavorText": "\"Should you fall in the wilds, lift your voice to the Sky Realm. The one who answers will be your salvation.\"\n—Emeria's Creed",
+      "cardRef": {
+        "id": "ff23b1c2-7b99-4504-8944-ada264725524",
+        "name": "Shepherd of the Lost",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/f/f/ff23b1c2-7b99-4504-8944-ada264725524.jpg?1562618751"
+      },
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": []
+    },
+    {
+      "id": "C-mkcgahiw",
+      "createdAt": "2026-01-13T10:30:14.072Z",
+      "name": "Tajuru Archer",
+      "race": "Elf",
+      "class": "Archer Ally",
+      "description": "Whenever this creature or another Ally you control enters, you may have this creature deal damage to target creature with flying equal to the number of Allies you control.",
+      "loreDescription": "젠디카르의 엘프. Whenever this creature or another Ally you control enters, you may have this creature deal damage to target creature with flying equal to the number of Allies you control.",
+      "cardEffect": "Whenever this creature or another Ally you control enters, you may have this creature deal damage to target creature with flying equal to the number of Allies you control.",
+      "cardStats": {
+        "manaCost": "{2}{G}",
+        "power": "1",
+        "toughness": "2",
+        "colors": [
+          "G"
+        ],
+        "rarity": "uncommon",
+        "typeLine": "Creature — Elf Archer Ally"
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "ec46dbeb-f9b3-4e0f-a61f-52a91da6f087",
+        "name": "Tajuru Archer",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/e/c/ec46dbeb-f9b3-4e0f-a61f-52a91da6f087.jpg?1562618009"
+      },
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": []
+    },
+    {
+      "id": "C-mkcgahix",
+      "createdAt": "2026-01-13T10:30:14.073Z",
+      "name": "Turntimber Basilisk",
+      "race": "Basilisk",
+      "class": "",
+      "description": "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)\nLandfall — Whenever a land you control enters, you may have target creature block this creature this turn if able.",
+      "loreDescription": "젠디카르의 생명체. Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.",
+      "cardEffect": "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)\nLandfall — Whenever a land you control enters, you may have target creature block this creature this turn if able.",
+      "cardStats": {
+        "manaCost": "{1}{G}{G}",
+        "power": "2",
+        "toughness": "1",
+        "colors": [
+          "G"
+        ],
+        "rarity": "uncommon",
+        "typeLine": "Creature — Basilisk"
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "b774563a-d2d4-4bdf-ad82-dd9e1fa953ba",
+        "name": "Turntimber Basilisk",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/b/7/b774563a-d2d4-4bdf-ad82-dd9e1fa953ba.jpg?1562615823"
+      },
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": []
+    },
+    {
+      "id": "C-mkcgahiy",
+      "createdAt": "2026-01-13T10:30:14.074Z",
+      "name": "Vampire Hexmage",
+      "race": "Vampire",
+      "class": "Shaman",
+      "description": "First strike\nSacrifice this creature: Remove all counters from target permanent.",
+      "loreDescription": "구울 드라즈의 뱀파이어. When the blood hunt lost its thrill, she looked for less tangible means of domination.",
+      "cardEffect": "First strike\nSacrifice this creature: Remove all counters from target permanent.",
+      "cardStats": {
+        "manaCost": "{B}{B}",
+        "power": "2",
+        "toughness": "1",
+        "colors": [
+          "B"
+        ],
+        "rarity": "uncommon",
+        "typeLine": "Creature — Vampire Shaman"
+      },
+      "flavorText": "When the blood hunt lost its thrill, she looked for less tangible means of domination.",
+      "cardRef": {
+        "id": "93d2c4d1-6205-404a-b03d-995b90a3a33a",
+        "name": "Vampire Hexmage",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/9/3/93d2c4d1-6205-404a-b03d-995b90a3a33a.jpg?1764758660"
+      },
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": []
+    },
+    {
+      "id": "C-mkcgahiz",
+      "createdAt": "2026-01-13T10:30:14.075Z",
+      "name": "Vampire Nighthawk",
+      "race": "Vampire",
+      "class": "Shaman",
+      "description": "Flying\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)\nLifelink (Damage dealt by this creature also causes you to gain that much life.)",
+      "loreDescription": "구울 드라즈의 뱀파이어. Flying\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.",
+      "cardEffect": "Flying\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)\nLifelink (Damage dealt by this creature also causes you to gain that much life.)",
+      "cardStats": {
+        "manaCost": "{1}{B}{B}",
+        "power": "2",
+        "toughness": "3",
+        "colors": [
+          "B"
+        ],
+        "rarity": "uncommon",
+        "typeLine": "Creature — Vampire Shaman"
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "44f19fe3-7a17-4c45-adfa-590f73dfebfa",
+        "name": "Vampire Nighthawk",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/4/4/44f19fe3-7a17-4c45-adfa-590f73dfebfa.jpg?1562611769"
+      },
+      "faction": "",
+      "location": "",
+      "personality": "",
+      "goals": [],
+      "secrets": [],
+      "relationships": [],
+      "chapters": []
+    }
+  ]
+}

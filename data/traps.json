@@ -1,0 +1,356 @@
+{
+  "traps": [
+    {
+      "id": "T-mkcfphlh",
+      "createdAt": "2026-01-13T10:13:54.389Z",
+      "name": "Archive Trap",
+      "type": "마법 함정",
+      "location": "고대 유적, 도서관",
+      "trigger": "금지된 지식을 탐색할 때",
+      "effect": "침입자의 기억과 지식을 대량으로 소멸시킴",
+      "danger": "치명적",
+      "description": "젠디카르의 고대 유적에 설치된 지식 보호 함정. 허가 없이 비밀을 캐려는 자의 기억을 파괴한다.",
+      "cardRef": {
+        "id": "67bb2ca9-32b8-442d-b6a0-d624a87f5af8",
+        "name": "Archive Trap",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/6/7/67bb2ca9-32b8-442d-b6a0-d624a87f5af8.jpg?1562612958"
+      },
+      "chapters": [],
+      "cardEffect": "If an opponent searched their library this turn, you may pay {0} rather than pay this spell's mana cost.\nTarget opponent mills thirteen cards.",
+      "cardStats": {
+        "manaCost": "{3}{U}{U}",
+        "typeLine": "Instant — Trap",
+        "rarity": "rare",
+        "colors": [
+          "U"
+        ]
+      },
+      "flavorText": "",
+      "updatedAt": "2026-01-13T10:22:57.995Z",
+      "loreDescription": "기록의 함정. 젠디카르의 고대 유적과 금지된 도서관에 설치된 지식 보호 함정. 허가 없이 비밀을 캐려는 자의 기억을 대량으로 소멸시킨다. 머포크 현자들이 가장 중요한 지식을 보호하기 위해 만들었다고 전해지며, 발동되면 침입자는 열세 권 분량의 기억을 잃는다."
+    },
+    {
+      "id": "T-mkcfphpm",
+      "createdAt": "2026-01-13T10:13:54.538Z",
+      "name": "Lavaball Trap",
+      "type": "자연 함정",
+      "location": "아쿰, 발라쿠트",
+      "trigger": "땅이 급격히 변화할 때 (로완 현상)",
+      "effect": "거대한 용암구가 폭발하며 주변을 초토화",
+      "danger": "치명적",
+      "description": "젠디카르의 불안정한 화산 지대에서 발생하는 자연 함정. 로완 현상으로 땅이 움직이면 발동한다.",
+      "cardRef": {
+        "id": "c0d411e1-5488-4818-95a4-9f637efb9be6",
+        "name": "Lavaball Trap",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/c/0/c0d411e1-5488-4818-95a4-9f637efb9be6.jpg?1562616217"
+      },
+      "chapters": [],
+      "cardEffect": "If an opponent had two or more lands enter the battlefield under their control this turn, you may pay {3}{R}{R} rather than pay this spell's mana cost.\nDestroy two target lands. Lavaball Trap deals 4 damage to each creature.",
+      "cardStats": {
+        "manaCost": "{6}{R}{R}",
+        "typeLine": "Instant — Trap",
+        "rarity": "rare",
+        "colors": [
+          "R"
+        ]
+      },
+      "flavorText": "",
+      "updatedAt": "2026-01-13T10:22:57.999Z",
+      "loreDescription": "용암구 함정. 아쿰과 발라쿠트의 불안정한 화산 지대에서 자연적으로 발생하는 치명적인 함정. 로완 현상으로 땅이 급격히 변화하면 지하의 용암이 분출하며 거대한 화염구가 되어 주변을 초토화시킨다. 경험 많은 탐험가들도 이 함정 앞에서는 속수무책."
+    },
+    {
+      "id": "T-mkcfphto",
+      "createdAt": "2026-01-13T10:13:54.684Z",
+      "name": "Mindbreak Trap",
+      "type": "마법 함정",
+      "location": "타지임, 머포크 영역",
+      "trigger": "과도한 마법 시전",
+      "effect": "시전 중인 모든 마법을 차원 밖으로 추방",
+      "danger": "높음",
+      "description": "\"삶은 미로다. 이것은 그 막다른 길 중 하나.\" - Noyan Dar, 타지임 럴마법사. 머포크 럴마법사들이 설치하는 정신 방어 함정.",
+      "cardRef": {
+        "id": "4f51140b-6254-431a-8810-94307bfdfbbe",
+        "name": "Mindbreak Trap",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/4/f/4f51140b-6254-431a-8810-94307bfdfbbe.jpg?1562612097"
+      },
+      "chapters": [],
+      "cardEffect": "If an opponent cast three or more spells this turn, you may pay {0} rather than pay this spell's mana cost.\nExile any number of target spells.",
+      "cardStats": {
+        "manaCost": "{2}{U}{U}",
+        "typeLine": "Instant — Trap",
+        "rarity": "mythic",
+        "colors": [
+          "U"
+        ]
+      },
+      "flavorText": "\"Life is a maze. This is one of its dead ends.\"\n—Noyan Dar, Tazeem lullmage",
+      "updatedAt": "2026-01-13T10:22:57.999Z",
+      "loreDescription": "정신파괴 함정. \"삶은 미로다. 이것은 그 막다른 길 중 하나.\" - 노얀 다르, 타지임 럴마법사. 타지임의 머포크 럴마법사들이 자신들의 영역을 보호하기 위해 설치하는 정신 방어 함정. 과도하게 마법을 시전하는 적의 모든 주문을 차원 밖으로 추방해버린다."
+    },
+    {
+      "id": "T-mkcfphxq",
+      "createdAt": "2026-01-13T10:13:54.830Z",
+      "name": "Summoning Trap",
+      "type": "마법 함정",
+      "location": "무라사, 숲 지역",
+      "trigger": "소환 마법이 방해받을 때",
+      "effect": "자연의 수호자가 즉시 소환됨",
+      "danger": "중간 (아군에게는 유리)",
+      "description": "엘프 드루이드들이 숲에 설치해둔 방어 함정. 적이 소환을 방해하면 오히려 더 강력한 야수가 나타난다.",
+      "cardRef": {
+        "id": "55b71fb4-27ea-4846-87e4-efd2190faf36",
+        "name": "Summoning Trap",
+        "set": "mm3",
+        "image": "https://cards.scryfall.io/normal/front/5/5/55b71fb4-27ea-4846-87e4-efd2190faf36.jpg?1593813951"
+      },
+      "chapters": [],
+      "cardEffect": "If a creature spell you cast this turn was countered by a spell or ability an opponent controlled, you may pay {0} rather than pay this spell's mana cost.\nLook at the top seven cards of your library. You may put a creature card from among them onto the battlefield. Put the rest on the bottom of your library in any order.",
+      "cardStats": {
+        "manaCost": "{4}{G}{G}",
+        "typeLine": "Instant — Trap",
+        "rarity": "rare",
+        "colors": [
+          "G"
+        ]
+      },
+      "flavorText": "",
+      "updatedAt": "2026-01-13T10:22:57.999Z",
+      "loreDescription": "소환 함정. 무라사 숲의 엘프 드루이드들이 설치하는 방어 함정. 적이 소환 마법을 방해하려 하면 오히려 역효과가 발생하여, 숲의 가장 강력한 수호자가 즉시 나타난다. \"숲을 건드리지 마라. 숲이 되받아칠 것이다.\""
+    },
+    {
+      "id": "T-mkcgahj3",
+      "createdAt": "2026-01-13T10:30:14.079Z",
+      "name": "Arrow Volley Trap",
+      "type": "언커먼 함정",
+      "description": "If four or more creatures are attacking, you may pay {1}{W} rather than pay this spell's mana cost.\nArrow Volley Trap deals 5 damage divided as you choose among any number of target attacking creatures.",
+      "loreDescription": "화살 폭우 함정. 코르 전사들이 설치하는 방어 함정. 여러 공격자가 동시에 접근하면 하늘에서 화살비가 쏟아진다.",
+      "cardEffect": "If four or more creatures are attacking, you may pay {1}{W} rather than pay this spell's mana cost.\nArrow Volley Trap deals 5 damage divided as you choose among any number of target attacking creatures.",
+      "cardStats": {
+        "manaCost": "{3}{W}{W}",
+        "typeLine": "Instant — Trap",
+        "rarity": "uncommon",
+        "colors": [
+          "W"
+        ]
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "d94d5ae2-4d37-4c5f-b490-e578297d87c2",
+        "name": "Arrow Volley Trap",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/d/9/d94d5ae2-4d37-4c5f-b490-e578297d87c2.jpg?1562617271"
+      },
+      "location": "",
+      "trigger": "",
+      "effect": "",
+      "danger": "",
+      "chapters": []
+    },
+    {
+      "id": "T-mkcgahj3",
+      "createdAt": "2026-01-13T10:30:14.079Z",
+      "name": "Baloth Cage Trap",
+      "type": "언커먼 함정",
+      "description": "If an opponent had an artifact enter the battlefield under their control this turn, you may pay {1}{G} rather than pay this spell's mana cost.\nCreate a 4/4 green Beast creature token.",
+      "loreDescription": "베이로스 우리 함정. 엘프들이 설치하는 역습 함정. 적이 마법 물품을 사용하면 거대한 베이로스가 우리에서 풀려난다.",
+      "cardEffect": "If an opponent had an artifact enter the battlefield under their control this turn, you may pay {1}{G} rather than pay this spell's mana cost.\nCreate a 4/4 green Beast creature token.",
+      "cardStats": {
+        "manaCost": "{3}{G}{G}",
+        "typeLine": "Instant — Trap",
+        "rarity": "uncommon",
+        "colors": [
+          "G"
+        ]
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "c00ac173-ea82-4364-812c-13173a700dd0",
+        "name": "Baloth Cage Trap",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/c/0/c00ac173-ea82-4364-812c-13173a700dd0.jpg?1562616191"
+      },
+      "location": "",
+      "trigger": "",
+      "effect": "",
+      "danger": "",
+      "chapters": []
+    },
+    {
+      "id": "T-mkcgahj3",
+      "createdAt": "2026-01-13T10:30:14.079Z",
+      "name": "Cobra Trap",
+      "type": "언커먼 함정",
+      "description": "If a noncreature permanent under your control was destroyed this turn by a spell or ability an opponent controlled, you may pay {G} rather than pay this spell's mana cost.\nCreate four 1/1 green Snake creature tokens.",
+      "loreDescription": "코브라 함정. 정글에 설치된 독사 함정. 생물이 파괴되면 수많은 독사가 튀어나와 보복한다.",
+      "cardEffect": "If a noncreature permanent under your control was destroyed this turn by a spell or ability an opponent controlled, you may pay {G} rather than pay this spell's mana cost.\nCreate four 1/1 green Snake creature tokens.",
+      "cardStats": {
+        "manaCost": "{4}{G}{G}",
+        "typeLine": "Instant — Trap",
+        "rarity": "uncommon",
+        "colors": [
+          "G"
+        ]
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "8a4e2966-c163-4e02-a315-4fe66e482884",
+        "name": "Cobra Trap",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/8/a/8a4e2966-c163-4e02-a315-4fe66e482884.jpg?1562614169"
+      },
+      "location": "",
+      "trigger": "",
+      "effect": "",
+      "danger": "",
+      "chapters": []
+    },
+    {
+      "id": "T-mkcgahj4",
+      "createdAt": "2026-01-13T10:30:14.080Z",
+      "name": "Inferno Trap",
+      "type": "언커먼 함정",
+      "description": "If you've been dealt damage by two or more creatures this turn, you may pay {R} rather than pay this spell's mana cost.\nInferno Trap deals 4 damage to target creature.",
+      "loreDescription": "지옥불 함정. 화산 지대에 설치된 화염 함정. 피해를 입은 자에게 불길이 되돌아간다.",
+      "cardEffect": "If you've been dealt damage by two or more creatures this turn, you may pay {R} rather than pay this spell's mana cost.\nInferno Trap deals 4 damage to target creature.",
+      "cardStats": {
+        "manaCost": "{3}{R}",
+        "typeLine": "Instant — Trap",
+        "rarity": "uncommon",
+        "colors": [
+          "R"
+        ]
+      },
+      "flavorText": "\"Do you smell something burning?\"",
+      "cardRef": {
+        "id": "9a81ac38-c477-4797-ab91-cb7804cb727b",
+        "name": "Inferno Trap",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/9/a/9a81ac38-c477-4797-ab91-cb7804cb727b.jpg?1562614685"
+      },
+      "location": "",
+      "trigger": "",
+      "effect": "",
+      "danger": "",
+      "chapters": []
+    },
+    {
+      "id": "T-mkcgahj4",
+      "createdAt": "2026-01-13T10:30:14.080Z",
+      "name": "Needlebite Trap",
+      "type": "언커먼 함정",
+      "description": "If an opponent gained life this turn, you may pay {B} rather than pay this spell's mana cost.\nTarget player loses 5 life and you gain 5 life.",
+      "loreDescription": "바늘 물기 함정. 생명력을 노리는 뱀파이어의 함정. 상대가 생명력을 얻으면 그 이상을 빼앗는다.",
+      "cardEffect": "If an opponent gained life this turn, you may pay {B} rather than pay this spell's mana cost.\nTarget player loses 5 life and you gain 5 life.",
+      "cardStats": {
+        "manaCost": "{5}{B}{B}",
+        "typeLine": "Instant — Trap",
+        "rarity": "uncommon",
+        "colors": [
+          "B"
+        ]
+      },
+      "flavorText": "The traps around the vampire city of Malakir hint at the thirst of its inhabitants.",
+      "cardRef": {
+        "id": "8dee4c4e-9505-43e5-88af-db5f9e56a749",
+        "name": "Needlebite Trap",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/8/d/8dee4c4e-9505-43e5-88af-db5f9e56a749.jpg?1562614287"
+      },
+      "location": "",
+      "trigger": "",
+      "effect": "",
+      "danger": "",
+      "chapters": []
+    },
+    {
+      "id": "T-mkcgahj4",
+      "createdAt": "2026-01-13T10:30:14.080Z",
+      "name": "Pitfall Trap",
+      "type": "언커먼 함정",
+      "description": "If exactly one creature is attacking, you may pay {W} rather than pay this spell's mana cost.\nDestroy target attacking creature without flying.",
+      "loreDescription": "구덩이 함정. 가장 기본적인 젠디카르 함정. 공격하는 적을 깊은 구덩이로 빠뜨린다.",
+      "cardEffect": "If exactly one creature is attacking, you may pay {W} rather than pay this spell's mana cost.\nDestroy target attacking creature without flying.",
+      "cardStats": {
+        "manaCost": "{2}{W}",
+        "typeLine": "Instant — Trap",
+        "rarity": "uncommon",
+        "colors": [
+          "W"
+        ]
+      },
+      "flavorText": "Each spike is poisoned—the trapmaker's idea of mercy.",
+      "cardRef": {
+        "id": "2823d9a5-dd2f-4e6a-8e3d-554c4204aa32",
+        "name": "Pitfall Trap",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/2/8/2823d9a5-dd2f-4e6a-8e3d-554c4204aa32.jpg?1562610754"
+      },
+      "location": "",
+      "trigger": "",
+      "effect": "",
+      "danger": "",
+      "chapters": []
+    },
+    {
+      "id": "T-mkcgahj4",
+      "createdAt": "2026-01-13T10:30:14.080Z",
+      "name": "Ravenous Trap",
+      "type": "언커먼 함정",
+      "description": "If an opponent had three or more cards put into their graveyard from anywhere this turn, you may pay {0} rather than pay this spell's mana cost.\nExile target player's graveyard.",
+      "loreDescription": "탐욕의 함정. 무덤을 노리는 자에게 발동하는 함정. 시체를 건드리면 모든 것이 사라진다.",
+      "cardEffect": "If an opponent had three or more cards put into their graveyard from anywhere this turn, you may pay {0} rather than pay this spell's mana cost.\nExile target player's graveyard.",
+      "cardStats": {
+        "manaCost": "{2}{B}{B}",
+        "typeLine": "Instant — Trap",
+        "rarity": "uncommon",
+        "colors": [
+          "B"
+        ]
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "f4540013-11f9-4a8b-ad54-61f467f04756",
+        "name": "Ravenous Trap",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/f/4/f4540013-11f9-4a8b-ad54-61f467f04756.jpg?1562618344"
+      },
+      "location": "",
+      "trigger": "",
+      "effect": "",
+      "danger": "",
+      "chapters": []
+    },
+    {
+      "id": "T-mkcgahj5",
+      "createdAt": "2026-01-13T10:30:14.081Z",
+      "name": "Runeflare Trap",
+      "type": "언커먼 함정",
+      "description": "If an opponent drew three or more cards this turn, you may pay {R} rather than pay this spell's mana cost.\nRuneflare Trap deals damage to target player equal to the number of cards in that player's hand.",
+      "loreDescription": "룬 섬광 함정. 마법적 지식을 훔치려는 자에게 발동하는 함정. 너무 많은 지식은 불꽃이 되어 되돌아온다.",
+      "cardEffect": "If an opponent drew three or more cards this turn, you may pay {R} rather than pay this spell's mana cost.\nRuneflare Trap deals damage to target player equal to the number of cards in that player's hand.",
+      "cardStats": {
+        "manaCost": "{4}{R}{R}",
+        "typeLine": "Instant — Trap",
+        "rarity": "uncommon",
+        "colors": [
+          "R"
+        ]
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "e2ceff22-0270-4c9d-9ae2-f40a7047335b",
+        "name": "Runeflare Trap",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/e/2/e2ceff22-0270-4c9d-9ae2-f40a7047335b.jpg?1562617625"
+      },
+      "location": "",
+      "trigger": "",
+      "effect": "",
+      "danger": "",
+      "chapters": []
+    }
+  ]
+}

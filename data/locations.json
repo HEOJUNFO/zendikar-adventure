@@ -1,0 +1,394 @@
+{
+  "locations": [
+    {
+      "id": "L-mkcfar8g",
+      "createdAt": "2026-01-13T10:02:27.040Z",
+      "name": "Emeria, the Sky Ruin",
+      "type": "Land",
+      "description": "This land enters tapped.\nAt the beginning of your upkeep, if you control seven or more Plains, you may return target creature card from your graveyard to the battlefield.\n{T}: Add {W}.",
+      "cardRef": {
+        "id": "bb89c14b-028a-4bef-ae94-703198ef0376",
+        "name": "Emeria, the Sky Ruin",
+        "set": "c14",
+        "image": "https://cards.scryfall.io/normal/front/b/b/bb89c14b-028a-4bef-ae94-703198ef0376.jpg?1561956616",
+        "url": "https://scryfall.com/card/c14/293/emeria-the-sky-ruin?utm_source=api"
+      },
+      "continent": "",
+      "dangers": [],
+      "treasures": [],
+      "inhabitants": [],
+      "chapters": [],
+      "cardEffect": "This land enters tapped.\nAt the beginning of your upkeep, if you control seven or more Plains, you may return target creature card from your graveyard to the battlefield.\n{T}: Add {W}.",
+      "cardStats": {
+        "typeLine": "Land",
+        "rarity": "rare"
+      },
+      "loreDescription": "하늘 높이 떠 있는 폐허. 고대 천사들의 성역이었으나 지금은 잊혀진 유적이다. 이곳의 힘은 죽은 자를 되살릴 수 있다고 전해진다.",
+      "flavorText": "",
+      "updatedAt": "2026-01-13T10:17:30.819Z"
+    },
+    {
+      "id": "L-mkcfarcr",
+      "createdAt": "2026-01-13T10:02:27.195Z",
+      "name": "Valakut, the Molten Pinnacle",
+      "type": "Land",
+      "description": "This land enters tapped.\nWhenever a Mountain you control enters, if you control at least five other Mountains, you may have this land deal 3 damage to any target.\n{T}: Add {R}.",
+      "cardRef": {
+        "id": "37bce60d-2cb0-4772-9f5c-122a7ed426a0",
+        "name": "Valakut, the Molten Pinnacle",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/3/7/37bce60d-2cb0-4772-9f5c-122a7ed426a0.jpg?1562611305",
+        "url": "https://scryfall.com/card/zen/228/valakut-the-molten-pinnacle?utm_source=api"
+      },
+      "continent": "",
+      "dangers": [],
+      "treasures": [],
+      "inhabitants": [],
+      "chapters": [],
+      "cardEffect": "This land enters tapped.\nWhenever a Mountain you control enters, if you control at least five other Mountains, you may have this land deal 3 damage to any target.\n{T}: Add {R}.",
+      "cardStats": {
+        "typeLine": "Land",
+        "rarity": "rare"
+      },
+      "loreDescription": "아쿰 대륙의 거대한 화산. 용암이 끊임없이 흐르며, 산 전체가 분노한 듯 불을 뿜는다. 이곳에 발을 디딘 자는 화염의 심판을 받는다.",
+      "flavorText": "",
+      "updatedAt": "2026-01-13T10:17:30.968Z"
+    },
+    {
+      "id": "L-mkcfarld",
+      "createdAt": "2026-01-13T10:02:27.505Z",
+      "name": "Crypt of Agadeem",
+      "type": "Land",
+      "description": "This land enters tapped.\n{T}: Add {B}.\n{2}, {T}: Add {B} for each black creature card in your graveyard.",
+      "cardRef": {
+        "id": "18adafe6-de67-4101-8b39-b53ab695ec4a",
+        "name": "Crypt of Agadeem",
+        "set": "tdc",
+        "image": "https://cards.scryfall.io/normal/front/1/8/18adafe6-de67-4101-8b39-b53ab695ec4a.jpg?1743207512",
+        "url": "https://scryfall.com/card/tdc/354/crypt-of-agadeem?utm_source=api"
+      },
+      "continent": "",
+      "dangers": [],
+      "treasures": [],
+      "inhabitants": [],
+      "chapters": [],
+      "cardEffect": "This land enters tapped.\n{T}: Add {B}.\n{2}, {T}: Add {B} for each black creature card in your graveyard.",
+      "cardStats": {
+        "typeLine": "Land",
+        "rarity": "rare"
+      },
+      "loreDescription": "아가딤의 지하 묘소. 수많은 흑마법사들이 이곳에 묻혀 있으며, 그들의 영혼은 여전히 어둠의 힘을 발산한다.",
+      "flavorText": "",
+      "updatedAt": "2026-01-13T10:17:31.117Z"
+    },
+    {
+      "id": "L-mkcfarwr",
+      "createdAt": "2026-01-13T10:02:27.915Z",
+      "name": "Oran-Rief, the Vastwood",
+      "type": "Land",
+      "description": "This land enters tapped.\n{T}: Add {G}.\n{T}: Put a +1/+1 counter on each green creature that entered this turn.",
+      "cardRef": {
+        "id": "3cb8fc57-6c2b-45bf-93d3-c573e31cf158",
+        "name": "Oran-Rief, the Vastwood",
+        "set": "nec",
+        "image": "https://cards.scryfall.io/normal/front/3/c/3cb8fc57-6c2b-45bf-93d3-c573e31cf158.jpg?1651656510",
+        "url": "https://scryfall.com/card/nec/173/oran-rief-the-vastwood?utm_source=api"
+      },
+      "continent": "",
+      "dangers": [],
+      "treasures": [],
+      "inhabitants": [],
+      "chapters": [],
+      "cardEffect": "This land enters tapped.\n{T}: Add {G}.\n{T}: Put a +1/+1 counter on each green creature that entered this turn.",
+      "cardStats": {
+        "typeLine": "Land",
+        "rarity": "rare"
+      },
+      "loreDescription": "끝없이 펼쳐진 거대한 숲. 이곳에서 태어난 생명체는 숲의 축복을 받아 더욱 강해진다.",
+      "flavorText": "",
+      "updatedAt": "2026-01-13T10:17:31.267Z"
+    },
+    {
+      "id": "L-mkcfas90",
+      "createdAt": "2026-01-13T10:02:28.356Z",
+      "name": "Magosi, the Waterveil",
+      "type": "Land",
+      "description": "This land enters tapped.\n{T}: Add {U}.\n{U}, {T}: Put an eon counter on this land. Skip your next turn.\n{T}, Remove an eon counter from this land and return it to its owner's hand: Take an extra turn after this one.",
+      "cardRef": {
+        "id": "3c84cf70-4164-47ea-8da1-c0ca1ac132e1",
+        "name": "Magosi, the Waterveil",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/3/c/3c84cf70-4164-47ea-8da1-c0ca1ac132e1.jpg?1562611444",
+        "url": "https://scryfall.com/card/zen/218/magosi-the-waterveil?utm_source=api"
+      },
+      "continent": "",
+      "dangers": [],
+      "treasures": [],
+      "inhabitants": [],
+      "chapters": [],
+      "cardEffect": "This land enters tapped.\n{T}: Add {U}.\n{U}, {T}: Put an eon counter on this land. Skip your next turn.\n{T}, Remove an eon counter from this land and return it to its owner's hand: Take an extra turn after this one.",
+      "cardStats": {
+        "typeLine": "Land",
+        "rarity": "rare"
+      },
+      "loreDescription": "시간이 정지된 듯한 신비로운 폭포. 이곳의 물은 시간 자체를 조작할 수 있는 힘을 지녔다고 한다.",
+      "flavorText": "",
+      "updatedAt": "2026-01-13T10:17:31.417Z"
+    },
+    {
+      "id": "L-mkcg4pzz",
+      "createdAt": "2026-01-13T10:25:45.119Z",
+      "name": "Arid Mesa",
+      "continent": "아쿰/온두 경계",
+      "type": "Fetch Land (경계지대)",
+      "description": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle.",
+      "loreDescription": "건조한 대지. 붉은 바위와 메마른 흙으로 이루어진 척박한 고원지대. 산과 평원이 만나는 경계에 위치하며, 코르 유목민들이 이동 경로로 자주 이용한다. 물이 귀하지만, 지하에는 숨겨진 수원이 있다고 전해진다.",
+      "cardEffect": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle.",
+      "cardStats": {
+        "typeLine": "Land",
+        "rarity": "rare"
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "25ac5405-df7b-4097-914a-022cb18e20d4",
+        "name": "Arid Mesa",
+        "set": "mh2",
+        "image": "https://cards.scryfall.io/normal/front/2/5/25ac5405-df7b-4097-914a-022cb18e20d4.jpg?1738703645",
+        "url": "https://scryfall.com/card/mh2/244/arid-mesa?utm_source=api"
+      },
+      "dangers": [],
+      "treasures": [],
+      "inhabitants": [],
+      "chapters": []
+    },
+    {
+      "id": "L-mkcg4q5d",
+      "createdAt": "2026-01-13T10:25:45.313Z",
+      "name": "Marsh Flats",
+      "continent": "구울 드라즈/온두 경계",
+      "type": "Fetch Land (경계지대)",
+      "description": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle.",
+      "loreDescription": "늪지 평원. 평원과 늪이 만나는 음습한 경계 지대. 안개가 자주 끼고, 발밑의 땅이 예고 없이 무너지기도 한다. 뱀파이어들이 사냥터로 즐겨 찾는 위험한 지역.",
+      "cardEffect": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle.",
+      "cardStats": {
+        "typeLine": "Land",
+        "rarity": "rare"
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "9db3ba6d-eb7f-4f5b-9a3b-c6239c3baa42",
+        "name": "Marsh Flats",
+        "set": "mh2",
+        "image": "https://cards.scryfall.io/normal/front/9/d/9db3ba6d-eb7f-4f5b-9a3b-c6239c3baa42.jpg?1738703598",
+        "url": "https://scryfall.com/card/mh2/248/marsh-flats?utm_source=api"
+      },
+      "dangers": [],
+      "treasures": [],
+      "inhabitants": [],
+      "chapters": []
+    },
+    {
+      "id": "L-mkcg4q9e",
+      "createdAt": "2026-01-13T10:25:45.458Z",
+      "name": "Misty Rainforest",
+      "continent": "무라사/타지임 경계",
+      "type": "Fetch Land (경계지대)",
+      "description": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle.",
+      "loreDescription": "안개 낀 열대우림. 숲과 섬이 만나는 신비로운 경계. 항상 짙은 안개에 휩싸여 있어 방향 감각을 잃기 쉽다. 엘프와 머포크 모두 이 지역을 신성시하며, 고대의 비밀이 잠들어 있다고 믿는다.",
+      "cardEffect": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle.",
+      "cardStats": {
+        "typeLine": "Land",
+        "rarity": "rare"
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "88231c0d-0cc8-44ec-bf95-81d1710ac141",
+        "name": "Misty Rainforest",
+        "set": "mh2",
+        "image": "https://cards.scryfall.io/normal/front/8/8/88231c0d-0cc8-44ec-bf95-81d1710ac141.jpg?1738703648",
+        "url": "https://scryfall.com/card/mh2/250/misty-rainforest?utm_source=api"
+      },
+      "dangers": [],
+      "treasures": [],
+      "inhabitants": [],
+      "chapters": []
+    },
+    {
+      "id": "L-mkcg4qdf",
+      "createdAt": "2026-01-13T10:25:45.603Z",
+      "name": "Scalding Tarn",
+      "continent": "아쿰",
+      "type": "Fetch Land (경계지대)",
+      "description": "{T}, Pay 1 life, Sacrifice this land: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle.",
+      "loreDescription": "끓는 연못. 산악 지대에 위치한 뜨거운 온천 지역. 화산 활동으로 물이 항상 끓어오르며, 증기가 하늘을 뒤덮는다. 위험하지만 희귀한 광물이 풍부하여 모험가들이 목숨을 걸고 찾아온다.",
+      "cardEffect": "{T}, Pay 1 life, Sacrifice this land: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle.",
+      "cardStats": {
+        "typeLine": "Land",
+        "rarity": "rare"
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "71e491c5-8c07-449b-b2f1-ffa052e6d311",
+        "name": "Scalding Tarn",
+        "set": "mh2",
+        "image": "https://cards.scryfall.io/normal/front/7/1/71e491c5-8c07-449b-b2f1-ffa052e6d311.jpg?1738703652",
+        "url": "https://scryfall.com/card/mh2/254/scalding-tarn?utm_source=api"
+      },
+      "dangers": [],
+      "treasures": [],
+      "inhabitants": [],
+      "chapters": []
+    },
+    {
+      "id": "L-mkcg4qhl",
+      "createdAt": "2026-01-13T10:25:45.753Z",
+      "name": "Verdant Catacombs",
+      "continent": "발라 게드/구울 드라즈 경계",
+      "type": "Fetch Land (경계지대)",
+      "description": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle.",
+      "loreDescription": "푸른 지하묘지. 숲과 늪이 만나는 지하 동굴 시스템. 이끼와 덩굴이 무성하게 자라는 습한 지하 세계로, 고대 문명의 유적이 숨겨져 있다. 죽은 자와 산 자의 경계가 모호한 곳.",
+      "cardEffect": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle.",
+      "cardStats": {
+        "typeLine": "Land",
+        "rarity": "rare"
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "94c229ea-90da-4aa0-bfda-b162fb3b5b8b",
+        "name": "Verdant Catacombs",
+        "set": "mh2",
+        "image": "https://cards.scryfall.io/normal/front/9/4/94c229ea-90da-4aa0-bfda-b162fb3b5b8b.jpg?1738703665",
+        "url": "https://scryfall.com/card/mh2/260/verdant-catacombs?utm_source=api"
+      },
+      "dangers": [],
+      "treasures": [],
+      "inhabitants": [],
+      "chapters": []
+    },
+    {
+      "id": "L-mkcgahiz",
+      "createdAt": "2026-01-13T10:30:14.075Z",
+      "name": "Akoum Refuge",
+      "type": "Refuge (피난처)",
+      "continent": "Akoum",
+      "description": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {B} or {R}.",
+      "loreDescription": "아쿰의 피난처. 화산 지대 한가운데 위치한 오아시스. 뜨거운 대지 속에서도 생명이 숨쉬는 곳으로, 모험가들에게 잠시나마 휴식을 제공한다.",
+      "cardEffect": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {B} or {R}.",
+      "cardStats": {
+        "typeLine": "Land",
+        "rarity": "uncommon"
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "2ed95b4a-1452-4337-a4b2-e67e624d33df",
+        "name": "Akoum Refuge",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/2/e/2ed95b4a-1452-4337-a4b2-e67e624d33df.jpg?1562610980"
+      },
+      "dangers": [],
+      "treasures": [],
+      "inhabitants": [],
+      "chapters": []
+    },
+    {
+      "id": "L-mkcgahj0",
+      "createdAt": "2026-01-13T10:30:14.076Z",
+      "name": "Graypelt Refuge",
+      "type": "Refuge (피난처)",
+      "continent": "Graypelt",
+      "description": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {G} or {W}.",
+      "loreDescription": "그레이펠트 피난처. 온두의 회색 초원에 위치한 안식처. 코르 유목민들이 대대로 이용해온 휴식지로, 평원의 바람이 상처를 치유한다.",
+      "cardEffect": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {G} or {W}.",
+      "cardStats": {
+        "typeLine": "Land",
+        "rarity": "uncommon"
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "c46324e3-52e7-4b21-a9a0-a3aae9f7dd5b",
+        "name": "Graypelt Refuge",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/c/4/c46324e3-52e7-4b21-a9a0-a3aae9f7dd5b.jpg?1562616343"
+      },
+      "dangers": [],
+      "treasures": [],
+      "inhabitants": [],
+      "chapters": []
+    },
+    {
+      "id": "L-mkcgahj0",
+      "createdAt": "2026-01-13T10:30:14.076Z",
+      "name": "Jwar Isle Refuge",
+      "type": "Refuge (피난처)",
+      "continent": "Jwar",
+      "description": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {U} or {B}.",
+      "loreDescription": "즈와르 섬 피난처. 타지임의 떠다니는 섬에 있는 비밀 은신처. 머포크들이 지키는 곳으로, 바다의 지혜가 깃든 안전지대.",
+      "cardEffect": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {U} or {B}.",
+      "cardStats": {
+        "typeLine": "Land",
+        "rarity": "uncommon"
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "ddd9463f-d029-459d-a933-432b7bbd7a41",
+        "name": "Jwar Isle Refuge",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/d/d/ddd9463f-d029-459d-a933-432b7bbd7a41.jpg?1562617436"
+      },
+      "dangers": [],
+      "treasures": [],
+      "inhabitants": [],
+      "chapters": []
+    },
+    {
+      "id": "L-mkcgahj0",
+      "createdAt": "2026-01-13T10:30:14.076Z",
+      "name": "Kazandu Refuge",
+      "type": "Refuge (피난처)",
+      "continent": "Kazandu",
+      "description": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {R} or {G}.",
+      "loreDescription": "카잔두 피난처. 무라사 숲 깊숙이 숨겨진 안전 지대. 엘프들의 보호를 받으며, 숲의 생명력이 여행자를 회복시킨다.",
+      "cardEffect": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {R} or {G}.",
+      "cardStats": {
+        "typeLine": "Land",
+        "rarity": "uncommon"
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "8af66f9c-c90b-45e0-a54c-a76e7e1b9dff",
+        "name": "Kazandu Refuge",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/8/a/8af66f9c-c90b-45e0-a54c-a76e7e1b9dff.jpg?1562614180"
+      },
+      "dangers": [],
+      "treasures": [],
+      "inhabitants": [],
+      "chapters": []
+    },
+    {
+      "id": "L-mkcgahj1",
+      "createdAt": "2026-01-13T10:30:14.077Z",
+      "name": "Sejiri Refuge",
+      "type": "Refuge (피난처)",
+      "continent": "Sejiri",
+      "description": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {W} or {U}.",
+      "loreDescription": "세즈리 피난처. 얼어붙은 설원의 따뜻한 동굴. 혹한 속 유일한 생존지로, 세즈리의 빙하 속에 숨겨진 따뜻한 온천이 있다.",
+      "cardEffect": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {W} or {U}.",
+      "cardStats": {
+        "typeLine": "Land",
+        "rarity": "uncommon"
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "1fd8cb0d-d651-44e7-ae14-4035b0f1aa77",
+        "name": "Sejiri Refuge",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/1/f/1fd8cb0d-d651-44e7-ae14-4035b0f1aa77.jpg?1562610475"
+      },
+      "dangers": [],
+      "treasures": [],
+      "inhabitants": [],
+      "chapters": []
+    }
+  ]
+}
