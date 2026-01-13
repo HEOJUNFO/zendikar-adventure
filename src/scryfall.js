@@ -8,13 +8,13 @@ const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
 // 젠디카르 관련 세트 코드
 const ZENDIKAR_SETS = {
-  zen: 'Zendikar (2009)', //1-1
-  wwk: 'Worldwake (2010)',//1-2
-  roe: 'Rise of the Eldrazi (2010)',//1-3
-  bfz: 'Battle for Zendikar (2015)',
-  ogw: 'Oath of the Gatewatch (2016)',
-  znr: 'Zendikar Rising (2020)',
-  znc: 'Zendikar Rising Commander (2020)'
+  zen: 'Zendikar (2009)', //1부-1
+  wwk: 'Worldwake (2010)',//1부-2
+  roe: 'Rise of the Eldrazi (2010)',//1부-3
+  bfz: 'Battle for Zendikar (2015)',//2부-1
+  ogw: 'Oath of the Gatewatch (2016)',//2부-2
+  znr: 'Zendikar Rising (2020)',//3부-1
+  znc: 'Zendikar Rising Commander (2020)'//3부 스핀오프
 };
 
 // ========== 카드 검색 ==========
