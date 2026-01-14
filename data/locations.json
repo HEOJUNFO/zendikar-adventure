@@ -389,6 +389,131 @@
       "treasures": [],
       "inhabitants": [],
       "chapters": []
+    },
+    {
+      "id": "L-mkdptrel",
+      "createdAt": "2026-01-14T07:44:56.061Z",
+      "name": "Kabira Crossroads",
+      "type": "커먼 대지",
+      "continent": "Kabira",
+      "description": "This land enters tapped.\nWhen this land enters, you gain 2 life.\n{T}: Add {W}.",
+      "loreDescription": "카비라 교차로. 온두의 중요한 길목. 이곳을 지나는 여행자들에게 생명력을 회복시켜주는 신성한 땅.",
+      "cardEffect": "This land enters tapped.\nWhen this land enters, you gain 2 life.\n{T}: Add {W}.",
+      "cardStats": {
+        "typeLine": "Land",
+        "rarity": "common"
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "a776decb-cdb5-4f41-8a3a-c0cece18eb35",
+        "name": "Kabira Crossroads",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/a/7/a776decb-cdb5-4f41-8a3a-c0cece18eb35.jpg?1562615227"
+      },
+      "dangers": [],
+      "treasures": [],
+      "inhabitants": [],
+      "chapters": []
+    },
+    {
+      "id": "L-mkdptrel",
+      "createdAt": "2026-01-14T07:44:56.061Z",
+      "name": "Piranha Marsh",
+      "type": "커먼 대지",
+      "continent": "Piranha",
+      "description": "This land enters tapped.\nWhen this land enters, target player loses 1 life.\n{T}: Add {B}.",
+      "loreDescription": "피라냐 늪. 구울 드라즈의 위험한 늪지대. 발을 들이면 생명력이 빨려나간다.",
+      "cardEffect": "This land enters tapped.\nWhen this land enters, target player loses 1 life.\n{T}: Add {B}.",
+      "cardStats": {
+        "typeLine": "Land",
+        "rarity": "common"
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "ea077cff-b5c9-4a40-8e66-8810c37be5cb",
+        "name": "Piranha Marsh",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/e/a/ea077cff-b5c9-4a40-8e66-8810c37be5cb.jpg?1562617915"
+      },
+      "dangers": [],
+      "treasures": [],
+      "inhabitants": [],
+      "chapters": []
+    },
+    {
+      "id": "L-mkdptrem",
+      "createdAt": "2026-01-14T07:44:56.062Z",
+      "name": "Soaring Seacliff",
+      "type": "커먼 대지",
+      "continent": "Soaring",
+      "description": "This land enters tapped.\nWhen this land enters, target creature gains flying until end of turn.\n{T}: Add {U}.",
+      "loreDescription": "솟아오른 바다 절벽. 타지임의 떠다니는 절벽. 이곳에서 뛰어내리면 하늘을 날 수 있다는 전설이 있다.",
+      "cardEffect": "This land enters tapped.\nWhen this land enters, target creature gains flying until end of turn.\n{T}: Add {U}.",
+      "cardStats": {
+        "typeLine": "Land",
+        "rarity": "common"
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "6bf0de91-765a-49e3-bd8a-94f266b3bdd8",
+        "name": "Soaring Seacliff",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/6/b/6bf0de91-765a-49e3-bd8a-94f266b3bdd8.jpg?1562613085"
+      },
+      "dangers": [],
+      "treasures": [],
+      "inhabitants": [],
+      "chapters": []
+    },
+    {
+      "id": "L-mkdptrem",
+      "createdAt": "2026-01-14T07:44:56.062Z",
+      "name": "Teetering Peaks",
+      "type": "커먼 대지",
+      "continent": "Teetering",
+      "description": "This land enters tapped.\nWhen this land enters, target creature gets +2/+0 until end of turn.\n{T}: Add {R}.",
+      "loreDescription": "흔들리는 봉우리. 아쿰의 불안정한 산악지대. 로완 현상으로 끊임없이 흔들리며, 이곳의 힘은 전사들을 강하게 만든다.",
+      "cardEffect": "This land enters tapped.\nWhen this land enters, target creature gets +2/+0 until end of turn.\n{T}: Add {R}.",
+      "cardStats": {
+        "typeLine": "Land",
+        "rarity": "common"
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "e56aca36-bb51-45e3-9ef9-9f9f2aa1e088",
+        "name": "Teetering Peaks",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/e/5/e56aca36-bb51-45e3-9ef9-9f9f2aa1e088.jpg?1562617727"
+      },
+      "dangers": [],
+      "treasures": [],
+      "inhabitants": [],
+      "chapters": []
+    },
+    {
+      "id": "L-mkdptrem",
+      "createdAt": "2026-01-14T07:44:56.062Z",
+      "name": "Turntimber Grove",
+      "type": "커먼 대지",
+      "continent": "Turntimber",
+      "description": "This land enters tapped.\nWhen this land enters, target creature gets +1/+1 until end of turn.\n{T}: Add {G}.",
+      "loreDescription": "턴팀버 숲. 무라사의 울창한 숲. 이곳에 들어서면 자연의 힘이 생명체를 강화시킨다.",
+      "cardEffect": "This land enters tapped.\nWhen this land enters, target creature gets +1/+1 until end of turn.\n{T}: Add {G}.",
+      "cardStats": {
+        "typeLine": "Land",
+        "rarity": "common"
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "fc92d6ef-a578-4320-b5c8-3da192eea1f3",
+        "name": "Turntimber Grove",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/f/c/fc92d6ef-a578-4320-b5c8-3da192eea1f3.jpg?1562618657"
+      },
+      "dangers": [],
+      "treasures": [],
+      "inhabitants": [],
+      "chapters": []
     }
   ]
 }

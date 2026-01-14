@@ -351,6 +351,64 @@
       "effect": "",
       "danger": "",
       "chapters": []
+    },
+    {
+      "id": "T-mkdptreo",
+      "createdAt": "2026-01-14T07:44:56.064Z",
+      "name": "Lethargy Trap",
+      "type": "커먼 함정",
+      "description": "If three or more creatures are attacking, you may pay {U} rather than pay this spell's mana cost.\nAttacking creatures get -3/-0 until end of turn.",
+      "loreDescription": "무기력 함정. 너무 많은 공격자가 몰려오면 발동되는 마법 함정. 모든 공격자를 무기력하게 만든다.",
+      "cardEffect": "If three or more creatures are attacking, you may pay {U} rather than pay this spell's mana cost.\nAttacking creatures get -3/-0 until end of turn.",
+      "cardStats": {
+        "manaCost": "{3}{U}",
+        "typeLine": "Instant — Trap",
+        "rarity": "common",
+        "colors": [
+          "U"
+        ]
+      },
+      "flavorText": "Suddenly, Zurdi didn't care about treasure, glory, food . . . or the drakes circling above.",
+      "cardRef": {
+        "id": "351aa3f2-864a-4921-a01c-8712560087bb",
+        "name": "Lethargy Trap",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/3/5/351aa3f2-864a-4921-a01c-8712560087bb.jpg?1562611200"
+      },
+      "location": "",
+      "trigger": "",
+      "effect": "",
+      "danger": "",
+      "chapters": []
+    },
+    {
+      "id": "T-mkdptreo",
+      "createdAt": "2026-01-14T07:44:56.064Z",
+      "name": "Whiplash Trap",
+      "type": "커먼 함정",
+      "description": "If an opponent had two or more creatures enter the battlefield under their control this turn, you may pay {U} rather than pay this spell's mana cost.\nReturn two target creatures to their owners' hands.",
+      "loreDescription": "채찍질 함정. 둘 이상의 생물이 한 턴에 나타나면 발동되는 함정. 침입자들을 원래 있던 곳으로 돌려보낸다.",
+      "cardEffect": "If an opponent had two or more creatures enter the battlefield under their control this turn, you may pay {U} rather than pay this spell's mana cost.\nReturn two target creatures to their owners' hands.",
+      "cardStats": {
+        "manaCost": "{3}{U}{U}",
+        "typeLine": "Instant — Trap",
+        "rarity": "common",
+        "colors": [
+          "U"
+        ]
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "0a80e6ae-13e0-46f7-baef-5fa7dfcedcec",
+        "name": "Whiplash Trap",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/0/a/0a80e6ae-13e0-46f7-baef-5fa7dfcedcec.jpg?1562609704"
+      },
+      "location": "",
+      "trigger": "",
+      "effect": "",
+      "danger": "",
+      "chapters": []
     }
   ]
 }

@@ -361,7 +361,7 @@
       "type": "집중마법",
       "school": "W",
       "description": "You gain 2 life for each Plains you control.",
-      "loreDescription": "대지 결속 의식. 땅과 연결되어 생명력을 회복하는 코르의 의식.",
+      "loreDescription": "반역의 낙인. 구울 드라즈 뱀파이어들이 사용하는 정신 지배 마법. 적의 생물을 일시적으로 빼앗아 조종하고, 전투 의욕까지 불태운다.",
       "cardEffect": "You gain 2 life for each Plains you control.",
       "cardStats": {
         "manaCost": "{3}{W}{W}",
@@ -382,7 +382,8 @@
       "effect": "",
       "requirements": [],
       "practitioners": [],
-      "chapters": []
+      "chapters": [],
+      "updatedAt": "2026-01-14T07:54:13.912Z"
     },
     {
       "id": "M-mkcgahj6",
@@ -391,7 +392,7 @@
       "type": "집중마법",
       "school": "R",
       "description": "Gain control of target creature until end of turn. Put a +1/+1 counter on it and untap it. That creature gains haste until end of turn. (It can attack and {T} this turn.)",
-      "loreDescription": "반역의 표식. 적의 마음을 일시적으로 빼앗는 마법.",
+      "loreDescription": "반역의 낙인. 구울 드라즈 뱀파이어들이 사용하는 정신 지배 마법. 적의 생물을 일시적으로 빼앗아 조종하고, 전투 의욕까지 불태운다.",
       "cardEffect": "Gain control of target creature until end of turn. Put a +1/+1 counter on it and untap it. That creature gains haste until end of turn. (It can attack and {T} this turn.)",
       "cardStats": {
         "manaCost": "{2}{R}",
@@ -797,6 +798,1064 @@
         "name": "Windborne Charge",
         "set": "zen",
         "image": "https://cards.scryfall.io/normal/front/9/a/9a8b0fd3-ae3e-41eb-b31b-d941b84b6c64.jpg?1562614686"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkdptrep",
+      "createdAt": "2026-01-14T07:44:56.065Z",
+      "name": "Beast Hunt",
+      "type": "집중마법",
+      "school": "G",
+      "description": "Reveal the top three cards of your library. Put all creature cards revealed this way into your hand and the rest into your graveyard.",
+      "loreDescription": "야수 사냥. 무라사 엘프 드루이드들의 소환 기술. 서고에서 생물 카드를 찾아내어 손에 더하는 자연과의 교감 마법.",
+      "cardEffect": "Reveal the top three cards of your library. Put all creature cards revealed this way into your hand and the rest into your graveyard.",
+      "cardStats": {
+        "manaCost": "{3}{G}",
+        "typeLine": "Sorcery",
+        "rarity": "common",
+        "colors": [
+          "G"
+        ]
+      },
+      "flavorText": "\"Surely we could tame something besides hurdas and pillarfield oxen!\"\n—Sheyda, Ondu gamekeeper",
+      "cardRef": {
+        "id": "46465b5f-26fa-4a07-9dc9-55486edee31a",
+        "name": "Beast Hunt",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/4/6/46465b5f-26fa-4a07-9dc9-55486edee31a.jpg?1562611805"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": [],
+      "updatedAt": "2026-01-14T07:53:30.258Z"
+    },
+    {
+      "id": "M-mkdptreq",
+      "createdAt": "2026-01-14T07:44:56.066Z",
+      "name": "Bold Defense",
+      "type": "순간마법",
+      "school": "W",
+      "description": "Kicker {3}{W} (You may pay an additional {3}{W} as you cast this spell.)\nCreatures you control get +1/+1 until end of turn. If this spell was kicked, instead creatures you control get +2/+2 and gain first strike until end of turn.",
+      "loreDescription": "대담한 방어. 코르 전사들의 방어 기술. 위기의 순간 아군을 강화한다.",
+      "cardEffect": "Kicker {3}{W} (You may pay an additional {3}{W} as you cast this spell.)\nCreatures you control get +1/+1 until end of turn. If this spell was kicked, instead creatures you control get +2/+2 and gain first strike until end of turn.",
+      "cardStats": {
+        "manaCost": "{2}{W}",
+        "typeLine": "Instant",
+        "rarity": "common",
+        "colors": [
+          "W"
+        ]
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "5f657723-dd5d-4786-9d9b-ac7ed279615a",
+        "name": "Bold Defense",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/5/f/5f657723-dd5d-4786-9d9b-ac7ed279615a.jpg?1562612676"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkdptrer",
+      "createdAt": "2026-01-14T07:44:56.067Z",
+      "name": "Burst Lightning",
+      "type": "순간마법",
+      "school": "R",
+      "description": "Kicker {4} (You may pay an additional {4} as you cast this spell.)\nBurst Lightning deals 2 damage to any target. If this spell was kicked, it deals 4 damage instead.",
+      "loreDescription": "철거. 아쿰 고블린들이 즐겨 사용하는 파괴 마법. 건물이든 마법 물품이든 가리지 않고 산산조각 낸다.",
+      "cardEffect": "Kicker {4} (You may pay an additional {4} as you cast this spell.)\nBurst Lightning deals 2 damage to any target. If this spell was kicked, it deals 4 damage instead.",
+      "cardStats": {
+        "manaCost": "{R}",
+        "typeLine": "Instant",
+        "rarity": "common",
+        "colors": [
+          "R"
+        ]
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "2dc16614-5cf8-444d-a5ae-cac25018af68",
+        "name": "Burst Lightning",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/2/d/2dc16614-5cf8-444d-a5ae-cac25018af68.jpg?1562610949"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": [],
+      "updatedAt": "2026-01-14T07:54:13.915Z"
+    },
+    {
+      "id": "M-mkdptrer",
+      "createdAt": "2026-01-14T07:44:56.067Z",
+      "name": "Cancel",
+      "type": "순간마법",
+      "school": "U",
+      "description": "Counter target spell.",
+      "loreDescription": "취소. 기본적인 대항 마법. 상대의 주문을 무효화한다.",
+      "cardEffect": "Counter target spell.",
+      "cardStats": {
+        "manaCost": "{1}{U}{U}",
+        "typeLine": "Instant",
+        "rarity": "common",
+        "colors": [
+          "U"
+        ]
+      },
+      "flavorText": "Zendikar's volatile mana is the basis for many spectacular spells—and some equally astonishing failures.",
+      "cardRef": {
+        "id": "9e557f54-3d9d-4610-a0d0-5874feacc76e",
+        "name": "Cancel",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/9/e/9e557f54-3d9d-4610-a0d0-5874feacc76e.jpg?1562614848"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkdptrer",
+      "createdAt": "2026-01-14T07:44:56.067Z",
+      "name": "Demolish",
+      "type": "집중마법",
+      "school": "R",
+      "description": "Destroy target artifact or land.",
+      "loreDescription": "철거. 아쿰 고블린들이 즐겨 사용하는 파괴 마법. 건물이든 마법 물품이든 가리지 않고 산산조각 낸다.",
+      "cardEffect": "Destroy target artifact or land.",
+      "cardStats": {
+        "manaCost": "{3}{R}",
+        "typeLine": "Sorcery",
+        "rarity": "common",
+        "colors": [
+          "R"
+        ]
+      },
+      "flavorText": "\"This is why I hate settlements. They lull you into a false sense of security.\"\n—Yon Basrel, Oran-Rief survivalist",
+      "cardRef": {
+        "id": "6c0df49a-b60b-4987-aa99-36791a30f453",
+        "name": "Demolish",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/6/c/6c0df49a-b60b-4987-aa99-36791a30f453.jpg?1562613086"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkdptres",
+      "createdAt": "2026-01-14T07:44:56.068Z",
+      "name": "Desecrated Earth",
+      "type": "집중마법",
+      "school": "B",
+      "description": "Destroy target land. Its controller discards a card.",
+      "loreDescription": "더럽혀진 땅. 구울 드라즈의 저주. 대상의 땅을 파괴하고 손패를 버리게 한다.",
+      "cardEffect": "Destroy target land. Its controller discards a card.",
+      "cardStats": {
+        "manaCost": "{4}{B}",
+        "typeLine": "Sorcery",
+        "rarity": "common",
+        "colors": [
+          "B"
+        ]
+      },
+      "flavorText": "\"The land is swollen with mana, cursed relics, and secrets. If you puncture it, you never know what will burst out.\"\n—Javad Nasrin, Ondu relic hunter",
+      "cardRef": {
+        "id": "3f05e478-8712-41de-94af-ecb90432e562",
+        "name": "Desecrated Earth",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/3/f/3f05e478-8712-41de-94af-ecb90432e562.jpg?1562611530"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkdptres",
+      "createdAt": "2026-01-14T07:44:56.068Z",
+      "name": "Disfigure",
+      "type": "순간마법",
+      "school": "B",
+      "description": "Target creature gets -2/-2 until end of turn.",
+      "loreDescription": "일그러뜨리기. 구울 드라즈의 저주 마법. 대상을 약화시킨다.",
+      "cardEffect": "Target creature gets -2/-2 until end of turn.",
+      "cardStats": {
+        "manaCost": "{B}",
+        "typeLine": "Instant",
+        "rarity": "common",
+        "colors": [
+          "B"
+        ]
+      },
+      "flavorText": "\"Brave scar or unfortunate tale? It all depends on your pain threshold.\"",
+      "cardRef": {
+        "id": "b3842ad2-a449-4963-8c96-276554125757",
+        "name": "Disfigure",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/b/3/b3842ad2-a449-4963-8c96-276554125757.jpg?1562615664"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkdptres",
+      "createdAt": "2026-01-14T07:44:56.068Z",
+      "name": "Goblin War Paint",
+      "type": "오라 마법",
+      "school": "R",
+      "description": "Enchant creature\nEnchanted creature gets +2/+2 and has haste.",
+      "loreDescription": "고블린 전쟁 물감. 착용자에게 신속과 힘을 부여하는 고블린 마법.",
+      "cardEffect": "Enchant creature\nEnchanted creature gets +2/+2 and has haste.",
+      "cardStats": {
+        "manaCost": "{1}{R}",
+        "typeLine": "Enchantment — Aura",
+        "rarity": "common",
+        "colors": [
+          "R"
+        ]
+      },
+      "flavorText": "War paint made from kolya fruit heightens senses and lessens fear. Unfortunately, fear is usually what keeps you alive.",
+      "cardRef": {
+        "id": "4388e57e-0c87-4d66-a862-58261d76c5ac",
+        "name": "Goblin War Paint",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/4/3/4388e57e-0c87-4d66-a862-58261d76c5ac.jpg?1562611722"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkdptret",
+      "createdAt": "2026-01-14T07:44:56.069Z",
+      "name": "Grim Discovery",
+      "type": "집중마법",
+      "school": "B",
+      "description": "Choose one or both —\n• Return target creature card from your graveyard to your hand.\n• Return target land card from your graveyard to your hand.",
+      "loreDescription": "암울한 발견. 구울 드라즈의 사령술. 무덤에서 생물과 땅의 기억을 되살려 손에 되돌린다. 죽음에서 힘을 얻는 마법.",
+      "cardEffect": "Choose one or both —\n• Return target creature card from your graveyard to your hand.\n• Return target land card from your graveyard to your hand.",
+      "cardStats": {
+        "manaCost": "{1}{B}",
+        "typeLine": "Sorcery",
+        "rarity": "common",
+        "colors": [
+          "B"
+        ]
+      },
+      "flavorText": "Few among the living understand just how much of their world is shaped by the ruins of the dead.",
+      "cardRef": {
+        "id": "4eeec3f1-1f12-4237-95ec-54bbc9a901f9",
+        "name": "Grim Discovery",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/4/e/4eeec3f1-1f12-4237-95ec-54bbc9a901f9.jpg?1562612086"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": [],
+      "updatedAt": "2026-01-14T07:53:30.259Z"
+    },
+    {
+      "id": "M-mkdptret",
+      "createdAt": "2026-01-14T07:44:56.069Z",
+      "name": "Harrow",
+      "type": "순간마법",
+      "school": "G",
+      "description": "As an additional cost to cast this spell, sacrifice a land.\nSearch your library for up to two basic land cards, put them onto the battlefield, then shuffle.",
+      "loreDescription": "땅 갈기. 자신의 땅을 희생해 더 많은 땅을 찾는 드루이드 마법.",
+      "cardEffect": "As an additional cost to cast this spell, sacrifice a land.\nSearch your library for up to two basic land cards, put them onto the battlefield, then shuffle.",
+      "cardStats": {
+        "manaCost": "{2}{G}",
+        "typeLine": "Instant",
+        "rarity": "common",
+        "colors": [
+          "G"
+        ]
+      },
+      "flavorText": "The Roil redraws the world as it passes, leaving only the hedrons unchanged.",
+      "cardRef": {
+        "id": "e309c1fc-3a7c-4624-8b48-9b152c2590ae",
+        "name": "Harrow",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/e/3/e309c1fc-3a7c-4624-8b48-9b152c2590ae.jpg?1562617636"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkdptret",
+      "createdAt": "2026-01-14T07:44:56.069Z",
+      "name": "Hideous End",
+      "type": "순간마법",
+      "school": "B",
+      "description": "Destroy target nonblack creature. Its controller loses 2 life.",
+      "loreDescription": "끔찍한 최후. 뱀파이어의 처형 마법. 흑마법이 아닌 생물을 즉사시킨다.",
+      "cardEffect": "Destroy target nonblack creature. Its controller loses 2 life.",
+      "cardStats": {
+        "manaCost": "{1}{B}{B}",
+        "typeLine": "Instant",
+        "rarity": "common",
+        "colors": [
+          "B"
+        ]
+      },
+      "flavorText": "\"A little dark magic won't stop me. The worse the curse, the better the prize.\"\n—Radavi, Joraga relic hunter, last words",
+      "cardRef": {
+        "id": "30a09ee1-99d9-432f-a4e2-a1377edef9d2",
+        "name": "Hideous End",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/3/0/30a09ee1-99d9-432f-a4e2-a1377edef9d2.jpg?1562611039"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkdptreu",
+      "createdAt": "2026-01-14T07:44:56.070Z",
+      "name": "Into the Roil",
+      "type": "순간마법",
+      "school": "U",
+      "description": "Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)\nReturn target nonland permanent to its owner's hand. If this spell was kicked, draw a card.",
+      "loreDescription": "로완 속으로. 젠디카르 특유의 마법. 대상을 손으로 돌려보낸다.",
+      "cardEffect": "Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)\nReturn target nonland permanent to its owner's hand. If this spell was kicked, draw a card.",
+      "cardStats": {
+        "manaCost": "{1}{U}",
+        "typeLine": "Instant",
+        "rarity": "common",
+        "colors": [
+          "U"
+        ]
+      },
+      "flavorText": "\"Roil tide! Roil tide! Tie yourselves down!\"",
+      "cardRef": {
+        "id": "5dba9972-dd8b-407b-9374-a8f0ed1a96db",
+        "name": "Into the Roil",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/5/d/5dba9972-dd8b-407b-9374-a8f0ed1a96db.jpg?1562612627"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkdptreu",
+      "createdAt": "2026-01-14T07:44:56.070Z",
+      "name": "Ior Ruin Expedition",
+      "type": "탐험 (Expedition)",
+      "school": "U",
+      "description": "Landfall — Whenever a land you control enters, you may put a quest counter on this enchantment.\nRemove three quest counters from this enchantment and sacrifice it: Draw two cards.",
+      "loreDescription": "이오르 유적 탐험. 탐험 카운터를 모아 카드를 뽑는 마법.",
+      "cardEffect": "Landfall — Whenever a land you control enters, you may put a quest counter on this enchantment.\nRemove three quest counters from this enchantment and sacrifice it: Draw two cards.",
+      "cardStats": {
+        "manaCost": "{1}{U}",
+        "typeLine": "Enchantment",
+        "rarity": "common",
+        "colors": [
+          "U"
+        ]
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "2acdba29-3a09-42d4-bce2-ce615c36bb3c",
+        "name": "Ior Ruin Expedition",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/2/a/2acdba29-3a09-42d4-bce2-ce615c36bb3c.jpg?1562610836"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkdptrev",
+      "createdAt": "2026-01-14T07:44:56.071Z",
+      "name": "Journey to Nowhere",
+      "type": "순간마법",
+      "school": "W",
+      "description": "When this enchantment enters, exile target creature.\nWhen this enchantment leaves the battlefield, return the exiled card to the battlefield under its owner's control.",
+      "loreDescription": "어디론가의 여행. 대상을 다른 차원으로 추방하는 마법.",
+      "cardEffect": "When this enchantment enters, exile target creature.\nWhen this enchantment leaves the battlefield, return the exiled card to the battlefield under its owner's control.",
+      "cardStats": {
+        "manaCost": "{1}{W}",
+        "typeLine": "Enchantment",
+        "rarity": "common",
+        "colors": [
+          "W"
+        ]
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "09cfe585-8a55-4b27-89e0-dfb6946fe1f3",
+        "name": "Journey to Nowhere",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/0/9/09cfe585-8a55-4b27-89e0-dfb6946fe1f3.jpg?1562609681"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkdptrev",
+      "createdAt": "2026-01-14T07:44:56.071Z",
+      "name": "Khalni Heart Expedition",
+      "type": "탐험 (Expedition)",
+      "school": "G",
+      "description": "Landfall — Whenever a land you control enters, you may put a quest counter on this enchantment.\nRemove three quest counters from this enchantment and sacrifice it: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",
+      "loreDescription": "칼니 심장 탐험. 탐험 카운터를 모아 땅을 찾는 마법.",
+      "cardEffect": "Landfall — Whenever a land you control enters, you may put a quest counter on this enchantment.\nRemove three quest counters from this enchantment and sacrifice it: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",
+      "cardStats": {
+        "manaCost": "{1}{G}",
+        "typeLine": "Enchantment",
+        "rarity": "common",
+        "colors": [
+          "G"
+        ]
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "797d8cd6-fc6b-4560-9c6f-1a867dfce85a",
+        "name": "Khalni Heart Expedition",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/7/9/797d8cd6-fc6b-4560-9c6f-1a867dfce85a.jpg?1562613591"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkdptrev",
+      "createdAt": "2026-01-14T07:44:56.071Z",
+      "name": "Magma Rift",
+      "type": "집중마법",
+      "school": "R",
+      "description": "As an additional cost to cast this spell, sacrifice a land.\nMagma Rift deals 5 damage to target creature.",
+      "loreDescription": "마그마 균열. 화산의 힘으로 대지를 파괴하며 적을 공격.",
+      "cardEffect": "As an additional cost to cast this spell, sacrifice a land.\nMagma Rift deals 5 damage to target creature.",
+      "cardStats": {
+        "manaCost": "{2}{R}",
+        "typeLine": "Sorcery",
+        "rarity": "common",
+        "colors": [
+          "R"
+        ]
+      },
+      "flavorText": "\"Lighting a fire needs kindling and heat. You be the kindling. I'll bring the heat.\"\n—Chandra Nalaar",
+      "cardRef": {
+        "id": "ee526306-6959-421c-9969-3c19b666d6da",
+        "name": "Magma Rift",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/e/e/ee526306-6959-421c-9969-3c19b666d6da.jpg?1562618072"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkdptrew",
+      "createdAt": "2026-01-14T07:44:56.072Z",
+      "name": "Mire Blight",
+      "type": "오라 마법",
+      "school": "B",
+      "description": "Enchant creature\nWhen enchanted creature is dealt damage, destroy it.",
+      "loreDescription": "적운 날개. 에메리아의 축복으로 비행 능력을 부여하는 마법. 날개가 없는 생물도 하늘을 날 수 있게 해준다.",
+      "cardEffect": "Enchant creature\nWhen enchanted creature is dealt damage, destroy it.",
+      "cardStats": {
+        "manaCost": "{B}",
+        "typeLine": "Enchantment — Aura",
+        "rarity": "common",
+        "colors": [
+          "B"
+        ]
+      },
+      "flavorText": "\"Is there anything in Guul Draz that *doesn't* suck the life out of you?\"\n—Tarsa, Sea Gate sell-sword",
+      "cardRef": {
+        "id": "1e63238d-a022-4ea1-a83d-0b2260d56a17",
+        "name": "Mire Blight",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/1/e/1e63238d-a022-4ea1-a83d-0b2260d56a17.jpg?1562610410"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": [],
+      "updatedAt": "2026-01-14T07:54:13.916Z"
+    },
+    {
+      "id": "M-mkdptrew",
+      "createdAt": "2026-01-14T07:44:56.072Z",
+      "name": "Narrow Escape",
+      "type": "순간마법",
+      "school": "W",
+      "description": "Return target permanent you control to its owner's hand. You gain 4 life.",
+      "loreDescription": "아슬아슬한 탈출. 위기의 순간 자신의 것을 구해내는 마법.",
+      "cardEffect": "Return target permanent you control to its owner's hand. You gain 4 life.",
+      "cardStats": {
+        "manaCost": "{2}{W}",
+        "typeLine": "Instant",
+        "rarity": "common",
+        "colors": [
+          "W"
+        ]
+      },
+      "flavorText": "\"A good explorer has to be as slippery as a gomazoa, as tough as a scute bug, and luckier than a ten-fingered trapfinder.\"\n—Arhana, Kazandu trapfinder",
+      "cardRef": {
+        "id": "2c9942a2-11d2-403b-89c6-35c23ac9e9da",
+        "name": "Narrow Escape",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/2/c/2c9942a2-11d2-403b-89c6-35c23ac9e9da.jpg?1562610923"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkdptrew",
+      "createdAt": "2026-01-14T07:44:56.072Z",
+      "name": "Nimbus Wings",
+      "type": "오라 마법",
+      "school": "W",
+      "description": "Enchant creature\nEnchanted creature gets +1/+2 and has flying.",
+      "loreDescription": "적운 날개. 에메리아의 축복으로 비행 능력을 부여하는 마법. 날개가 없는 생물도 하늘을 날 수 있게 해준다.",
+      "cardEffect": "Enchant creature\nEnchanted creature gets +1/+2 and has flying.",
+      "cardStats": {
+        "manaCost": "{1}{W}",
+        "typeLine": "Enchantment — Aura",
+        "rarity": "common",
+        "colors": [
+          "W"
+        ]
+      },
+      "flavorText": "Explorers may find ways into the Sky Ruin, but they find its secrets well protected by shifting hedrons and Roil winds.",
+      "cardRef": {
+        "id": "5dae4042-8806-437c-8fc1-2d6996ff38c6",
+        "name": "Nimbus Wings",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/5/d/5dae4042-8806-437c-8fc1-2d6996ff38c6.jpg?1562612624"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkdptrex",
+      "createdAt": "2026-01-14T07:44:56.073Z",
+      "name": "Paralyzing Grasp",
+      "type": "오라 마법",
+      "school": "U",
+      "description": "Enchant creature\nEnchanted creature doesn't untap during its controller's untap step.",
+      "loreDescription": "마비의 손아귀. 생물을 영원히 탭 상태로 만드는 마법.",
+      "cardEffect": "Enchant creature\nEnchanted creature doesn't untap during its controller's untap step.",
+      "cardStats": {
+        "manaCost": "{2}{U}",
+        "typeLine": "Enchantment — Aura",
+        "rarity": "common",
+        "colors": [
+          "U"
+        ]
+      },
+      "flavorText": "The Halimar Sea Caves are both the breeding ground of giant squids and the dumping ground of hardened criminals.",
+      "cardRef": {
+        "id": "4af35801-9280-4ec1-9399-e34501919a8f",
+        "name": "Paralyzing Grasp",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/4/a/4af35801-9280-4ec1-9399-e34501919a8f.jpg?1562611995"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkdptrey",
+      "createdAt": "2026-01-14T07:44:56.074Z",
+      "name": "Relic Crush",
+      "type": "순간마법",
+      "school": "G",
+      "description": "Destroy target artifact or enchantment and up to one other target artifact or enchantment.",
+      "loreDescription": "유물 파쇄. 엘프 드루이드들의 정화 마법. 문명의 산물인 마법진과 장비 둘을 동시에 파괴할 수 있는 강력한 자연의 힘.",
+      "cardEffect": "Destroy target artifact or enchantment and up to one other target artifact or enchantment.",
+      "cardStats": {
+        "manaCost": "{4}{G}",
+        "typeLine": "Instant",
+        "rarity": "common",
+        "colors": [
+          "G"
+        ]
+      },
+      "flavorText": "There are many ruins, but there used to be many more.",
+      "cardRef": {
+        "id": "01c924b2-3b10-4bb0-b51d-122bfdd298aa",
+        "name": "Relic Crush",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/0/1/01c924b2-3b10-4bb0-b51d-122bfdd298aa.jpg?1562609334"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": [],
+      "updatedAt": "2026-01-14T07:53:30.261Z"
+    },
+    {
+      "id": "M-mkdptrez",
+      "createdAt": "2026-01-14T07:44:56.075Z",
+      "name": "Savage Silhouette",
+      "type": "오라 마법",
+      "school": "G",
+      "description": "Enchant creature\nEnchanted creature gets +2/+2 and has \"{1}{G}: Regenerate this creature.\"",
+      "loreDescription": "방패동료의 축복. 코르 전사들이 동료를 지키기 위해 사용하는 순간 방어 마법. 피해를 크게 줄여준다.",
+      "cardEffect": "Enchant creature\nEnchanted creature gets +2/+2 and has \"{1}{G}: Regenerate this creature.\"",
+      "cardStats": {
+        "manaCost": "{2}{G}",
+        "typeLine": "Enchantment — Aura",
+        "rarity": "common",
+        "colors": [
+          "G"
+        ]
+      },
+      "flavorText": "Some elves believe that their survival instincts are born of many cycles of reincarnation.",
+      "cardRef": {
+        "id": "8b8547e0-2928-4edc-a15a-a613cb4d1eac",
+        "name": "Savage Silhouette",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/8/b/8b8547e0-2928-4edc-a15a-a613cb4d1eac.jpg?1562614205"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": [],
+      "updatedAt": "2026-01-14T07:54:13.917Z"
+    },
+    {
+      "id": "M-mkdptrez",
+      "createdAt": "2026-01-14T07:44:56.075Z",
+      "name": "Seismic Shudder",
+      "type": "순간마법",
+      "school": "R",
+      "description": "Seismic Shudder deals 1 damage to each creature without flying.",
+      "loreDescription": "지진파. 아쿰의 화산 마법. 날지 못하는 모든 것에 피해를 준다.",
+      "cardEffect": "Seismic Shudder deals 1 damage to each creature without flying.",
+      "cardStats": {
+        "manaCost": "{1}{R}",
+        "typeLine": "Instant",
+        "rarity": "common",
+        "colors": [
+          "R"
+        ]
+      },
+      "flavorText": "\"The land here seems to go out of its way to kill you.\"\n—Chandra Nalaar",
+      "cardRef": {
+        "id": "20365082-6102-4e3b-8791-c9b66846270d",
+        "name": "Seismic Shudder",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/2/0/20365082-6102-4e3b-8791-c9b66846270d.jpg?1562610483"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkdptrez",
+      "createdAt": "2026-01-14T07:44:56.075Z",
+      "name": "Shieldmate's Blessing",
+      "type": "순간마법",
+      "school": "W",
+      "description": "Prevent the next 3 damage that would be dealt to any target this turn.",
+      "loreDescription": "방패동료의 축복. 코르 전사들이 동료를 지키기 위해 사용하는 순간 방어 마법. 피해를 크게 줄여준다.",
+      "cardEffect": "Prevent the next 3 damage that would be dealt to any target this turn.",
+      "cardStats": {
+        "manaCost": "{W}",
+        "typeLine": "Instant",
+        "rarity": "common",
+        "colors": [
+          "W"
+        ]
+      },
+      "flavorText": "\"Even land dwellers may call for Emeria's grace in times of need.\"\n—Emeria's Creed",
+      "cardRef": {
+        "id": "f58a26f8-a2c9-48e5-8662-7cbd43c00411",
+        "name": "Shieldmate's Blessing",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/f/5/f58a26f8-a2c9-48e5-8662-7cbd43c00411.jpg?1562618385"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkdptrf0",
+      "createdAt": "2026-01-14T07:44:56.076Z",
+      "name": "Slaughter Cry",
+      "type": "순간마법",
+      "school": "R",
+      "description": "Target creature gets +3/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)",
+      "loreDescription": "학살의 함성. 고블린 전사들의 전투 고함. 순간적으로 전투력을 폭발시킨다.",
+      "cardEffect": "Target creature gets +3/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)",
+      "cardStats": {
+        "manaCost": "{2}{R}",
+        "typeLine": "Instant",
+        "rarity": "common",
+        "colors": [
+          "R"
+        ]
+      },
+      "flavorText": "\"Since when did 'AIIIEEEE!' become a negotiation tactic?\"\n—Nikou, Joraga bard",
+      "cardRef": {
+        "id": "c93b0eda-693e-4a17-be1d-1df162702146",
+        "name": "Slaughter Cry",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/c/9/c93b0eda-693e-4a17-be1d-1df162702146.jpg?1562616534"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkdptrf0",
+      "createdAt": "2026-01-14T07:44:56.076Z",
+      "name": "Soul Stair Expedition",
+      "type": "탐험 (Expedition)",
+      "school": "B",
+      "description": "Landfall — Whenever a land you control enters, you may put a quest counter on this enchantment.\nRemove three quest counters from this enchantment and sacrifice it: Return up to two target creature cards from your graveyard to your hand.",
+      "loreDescription": "영혼 계단 탐험. 탐험 카운터를 모아 무덤의 생물을 되찾는 마법.",
+      "cardEffect": "Landfall — Whenever a land you control enters, you may put a quest counter on this enchantment.\nRemove three quest counters from this enchantment and sacrifice it: Return up to two target creature cards from your graveyard to your hand.",
+      "cardStats": {
+        "manaCost": "{B}",
+        "typeLine": "Enchantment",
+        "rarity": "common",
+        "colors": [
+          "B"
+        ]
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "902d03cd-2df7-4f87-ab99-fd52f0df6339",
+        "name": "Soul Stair Expedition",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/9/0/902d03cd-2df7-4f87-ab99-fd52f0df6339.jpg?1562614359"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkdptrf1",
+      "createdAt": "2026-01-14T07:44:56.077Z",
+      "name": "Spell Pierce",
+      "type": "순간마법",
+      "school": "U",
+      "description": "Counter target noncreature spell unless its controller pays {2}.",
+      "loreDescription": "퍼지는 바다. 머포크 럴마법사들의 영역 변환 마법. 적의 땅을 섬으로 바꾸어 자신의 영역으로 만든다.",
+      "cardEffect": "Counter target noncreature spell unless its controller pays {2}.",
+      "cardStats": {
+        "manaCost": "{U}",
+        "typeLine": "Instant",
+        "rarity": "common",
+        "colors": [
+          "U"
+        ]
+      },
+      "flavorText": "\"There's a hole in your plan.\"\n—Noyan Dar, Tazeem lullmage",
+      "cardRef": {
+        "id": "cb3d3901-e4a6-45ab-a7b5-c65d91e1875e",
+        "name": "Spell Pierce",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/c/b/cb3d3901-e4a6-45ab-a7b5-c65d91e1875e.jpg?1562616640"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": [],
+      "updatedAt": "2026-01-14T07:54:13.920Z"
+    },
+    {
+      "id": "M-mkdptrf1",
+      "createdAt": "2026-01-14T07:44:56.077Z",
+      "name": "Spire Barrage",
+      "type": "집중마법",
+      "school": "R",
+      "description": "Spire Barrage deals damage to any target equal to the number of Mountains you control.",
+      "loreDescription": "첨탑 포격. 아쿰 화염술사들의 마법. 자신이 지배하는 산이 많을수록 더 강력한 화염을 쏟아붓는다.",
+      "cardEffect": "Spire Barrage deals damage to any target equal to the number of Mountains you control.",
+      "cardStats": {
+        "manaCost": "{4}{R}",
+        "typeLine": "Sorcery",
+        "rarity": "common",
+        "colors": [
+          "R"
+        ]
+      },
+      "flavorText": "Goblin lessons include the 2,071 tips for survival. Frek only remembered 2,070.",
+      "cardRef": {
+        "id": "f8c8fe2a-3203-4545-bb25-b1f107b13cca",
+        "name": "Spire Barrage",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/f/8/f8c8fe2a-3203-4545-bb25-b1f107b13cca.jpg?1562618516"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkdptrf1",
+      "createdAt": "2026-01-14T07:44:56.077Z",
+      "name": "Spreading Seas",
+      "type": "오라 마법",
+      "school": "U",
+      "description": "Enchant land\nWhen this Aura enters, draw a card.\nEnchanted land is an Island.",
+      "loreDescription": "퍼지는 바다. 머포크 럴마법사들의 영역 변환 마법. 적의 땅을 섬으로 바꾸어 자신의 영역으로 만든다.",
+      "cardEffect": "Enchant land\nWhen this Aura enters, draw a card.\nEnchanted land is an Island.",
+      "cardStats": {
+        "manaCost": "{1}{U}",
+        "typeLine": "Enchantment — Aura",
+        "rarity": "common",
+        "colors": [
+          "U"
+        ]
+      },
+      "flavorText": "Most inhabitants of Zendikar have given up on the idea of an accurate map.",
+      "cardRef": {
+        "id": "37454c1c-4098-4ac2-884e-3f65f1384bdb",
+        "name": "Spreading Seas",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/3/7/37454c1c-4098-4ac2-884e-3f65f1384bdb.jpg?1562611277"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkdptrf2",
+      "createdAt": "2026-01-14T07:44:56.078Z",
+      "name": "Sunspring Expedition",
+      "type": "탐험 (Expedition)",
+      "school": "W",
+      "description": "Landfall — Whenever a land you control enters, you may put a quest counter on this enchantment.\nRemove three quest counters from this enchantment and sacrifice it: You gain 8 life.",
+      "loreDescription": "태양샘 탐험. 탐험 카운터를 모아 생명력을 얻는 마법.",
+      "cardEffect": "Landfall — Whenever a land you control enters, you may put a quest counter on this enchantment.\nRemove three quest counters from this enchantment and sacrifice it: You gain 8 life.",
+      "cardStats": {
+        "manaCost": "{W}",
+        "typeLine": "Enchantment",
+        "rarity": "common",
+        "colors": [
+          "W"
+        ]
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "b0811c4c-9e91-4785-b3d2-e4221c5d92d8",
+        "name": "Sunspring Expedition",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/b/0/b0811c4c-9e91-4785-b3d2-e4221c5d92d8.jpg?1562615535"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkdptrf2",
+      "createdAt": "2026-01-14T07:44:56.078Z",
+      "name": "Tanglesap",
+      "type": "순간마법",
+      "school": "G",
+      "description": "Prevent all combat damage that would be dealt this turn by creatures without trample.",
+      "loreDescription": "엉킴 수액. 무라사 숲의 덩굴 마법. 비행 없는 생물의 피해를 막는다.",
+      "cardEffect": "Prevent all combat damage that would be dealt this turn by creatures without trample.",
+      "cardStats": {
+        "manaCost": "{1}{G}",
+        "typeLine": "Instant",
+        "rarity": "common",
+        "colors": [
+          "G"
+        ]
+      },
+      "flavorText": "\"The blood of the forest is beholden to no one.\"\n—Nissa Revane",
+      "cardRef": {
+        "id": "a3c4e15b-7460-4d61-a209-6de27e4df6bb",
+        "name": "Tanglesap",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/a/3/a3c4e15b-7460-4d61-a209-6de27e4df6bb.jpg?1562615093"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkdptrf3",
+      "createdAt": "2026-01-14T07:44:56.079Z",
+      "name": "Trapfinder's Trick",
+      "type": "집중마법",
+      "school": "U",
+      "description": "Target player reveals their hand and discards all Trap cards.",
+      "loreDescription": "뱀파이어의 이빨. 구울 드라즈의 흡혈 마법. 대상에게 흡혈 능력을 부여하고, 키커로 강화하면 더욱 강력한 힘을 준다.",
+      "cardEffect": "Target player reveals their hand and discards all Trap cards.",
+      "cardStats": {
+        "manaCost": "{1}{U}",
+        "typeLine": "Sorcery",
+        "rarity": "common",
+        "colors": [
+          "U"
+        ]
+      },
+      "flavorText": "\"At some point, every trapfinder will lose a hunk of flesh. It's just a question of how much—and whether it'll grow back.\"\n—Arhana, Kazandu trapfinder",
+      "cardRef": {
+        "id": "0c9dfda7-c034-478e-a52a-e4a272c7d160",
+        "name": "Trapfinder's Trick",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/0/c/0c9dfda7-c034-478e-a52a-e4a272c7d160.jpg?1562609766"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": [],
+      "updatedAt": "2026-01-14T07:54:13.922Z"
+    },
+    {
+      "id": "M-mkdptrf3",
+      "createdAt": "2026-01-14T07:44:56.079Z",
+      "name": "Vampire's Bite",
+      "type": "순간마법",
+      "school": "B",
+      "description": "Kicker {2}{B} (You may pay an additional {2}{B} as you cast this spell.)\nTarget creature gets +3/+0 until end of turn. If this spell was kicked, that creature gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)",
+      "loreDescription": "뱀파이어의 이빨. 구울 드라즈의 흡혈 마법. 대상에게 흡혈 능력을 부여하고, 키커로 강화하면 더욱 강력한 힘을 준다.",
+      "cardEffect": "Kicker {2}{B} (You may pay an additional {2}{B} as you cast this spell.)\nTarget creature gets +3/+0 until end of turn. If this spell was kicked, that creature gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)",
+      "cardStats": {
+        "manaCost": "{B}",
+        "typeLine": "Instant",
+        "rarity": "common",
+        "colors": [
+          "B"
+        ]
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "6460a752-e5a7-4fd0-9ae5-e0773b86f19b",
+        "name": "Vampire's Bite",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/6/4/6460a752-e5a7-4fd0-9ae5-e0773b86f19b.jpg?1562612826"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkdptrf4",
+      "createdAt": "2026-01-14T07:44:56.080Z",
+      "name": "Vines of Vastwood",
+      "type": "순간마법",
+      "school": "G",
+      "description": "Kicker {G} (You may pay an additional {G} as you cast this spell.)\nTarget creature can't be the target of spells or abilities your opponents control this turn. If this spell was kicked, that creature gets +4/+4 until end of turn.",
+      "loreDescription": "광활한 숲의 덩굴. 대상을 보호하고 강화하는 엘프 마법.",
+      "cardEffect": "Kicker {G} (You may pay an additional {G} as you cast this spell.)\nTarget creature can't be the target of spells or abilities your opponents control this turn. If this spell was kicked, that creature gets +4/+4 until end of turn.",
+      "cardStats": {
+        "manaCost": "{G}",
+        "typeLine": "Instant",
+        "rarity": "common",
+        "colors": [
+          "G"
+        ]
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "e8bd8b10-de86-4bb6-b49f-6ccb5297c81c",
+        "name": "Vines of Vastwood",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/e/8/e8bd8b10-de86-4bb6-b49f-6ccb5297c81c.jpg?1562617865"
+      },
+      "difficulty": "",
+      "effect": "",
+      "requirements": [],
+      "practitioners": [],
+      "chapters": []
+    },
+    {
+      "id": "M-mkdptrf4",
+      "createdAt": "2026-01-14T07:44:56.080Z",
+      "name": "Zektar Shrine Expedition",
+      "type": "탐험 (Expedition)",
+      "school": "R",
+      "description": "Landfall — Whenever a land you control enters, you may put a quest counter on this enchantment.\nRemove three quest counters from this enchantment and sacrifice it: Create a 7/1 red Elemental creature token with trample and haste. Exile it at the beginning of the next end step.",
+      "loreDescription": "젝타르 신전 탐험. 탐험 카운터를 모아 거대한 정령을 소환하는 마법.",
+      "cardEffect": "Landfall — Whenever a land you control enters, you may put a quest counter on this enchantment.\nRemove three quest counters from this enchantment and sacrifice it: Create a 7/1 red Elemental creature token with trample and haste. Exile it at the beginning of the next end step.",
+      "cardStats": {
+        "manaCost": "{1}{R}",
+        "typeLine": "Enchantment",
+        "rarity": "common",
+        "colors": [
+          "R"
+        ]
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "f12d2c01-0ef2-40e6-8c7d-8512e2c8c074",
+        "name": "Zektar Shrine Expedition",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/f/1/f12d2c01-0ef2-40e6-8c7d-8512e2c8c074.jpg?1562618196"
       },
       "difficulty": "",
       "effect": "",

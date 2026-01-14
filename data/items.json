@@ -280,6 +280,110 @@
       "origin": "",
       "owner": null,
       "chapters": []
+    },
+    {
+      "id": "I-mkdptren",
+      "createdAt": "2026-01-14T07:44:56.063Z",
+      "name": "Adventuring Gear",
+      "type": "Equipment",
+      "description": "Landfall — Whenever a land you control enters, equipped creature gets +2/+2 until end of turn.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",
+      "loreDescription": "모험가의 장비. 젠디카르 탐험가의 필수품. 새로운 땅을 발견할 때마다 착용자를 강화시킨다.",
+      "cardEffect": "Landfall — Whenever a land you control enters, equipped creature gets +2/+2 until end of turn.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",
+      "cardStats": {
+        "manaCost": "{1}",
+        "typeLine": "Artifact — Equipment",
+        "rarity": "common"
+      },
+      "flavorText": "An explorer's essentials in a wild world.",
+      "cardRef": {
+        "id": "3aa395f2-656e-4bf3-bd9b-6240bd3e2774",
+        "name": "Adventuring Gear",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/3/a/3aa395f2-656e-4bf3-bd9b-6240bd3e2774.jpg?1562611375"
+      },
+      "rarity": "",
+      "abilities": [],
+      "origin": "",
+      "owner": null,
+      "chapters": []
+    },
+    {
+      "id": "I-mkdptren",
+      "createdAt": "2026-01-14T07:44:56.063Z",
+      "name": "Expedition Map",
+      "type": "Artifact",
+      "description": "{2}, {T}, Sacrifice this artifact: Search your library for a land card, reveal it, put it into your hand, then shuffle.",
+      "loreDescription": "탐험 지도. 젠디카르의 변화무쌍한 지형을 기록한 마법 지도. 원하는 땅을 찾아준다.",
+      "cardEffect": "{2}, {T}, Sacrifice this artifact: Search your library for a land card, reveal it, put it into your hand, then shuffle.",
+      "cardStats": {
+        "manaCost": "{1}",
+        "typeLine": "Artifact",
+        "rarity": "common"
+      },
+      "flavorText": "\"I use maps to find out where explorers have already been. Then I go the other way.\"\n—Javad Nasrin, Ondu relic hunter",
+      "cardRef": {
+        "id": "c55bee97-593f-441f-b96c-a998d5212a55",
+        "name": "Expedition Map",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/c/5/c55bee97-593f-441f-b96c-a998d5212a55.jpg?1562616395"
+      },
+      "rarity": "",
+      "abilities": [],
+      "origin": "",
+      "owner": null,
+      "chapters": []
+    },
+    {
+      "id": "I-mkdptren",
+      "createdAt": "2026-01-14T07:44:56.063Z",
+      "name": "Explorer's Scope",
+      "type": "Equipment",
+      "description": "Whenever equipped creature attacks, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",
+      "loreDescription": "탐험가의 망원경. 먼 곳의 땅을 살펴볼 수 있는 마법 장비. 때로는 새로운 땅을 발견하기도 한다.",
+      "cardEffect": "Whenever equipped creature attacks, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",
+      "cardStats": {
+        "manaCost": "{1}",
+        "typeLine": "Artifact — Equipment",
+        "rarity": "common"
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "ea3a9cdb-4842-44b3-8143-0fda31692600",
+        "name": "Explorer's Scope",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/e/a/ea3a9cdb-4842-44b3-8143-0fda31692600.jpg?1562617923"
+      },
+      "rarity": "",
+      "abilities": [],
+      "origin": "",
+      "owner": null,
+      "chapters": []
+    },
+    {
+      "id": "I-mkdptren",
+      "createdAt": "2026-01-14T07:44:56.063Z",
+      "name": "Spidersilk Net",
+      "type": "Equipment",
+      "description": "Equipped creature gets +0/+2 and has reach. (It can block creatures with flying.)\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+      "loreDescription": "거미줄 그물. 무라사 거미의 실로 만든 그물. 날아다니는 생물도 잡아낼 수 있다.",
+      "cardEffect": "Equipped creature gets +0/+2 and has reach. (It can block creatures with flying.)\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+      "cardStats": {
+        "manaCost": "{0}",
+        "typeLine": "Artifact — Equipment",
+        "rarity": "common"
+      },
+      "flavorText": "",
+      "cardRef": {
+        "id": "1f75f13e-43e6-4118-83a3-0446c2089d84",
+        "name": "Spidersilk Net",
+        "set": "zen",
+        "image": "https://cards.scryfall.io/normal/front/1/f/1f75f13e-43e6-4118-83a3-0446c2089d84.jpg?1562610457"
+      },
+      "rarity": "",
+      "abilities": [],
+      "origin": "",
+      "owner": null,
+      "chapters": []
     }
   ]
 }
